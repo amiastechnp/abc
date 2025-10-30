@@ -1,0 +1,49 @@
+[{
+        "id": 1,
+        "category_name": "सवारी सञ्चालन सम्बन्धी ज्ञान",
+        "category_name_en": "Knowledge related to vehicle operations",
+        "total_questions": "130",
+        "questions" : "6",
+        "identifier": "sawari_sanchalan"
+    },
+    {
+        "id": 2,
+        "category_name": "सवारी ऐन नियमसम्बन्धी ज्ञान",
+        "category_name_en": "Knowledge of traffic laws and regulations",
+        "total_questions": "90",
+        "questions" : "5",
+        "identifier": "sawari_ayin"
+    },
+    {
+        "id": 3,
+        "category_name": "सवारी साधनको प्राविधिक तथा यान्त्रिक ज्ञान",
+        "category_name_en": "Technical and mechanical knowledge of vehicles",
+        "total_questions": "80",
+        "questions" : "3",
+        "identifier": "sawari_sadhan"
+    },
+    {
+        "id": 4,
+        "category_name": "वातावरण प्रदूषण सम्बन्धी अवधारणात्मक ज्ञान",
+        "category_name_en": "Conceptual knowledge regarding environmental pollution",
+        "total_questions": "30",
+        "questions" : "2",
+        "identifier": "batabarn_pradusan"
+    },
+    {
+        "id": 5,
+        "category_name": "दुर्घटना सचेतना सम्बन्धी ज्ञान",
+        "category_name_en": "Knowledge related to accident awareness",
+        "total_questions": "60",
+        "questions" : "3",
+        "identifier": "durghatana_sachetana"
+    },
+    {
+        "id": 6,
+        "category_name": "ट्राफिक सङ्केत सम्बन्धी ज्ञान",
+        "category_name_en": "Knowledge of traffic signs",
+        "total_questions": "110",
+        "questions" : "6",
+        "identifier": "traffic_sign"
+    }
+]

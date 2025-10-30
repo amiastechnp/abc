@@ -1,0 +1,5990 @@
+[
+  {
+    "question": "Who should be given first priority at zebra crossings?",
+    "answers": [
+      "Men",
+      "Women",
+      "Cattle",
+      "Pedestrians"
+    ],
+    "correctAnswer": 4,
+    "category": 1,
+    "image": ""
+  },
+  {
+    "question": "How can you tell if a vehicle is moving slower than you?",
+    "answers": [
+      "By the brake light",
+      "From the driver's signal",
+      "By the driver's gesture",
+      "No"
+    ],
+    "correctAnswer": 1,
+    "category": 1,
+    "image": ""
+  },
+  {
+    "question": "Who should be given priority when crossing the road?",
+    "answers": [
+      "School students",
+      "Disabled individuals",
+      "Elderly citizens",
+      "All of the above"
+    ],
+    "correctAnswer": 4,
+    "category": 1,
+    "image": ""
+  },
+  {
+    "question": "Which vehicles should be given first priority on the road?",
+    "answers": [
+      "Hearse",
+      "Fire truck",
+      "Ambulance",
+      "All of the above"
+    ],
+    "correctAnswer": 4,
+    "category": 1,
+    "image": ""
+  },
+  {
+    "question": "What should you do to overtake the vehicle in front?",
+    "answers": [
+      "Use the headlight",
+      "Use the horn",
+      "Use the side indicator",
+      "All of the above"
+    ],
+    "correctAnswer": 4,
+    "category": 1,
+    "image": ""
+  },
+  {
+    "question": "Which side of the road is used for driving in Nepal?",
+    "answers": [
+      "Right side",
+      "Left side",
+      "Both sides",
+      "None of the above"
+    ],
+    "correctAnswer": 2,
+    "category": 1,
+    "image": ""
+  },
+  {
+    "question": "Which speed consumes the most fuel?",
+    "answers": [
+      "Slow speed",
+      "Medium speed",
+      "High speed",
+      "Slow and medium speed"
+    ],
+    "correctAnswer": 3,
+    "category": 1,
+    "image": ""
+  },
+  {
+    "question": "What should you do if an ambulance is approaching while you are driving?",
+    "answers": [
+      "Stop the vehicle",
+      "Give way",
+      "Increase your speed",
+      "Overtake"
+    ],
+    "correctAnswer": 2,
+    "category": 1,
+    "image": ""
+  },
+  {
+    "question": "On which type of road is it most dangerous if the brakes fail?",
+    "answers": [
+      "On a steep road",
+      "On a winding road",
+      "On a downhill road",
+      "On a slippery road"
+    ],
+    "correctAnswer": 2,
+    "category": 1,
+    "image": ""
+  },
+  {
+    "question": "At which speed is more fuel consumed?",
+    "answers": [
+      "Slow speed",
+      "Medium speed",
+      "High speed",
+      "All of the above"
+    ],
+    "correctAnswer": 1,
+    "category": 1,
+    "image": ""
+  },
+  {
+    "question": "Which vehicle should be given way on a steep or winding road?",
+    "answers": [
+      "Vehicles going uphill",
+      "Vehicles going downhill",
+      "None of the above",
+      "No"
+    ],
+    "correctAnswer": 2,
+    "category": 1,
+    "image": ""
+  },
+  {
+    "question": "Which vehicles have the right of way at an intersection?",
+    "answers": [
+      "Turning vehicles",
+      "Straight-going vehicles",
+      "Both",
+      "No"
+    ],
+    "correctAnswer": 1,
+    "category": 1,
+    "image": ""
+  },
+  {
+    "question": "Why should you change gears?",
+    "answers": [
+      "To reduce speed",
+      "To increase speed",
+      "To control the vehicle",
+      "To reduce or increase speed"
+    ],
+    "correctAnswer": 4,
+    "category": 1,
+    "image": ""
+  },
+  {
+    "question": "When driving slowly in Nepal, which part of the road should you use?",
+    "answers": [
+      "The middle",
+      "The right side",
+      "The left side",
+      "Any side you like"
+    ],
+    "correctAnswer": 3,
+    "category": 1,
+    "image": ""
+  },
+  {
+    "question": "Which parts are operated by the feet in four-wheeled vehicles?",
+    "answers": [
+      "Clutch",
+      "Brake",
+      "Accelerator",
+      "All of the above"
+    ],
+    "correctAnswer": 4,
+    "category": 1,
+    "image": ""
+  },
+  {
+    "question": "On a steep or winding road, which vehicle should be given priority?",
+    "answers": [
+      "The vehicle going uphill",
+      "The vehicle going downhill",
+      "No need to give priority",
+      "Whoever arrives first"
+    ],
+    "correctAnswer": 2,
+    "category": 1,
+    "image": ""
+  },
+  {
+    "question": "Which vehicles do not operate on the streets?",
+    "answers": [
+      "Ship",
+      "Plane",
+      "Helicopter",
+      "All of the above"
+    ],
+    "correctAnswer": 4,
+    "category": 1,
+    "image": ""
+  },
+  {
+    "question": "How can you know if the driver in front has reduced speed?",
+    "answers": [
+      "By asking the driver in front",
+      "By the driver's gesture",
+      "By observing yourself",
+      "No"
+    ],
+    "correctAnswer": 4,
+    "category": 1,
+    "image": ""
+  },
+  {
+    "question": "What does the ammeter gauge indicate in a vehicle?",
+    "answers": [
+      "Diesel",
+      "Battery charge",
+      "Water",
+      "Petrol"
+    ],
+    "correctAnswer": 2,
+    "category": 1,
+    "image": ""
+  },
+  {
+    "question": "When should seat belts be used?",
+    "answers": [
+      "At all times while driving",
+      "Only when the police are present",
+      "Only on highways",
+      "Only if you want to"
+    ],
+    "correctAnswer": 1,
+    "category": 1,
+    "image": ""
+  },
+  {
+    "question": "Which vehicles do not have right of way when entering the road?",
+    "answers": [
+      "Car",
+      "Motorcycle",
+      "Truck",
+      "All of the above"
+    ],
+    "correctAnswer": 4,
+    "category": 1,
+    "image": ""
+  },
+  {
+    "question": "How should you signal to let a vehicle behind you pass?",
+    "answers": [
+      "Give a hand signal",
+      "Move to the side",
+      "Both a and b",
+      "No"
+    ],
+    "correctAnswer": 3,
+    "category": 1,
+    "image": ""
+  },
+  {
+    "question": "On which side should you drive in Nepal?",
+    "answers": [
+      "Right side",
+      "Left side",
+      "Both a and b",
+      "No"
+    ],
+    "correctAnswer": 1,
+    "category": 1,
+    "image": ""
+  },
+  {
+    "question": "What is the main function of the left hand in four-wheeled vehicles?",
+    "answers": [
+      "To operate the brake",
+      "To hold the steering wheel",
+      "To use hand signals",
+      "All of the above"
+    ],
+    "correctAnswer": 3,
+    "category": 1,
+    "image": ""
+  },
+  {
+    "question": "What should you do when reversing a vehicle?",
+    "answers": [
+      "Stop the vehicle",
+      "Give way",
+      "Increase speed",
+      "Be careful"
+    ],
+    "correctAnswer": 2,
+    "category": 1,
+    "image": ""
+  },
+  {
+    "question": "What should you do when turning a car?",
+    "answers": [
+      "Use the indicator",
+      "Reduce speed",
+      "Look both ways",
+      "All of the above"
+    ],
+    "correctAnswer": 4,
+    "category": 1,
+    "image": ""
+  },
+  {
+    "question": "Which vehicles should be given priority?",
+    "answers": [
+      "Vehicles going uphill",
+      "Vehicles climbing",
+      "Both of the above",
+      "None of the above"
+    ],
+    "correctAnswer": 2,
+    "category": 1,
+    "image": ""
+  },
+  {
+    "question": "How can you reduce or increase speed?",
+    "answers": [
+      "Change gear",
+      "Increase or decrease the accelerator",
+      "Both a and b",
+      "No"
+    ],
+    "correctAnswer": 3,
+    "category": 1,
+    "image": ""
+  },
+  {
+    "question": "When driving at high speed, which lane should you use?",
+    "answers": [
+      "The middle lane",
+      "The side lane",
+      "Both of the above",
+      "No"
+    ],
+    "correctAnswer": 1,
+    "category": 1,
+    "image": ""
+  },
+  {
+    "question": "When should headlights generally be used?",
+    "answers": [
+      "During the day",
+      "At night",
+      "When you see traffic police",
+      "In case of an accident"
+    ],
+    "correctAnswer": 2,
+    "category": 1,
+    "image": ""
+  },
+  {
+    "question": "What does a probationary license mean?",
+    "answers": [
+      "Driving only in restricted areas",
+      "Permission to drive before getting a full license",
+      "Permission to drive locally",
+      "Driving for a limited time"
+    ],
+    "correctAnswer": 2,
+    "category": 1,
+    "image": ""
+  },
+  {
+    "question": "What should you avoid doing without a driver's license?",
+    "answers": [
+      "Do not drive a vehicle",
+      "Do not sit in the driver's seat",
+      "Do not buy a vehicle",
+      "None of the above"
+    ],
+    "correctAnswer": 1,
+    "category": 1,
+    "image": ""
+  },
+  {
+    "question": "What should you do for a VIP vehicle?",
+    "answers": [
+      "Give way to the vehicle",
+      "Use the horn",
+      "Drive carefully",
+      "All of the above"
+    ],
+    "category": 1,
+    "image": ""
+  },
+  {
+    "question": "What is the best way to keep fuel in a vehicle?",
+    "answers": [
+      "Keep a little fuel",
+      "Keep the tank half full",
+      "Refuel only when needed",
+      "Keep the fuel tank clean"
+    ],
+    "correctAnswer": 4,
+    "category": 1,
+    "image": ""
+  },
+  {
+    "question": "Which type of vehicles should not be used for public transportation?",
+    "answers": [
+      "Private vehicles",
+      "Public vehicles",
+      "Tourist vehicles",
+      "All of the above"
+    ],
+    "correctAnswer": 1,
+    "category": 1,
+    "image": ""
+  },
+  {
+    "question": "Who is referred to as an operator?",
+    "answers": [
+      "A driver",
+      "A licensed individual",
+      "A vehicle assistant",
+      "None of the above"
+    ],
+    "correctAnswer": 3,
+    "category": 1,
+    "image": ""
+  },
+  {
+    "question": "Which vehicles are government vehicles?",
+    "answers": [
+      "Government vehicles",
+      "Cachrusion vehicles",
+      "District ride",
+      "Public vehicle"
+    ],
+    "correctAnswer": 2,
+    "category": 1,
+    "image": ""
+  },
+  {
+    "question": "How should you signal to overtake another vehicle?",
+    "answers": [
+      "Request by phone",
+      "Give a hand signal",
+      "Use the horn",
+      "None of the above"
+    ],
+    "correctAnswer": 3,
+    "category": 1,
+    "image": ""
+  },
+  {
+    "question": "When should rearview mirrors be used?",
+    "answers": [
+      "When overtaking",
+      "While driving in the dark",
+      "Both of the above",
+      "No"
+    ],
+    "correctAnswer": 3,
+    "category": 1,
+    "image": ""
+  },
+  {
+    "question": "What qualities should a driver have?",
+    "answers": [
+      "Patience",
+      "Politeness",
+      "Sociability",
+      "All of the above"
+    ],
+    "correctAnswer": 4,
+    "category": 1,
+    "image": ""
+  },
+  {
+    "question": "What should be done for safe travel?",
+    "answers": [
+      "Follow traffic rules",
+      "Drive safely",
+      "Drive attentively",
+      "All of the above"
+    ],
+    "correctAnswer": 1,
+    "category": 1,
+    "image": ""
+  },
+  {
+    "question": "What should you do when driving through water?",
+    "answers": [
+      "Drive slowly",
+      "Use the accelerator gently",
+      "Stop if necessary",
+      "Proceed carefully"
+    ],
+    "correctAnswer": 1,
+    "category": 1,
+    "image": ""
+  },
+  {
+    "question": "Which gear should be used when parking on a slope?",
+    "answers": [
+      "First gear",
+      "Third gear",
+      "Lowest gear",
+      "Fifth gear"
+    ],
+    "correctAnswer": 1,
+    "category": 1,
+    "image": ""
+  },
+  {
+    "question": "Which of the following is not found in an electric vehicle?",
+    "answers": [
+      "Exhaust pipe",
+      "Accelerator",
+      "Clutch",
+      "Gear"
+    ],
+    "correctAnswer": 1,
+    "category": 1,
+    "image": ""
+  },
+  {
+    "question": "What does the registration plate of a vehicle indicate?",
+    "answers": [
+      "Private vehicle",
+      "Government vehicle",
+      "Company vehicle",
+      "Rental vehicle"
+    ],
+    "correctAnswer": 2,
+    "category": 1,
+    "image": ""
+  },
+  {
+    "question": "Which of the vehicles tax is on the office?",
+    "answers": [
+      "Internal Mahabicea office",
+      "Customs Office",
+      "Change Management Office",
+      "Ender Office"
+    ],
+    "correctAnswer": 3,
+    "category": 1,
+    "image": ""
+  },
+  {
+    "question": "What do the Embusad number plate should be done in the boy?",
+    "answers": [
+      "to change himself",
+      "The application took the application to the transportation system office",
+      "Charter repairing",
+      "all of the above"
+    ],
+    "correctAnswer": 2,
+    "category": 1,
+    "image": ""
+  },
+  {
+    "question": "What kind of vehicle does the vehicle refer to \"I 1\" in the number plate?",
+    "answers": [
+      "private car",
+      "taxi",
+      "Tempo",
+      "zip of institute"
+    ],
+    "correctAnswer": 4,
+    "category": 1,
+    "image": ""
+  },
+  {
+    "question": "What is called a vehicle in the name of two or two people?",
+    "answers": [
+      "Riding Registration",
+      "United ribs registration",
+      "Why be sold ride",
+      "Ride ownership"
+    ],
+    "correctAnswer": 2,
+    "category": 1,
+    "image": ""
+  },
+  {
+    "question": "What is the color of the Blue Book (vehicle registration book)?",
+    "answers": [
+      "Black",
+      "Red",
+      "Blue",
+      "Yellow"
+    ],
+    "correctAnswer": 3,
+    "category": 1,
+    "image": ""
+  },
+  {
+    "question": "Which of the following are emergency vehicles?",
+    "answers": [
+      "Fire truck",
+      "Ambulance",
+      "Police car",
+      "All of the above"
+    ],
+    "correctAnswer": 4,
+    "category": 1,
+    "image": ""
+  },
+  {
+    "question": "Which vehicle is used to put out fires?",
+    "answers": [
+      "Fire truck",
+      "Ambulance",
+      "Police car",
+      "Taxi"
+    ],
+    "correctAnswer": 1,
+    "category": 1,
+    "image": ""
+  },
+  {
+    "question": "A person who cannot distinguish which color cannot get a driver's license?",
+    "answers": [
+      "Red",
+      "White",
+      "Black",
+      "Blue"
+    ],
+    "correctAnswer": 1,
+    "category": 1,
+    "image": ""
+  },
+  {
+    "question": "What is an embassy number plate?",
+    "answers": [
+      "A number plate labeled as an embassy",
+      "A special plate for diplomatic vehicles",
+      "A plate issued by the government for embassies",
+      "All of the above"
+    ],
+    "correctAnswer": 3,
+    "category": 1,
+    "image": ""
+  },
+  {
+    "question": "What is first aid?",
+    "answers": [
+      "Transporting to the hospital",
+      "Providing basic treatment for minor injuries",
+      "Calling a doctor if needed",
+      "All of the above"
+    ],
+    "correctAnswer": 2,
+    "category": 1,
+    "image": ""
+  },
+  {
+    "question": "Which type of vehicle is most commonly registered in Nepal?",
+    "answers": [
+      "Car",
+      "Bus",
+      "Motorcycle",
+      "E-Rickshaw"
+    ],
+    "correctAnswer": 3,
+    "category": 1,
+    "image": ""
+  },
+  {
+    "question": "Which of the following does not require registration?",
+    "answers": [
+      "Electric scooter",
+      "Electric bicycle",
+      "Electric skateboard",
+      "Electric motorcycle"
+    ],
+    "correctAnswer": 2,
+    "category": 1,
+    "image": ""
+  },
+  {
+    "question": "What happens if you change your vehicle's color without permission?",
+    "answers": [
+      "It is good",
+      "The vehicle looks clean",
+      "Expenses increase",
+      "You are fined"
+    ],
+    "correctAnswer": 4,
+    "category": 1,
+    "image": ""
+  },
+  {
+    "question": "Which vehicle is used to take patients to the hospital?",
+    "answers": [
+      "Fire truck",
+      "Ambulance",
+      "Police car",
+      "Taxi"
+    ],
+    "correctAnswer": 2,
+    "category": 1,
+    "image": ""
+  },
+  {
+    "question": "Which vehicles have a green number plate?",
+    "answers": [
+      "Private vehicles",
+      "Government vehicles",
+      "Rental vehicles",
+      "Tourist vehicles"
+    ],
+    "correctAnswer": 4,
+    "category": 1,
+    "image": ""
+  },
+  {
+    "question": "Why is a driver's permit required?",
+    "answers": [
+      "To drive a vehicle",
+      "To purchase a vehicle",
+      "To sell vehicles",
+      "No"
+    ],
+    "correctAnswer": 1,
+    "category": 1,
+    "image": ""
+  },
+  {
+    "question": "What is a vehicle registration certificate?",
+    "answers": [
+      "A certificate containing all vehicle details",
+      "Driving license",
+      "Certificate of ownership",
+      "No"
+    ],
+    "correctAnswer": 1,
+    "category": 1,
+    "image": ""
+  },
+  {
+    "question": "Which vehicles have a black number plate?",
+    "answers": [
+      "Government vehicles",
+      "Public vehicles",
+      "Institutional vehicles",
+      "Tourist vehicles"
+    ],
+    "correctAnswer": 2,
+    "category": 1,
+    "image": ""
+  },
+  {
+    "question": "What should you do if your driver's license is lost?",
+    "answers": [
+      "Submit an application with a recommendation from the traffic police",
+      "Get a recommendation from the Ward Office",
+      "Contact the District Administration Office",
+      "All of the above"
+    ],
+    "correctAnswer": 1,
+    "category": 1,
+    "image": ""
+  },
+  {
+    "question": "In which of the following cases is a person not allowed to drive a vehicle?",
+    "answers": [
+      "Having poor eyesight",
+      "Paralysis",
+      "Weak limbs",
+      "All of the above"
+    ],
+    "correctAnswer": 4,
+    "category": 1,
+    "image": ""
+  },
+  {
+    "question": "Which office does not renew a driver's license?",
+    "answers": [
+      "Traffic Police Office",
+      "Ward Office",
+      "Department of Transportation",
+      "All of the above"
+    ],
+    "correctAnswer": 4,
+    "category": 1,
+    "image": ""
+  },
+  {
+    "question": "Which office issues certificates required before granting permission to operate public vehicles?",
+    "answers": [
+      "District Administration Office",
+      "Traffic Police Office",
+      "Transport Management Office",
+      "All of the above"
+    ],
+    "correctAnswer": 3,
+    "category": 1,
+    "image": ""
+  },
+  {
+    "question": "Which vehicles are not allowed to operate without proper documentation?",
+    "answers": [
+      "Private vehicles",
+      "Government vehicles",
+      "Public transportation vehicles",
+      "Unregistered vehicles"
+    ],
+    "correctAnswer": 3,
+    "category": 1,
+    "image": ""
+  },
+  {
+    "question": "Who has the authority to change the speed limit for vehicles?",
+    "answers": [
+      "Traffic Police Office",
+      "Transportation Association Office",
+      "Department of Transportation",
+      "All of the above"
+    ],
+    "correctAnswer": 3,
+    "category": 1,
+    "image": ""
+  },
+  {
+    "question": "What should be done before using a malfunctioning vehicle?",
+    "answers": [
+      "It should be repaired",
+      "Fill it with fuel",
+      "Nothing needs to be done",
+      "Report to the police"
+    ],
+    "correctAnswer": 1,
+    "category": 1,
+    "image": ""
+  },
+  {
+    "question": "Who is the chairman of the Transport Management Committee?",
+    "answers": [
+      "Chief of the Transport Management Office",
+      "District Police Chief",
+      "Chief of Traffic Office",
+      "None of the above"
+    ],
+    "correctAnswer": 4,
+    "category": 1,
+    "image": ""
+  },
+  {
+    "question": "How should vehicles move on a three-lane street?",
+    "answers": [
+      "Two-way",
+      "Three-way",
+      "One-way",
+      "None of the above"
+    ],
+    "correctAnswer": 4,
+    "category": 1,
+    "image": ""
+  },
+  {
+    "question": "What should you check before starting a four-wheeled vehicle?",
+    "answers": [
+      "Check the gear",
+      "Check the oil",
+      "Check the engine",
+      "All of the above"
+    ],
+    "correctAnswer": 1,
+    "category": 1,
+    "image": ""
+  },
+  {
+    "question": "Who should be given priority on the road?",
+    "answers": [
+      "Pedestrians",
+      "Small vehicles",
+      "Large vehicles",
+      "All of the above"
+    ],
+    "correctAnswer": 3,
+    "category": 1,
+    "image": ""
+  },
+  {
+    "question": "Why should you change gears while driving?",
+    "answers": [
+      "To increase speed",
+      "To reduce speed",
+      "To shift modes",
+      "Both a and b"
+    ],
+    "correctAnswer": 4,
+    "category": 1,
+    "image": ""
+  },
+  {
+    "question": "When is it not possible to obtain a copy of a vehicle's delivery letter?",
+    "answers": [
+      "If the driver's license is lost",
+      "If it is torn",
+      "If it is missing",
+      "When it is being transferred for the first time"
+    ],
+    "correctAnswer": 4,
+    "category": 1,
+    "image": ""
+  },
+  {
+    "question": "Which signal should be used to move a vehicle forward when overtaking?",
+    "answers": [
+      "Headlight signal",
+      "Right indicator",
+      "Left indicator",
+      "Emergency light"
+    ],
+    "correctAnswer": 2,
+    "category": 1,
+    "image": ""
+  },
+  {
+    "question": "Where should you reduce your vehicle's speed?",
+    "answers": [
+      "In a school zone",
+      "At a curve",
+      "In densely populated areas",
+      "All of the above"
+    ],
+    "correctAnswer": 4,
+    "category": 1,
+    "image": ""
+  },
+  {
+    "question": "Which of the following is not found in heavy equipment?",
+    "answers": [
+      "Dozer",
+      "Mixer",
+      "Loader",
+      "Mobile crane"
+    ],
+    "correctAnswer": 2,
+    "category": 1,
+    "image": ""
+  },
+  {
+    "question": "When was the first vehicle brought to Nepal?",
+    "answers": [
+      "1961 B.S.",
+      "1970 B.S.",
+      "1985 B.S.",
+      "1990 B.S."
+    ],
+    "correctAnswer": 1,
+    "category": 1,
+    "image": ""
+  },
+  {
+    "question": "What color is used for a learner's permit?",
+    "answers": [
+      "Red",
+      "White",
+      "Green",
+      "Blue"
+    ],
+    "correctAnswer": 2,
+    "category": 1,
+    "image": ""
+  },
+  {
+    "question": "Why is 'AMBULANCE' written in reverse on the front of an ambulance?",
+    "answers": [
+      "So vehicles ahead can read it in their rearview mirror",
+      "For style",
+      "To be different from other vehicles",
+      "None of the above"
+    ],
+    "correctAnswer": 1,
+    "category": 1,
+    "image": ""
+  },
+  {
+    "question": "What type of vehicle uses a blue number plate?",
+    "answers": [
+      "Diplomatic vehicle",
+      "Government vehicle",
+      "Private vehicle",
+      "Institutional vehicle"
+    ],
+    "correctAnswer": 1,
+    "category": 1,
+    "image": ""
+  },
+  {
+    "question": "What certificate is required for Nepali citizens to obtain a vehicle permit?",
+    "answers": [
+      "Certificate issued by a driving school",
+      "Certificate of Health Test",
+      "Certificate of Nepali Citizen",
+      "Certificate of educational qualification"
+    ],
+    "correctAnswer": 3,
+    "category": 1,
+    "image": ""
+  },
+  {
+    "question": "What is a vehicle called when it is registered at a different transportation office?",
+    "answers": [
+      "Transferred registration",
+      "Renewal",
+      "Re-registered",
+      "Registered in another zone"
+    ],
+    "correctAnswer": 1,
+    "category": 1,
+    "image": ""
+  },
+  {
+    "question": "Who conducts the driver's license examination?",
+    "answers": [
+      "Transportation Officer",
+      "Examiner",
+      "Traffic Police",
+      "All of the above"
+    ],
+    "correctAnswer": 4,
+    "category": 1,
+    "image": ""
+  },
+  {
+    "question": "What is meant by 'peak hour'?",
+    "answers": [
+      "Vacation time",
+      "Evening time",
+      "The hour before and after office closing",
+      "Lunch hour"
+    ],
+    "correctAnswer": 3,
+    "category": 1,
+    "image": ""
+  },
+  {
+    "question": "Which vehicles require third party insurance?",
+    "answers": [
+      "Rental bus, truck",
+      "Private car",
+      "All vehicles",
+      "All of the above"
+    ],
+    "correctAnswer": 4,
+    "category": 1,
+    "image": ""
+  },
+  {
+    "question": "Who is the chairman of the Traveler Schedule Committee?",
+    "answers": [
+      "Chief of the Transportation Office",
+      "Chief of Transport Management",
+      "Chief of Traffic Office",
+      "Chief of Driving Training Center"
+    ],
+    "correctAnswer": 1,
+    "category": 1,
+    "image": ""
+  },
+  {
+    "question": "What is third party insurance?",
+    "answers": [
+      "Passenger insurance",
+      "Pedestrian insurance",
+      "Vehicle insurance",
+      "Driver insurance"
+    ],
+    "correctAnswer": 2,
+    "category": 1,
+    "image": ""
+  },
+  {
+    "question": "What type of vehicle has a yellow number plate?",
+    "answers": [
+      "Government vehicles",
+      "Private vehicles",
+      "Public transportation vehicles",
+      "Institutional vehicles"
+    ],
+    "correctAnswer": 4,
+    "category": 1,
+    "image": ""
+  },
+  {
+    "question": "From which side should you get in or out of a vehicle after stopping?",
+    "answers": [
+      "From the left",
+      "From the right",
+      "From behind",
+      "From the front"
+    ],
+    "correctAnswer": 1,
+    "category": 1,
+    "image": ""
+  },
+  {
+    "question": "Under what conditions can you obtain a copy of a vehicle's driver's permit?",
+    "answers": [
+      "If lost",
+      "If torn",
+      "If stolen",
+      "All of the above"
+    ],
+    "correctAnswer": 4,
+    "category": 1,
+    "image": ""
+  },
+  {
+    "question": "What should you do if you find someone else's driver's permit?",
+    "answers": [
+      "Tear it up",
+      "Take it home",
+      "Submit it to the traffic office",
+      "Do nothing"
+    ],
+    "correctAnswer": 3,
+    "category": 1,
+    "image": ""
+  },
+  {
+    "question": "Which vehicle does not require a road license?",
+    "answers": [
+      "Motorcycle",
+      "Public truck",
+      "Public jeep",
+      "Public bus"
+    ],
+    "correctAnswer": 1,
+    "category": 1,
+    "image": ""
+  },
+  {
+    "question": "Which is the main authority responsible for regulating vehicle movement?",
+    "answers": [
+      "District Administration Office",
+      "Department of Transportation",
+      "District Police Office",
+      "Traffic Police Office"
+    ],
+    "correctAnswer": 4,
+    "category": 1,
+    "image": ""
+  },
+  {
+    "question": "What educational qualification is required to obtain a driving license?",
+    "answers": [
+      "S.L.C. / S.E.E.",
+      "10+2 or equivalent",
+      "Higher education",
+      "Basic literacy"
+    ],
+    "correctAnswer": 4,
+    "category": 1,
+    "image": ""
+  },
+  {
+    "question": "When was the Department of Transport Management established?",
+    "answers": [
+      "2051 B.S.",
+      "2041 B.S.",
+      "2052 B.S.",
+      "2042 B.S."
+    ],
+    "correctAnswer": 2,
+    "category": 1,
+    "image": ""
+  },
+  {
+    "question": "What should you be careful about when driving in water?",
+    "answers": [
+      "Brakes",
+      "Slipping",
+      "Mud",
+      "All of the above"
+    ],
+    "correctAnswer": 4,
+    "category": 1,
+    "image": ""
+  },
+  {
+    "question": "Which vehicles should not be phased out?",
+    "answers": [
+      "Vehicles less than 20 years old",
+      "Vehicles less than 15 years old",
+      "Vehicles less than 5 years old",
+      "Vehicles less than 25 years old"
+    ],
+    "correctAnswer": 1,
+    "category": 1,
+    "image": ""
+  },
+  {
+    "question": "What do you have to do if the riding riding a riding riding from the auction?",
+    "answers": [
+      "(a) should be auction",
+      "We need to use without registration",
+      "should be scraped according to the rules",
+      "In ​​the rules, auction should be registered as"
+    ],
+    "correctAnswer": 3,
+    "category": 1,
+    "image": ""
+  },
+  {
+    "question": "How many hours do the long distance-party-public transportation rest?",
+    "answers": [
+      "In every 3 hour",
+      "In each of 4 hours",
+      "in each 2 hours",
+      "In ​​every 1 hour"
+    ],
+    "correctAnswer": 2,
+    "category": 1,
+    "image": ""
+  },
+  {
+    "question": "The driver permitter of the driver which office does renewal?",
+    "answers": [
+      "Transportation system office",
+      "The Department of Transport Management",
+      "a vehicle test office",
+      "Traffic Police Office"
+    ],
+    "correctAnswer": 1,
+    "category": 1,
+    "image": ""
+  },
+  {
+    "question": "What road should not be operated on public vehicles?",
+    "answers": [
+      "not black tile",
+      "GVVel road",
+      "(c) not maintained",
+      "hill roads"
+    ],
+    "correctAnswer": 3,
+    "category": 1,
+    "image": ""
+  },
+  {
+    "question": "What vehicles don't driving?",
+    "answers": [
+      "Government riding",
+      "The corporation ride",
+      "District Ride",
+      "everyone thinks"
+    ],
+    "correctAnswer": 3,
+    "category": 1,
+    "image": ""
+  },
+  {
+    "question": "What do you do if the engine block of rides is up?",
+    "answers": [
+      "To visit work on work",
+      "To retrieve from approval of the transportation system office",
+      "wearing the engine blocks of the old vehicle",
+      "As soon as possible, wear in the market go to the market"
+    ],
+    "correctAnswer": 2,
+    "category": 1,
+    "image": ""
+  },
+  {
+    "question": "What is called Nepali transforming the driver's license?",
+    "answers": [
+      "Institment",
+      "Foreigner",
+      "Considing",
+      "Domesticization"
+    ],
+    "correctAnswer": 3,
+    "category": 1,
+    "image": ""
+  },
+  {
+    "question": "What test should be passed to Nepalis the driver of the driver of the foreign nation?",
+    "answers": [
+      "written",
+      "oral",
+      "Experimental",
+      "none"
+    ],
+    "correctAnswer": 4,
+    "category": 1,
+    "image": ""
+  },
+  {
+    "question": "What is law in Nepal in Nepal regarding international vehicles?",
+    "answers": [
+      "to be invaluable automatically.",
+      "The vehicle will be run from Nepal mentioned in the permit",
+      "only permitted in the Kathmandu Valley",
+      "none"
+    ],
+    "correctAnswer": 2,
+    "category": 1,
+    "image": ""
+  },
+  {
+    "question": "What kind of driver is diminished data of the permit?",
+    "answers": [
+      "Severe indicating the deadline.",
+      "the old ride driver",
+      "Driver received a person who accidents accidental",
+      "all of the above"
+    ],
+    "correctAnswer": 1,
+    "category": 1,
+    "image": ""
+  },
+  {
+    "question": "Driver's online Application Schedule should go to office for Biometrics?",
+    "answers": [
+      "the next day",
+      "In the 1 year",
+      "day in 3 months",
+      "On visit date given by sysmam"
+    ],
+    "correctAnswer": 4,
+    "category": 1,
+    "image": ""
+  },
+  {
+    "question": "What way is 25 kilometers are called?",
+    "answers": [
+      "a long way",
+      "a short way",
+      "local way",
+      "Medium approach"
+    ],
+    "correctAnswer": 3,
+    "category": 1,
+    "image": ""
+  },
+  {
+    "question": "Which of the following vehicles do not have to take the route license?",
+    "answers": [
+      "Ambulance",
+      "Famine",
+      "Matronal",
+      "all of the above"
+    ],
+    "correctAnswer": 4,
+    "category": 1,
+    "image": ""
+  },
+  {
+    "question": "Is there a provision for the officer to renew the right officer for 5 years in one time?",
+    "answers": [
+      "Delivery",
+      "Institute and Wicked",
+      "private",
+      "all of the above"
+    ],
+    "correctAnswer": 3,
+    "category": 1,
+    "image": ""
+  },
+  {
+    "question": "What rides is the pierce?",
+    "answers": [
+      "passenger",
+      "Cargo",
+      "Caller",
+      "Fire controller"
+    ],
+    "correctAnswer": 4,
+    "category": 1,
+    "image": ""
+  },
+  {
+    "question": "What happens when the aclerator is very popular while driving?",
+    "answers": [
+      "a vehicle is wrecked",
+      "Traffic takes a fine",
+      "the speed of vehicles increases",
+      "all of the above"
+    ],
+    "correctAnswer": 3,
+    "category": 1,
+    "image": ""
+  },
+  {
+    "question": "Which body offices are the transportation of the transportation arrangements?",
+    "answers": [
+      ".",
+      "Ministry of State Physical Infrastructure Development",
+      "Physical infrastructure and traffic ministry",
+      "None of the above"
+    ],
+    "correctAnswer": 2,
+    "category": 1,
+    "image": ""
+  },
+  {
+    "question": "Under what circumstances should you keep the distance of each other when you use the vehicles?",
+    "answers": [
+      "when riding",
+      "While sunrise",
+      "While the water did not come",
+      "While foggy foggy"
+    ],
+    "correctAnswer": 4,
+    "category": 1,
+    "image": ""
+  },
+  {
+    "question": "What should not do when driving?",
+    "answers": [
+      "to talk on mobile",
+      "to be consuming drugs",
+      "To overturn",
+      "all of the above"
+    ],
+    "correctAnswer": 4,
+    "category": 1,
+    "image": ""
+  },
+  {
+    "question": "How to cross the road?",
+    "answers": [
+      "stopping walking",
+      "by running",
+      "G) comparely from crossings",
+      "walking at the same speed"
+    ],
+    "correctAnswer": 3,
+    "category": 1,
+    "image": ""
+  },
+  {
+    "question": "Which of the following is the driver's duty?",
+    "answers": [
+      "raising the vehicle",
+      "drivering by checking",
+      "Cleaning the road",
+      "all of the above"
+    ],
+    "correctAnswer": 2,
+    "category": 1,
+    "image": ""
+  },
+  {
+    "question": "What should we do when driving in urban areas?",
+    "answers": [
+      "to limit the speed",
+      "speed together",
+      "to stop",
+      "No"
+    ],
+    "correctAnswer": 1,
+    "category": 1,
+    "image": ""
+  },
+  {
+    "question": "What is mandatory when driving?",
+    "answers": [
+      "wear sitvelt",
+      "wear glasses",
+      "wear jacket",
+      "all of the above"
+    ],
+    "correctAnswer": 1,
+    "category": 1,
+    "image": ""
+  },
+  {
+    "question": "What does the security of a ride mean?",
+    "answers": [
+      "parking on the way",
+      "to place the ride in the neutral",
+      "Locking a vehicle",
+      "Parking in Oranoa"
+    ],
+    "correctAnswer": 3,
+    "category": 1,
+    "image": ""
+  },
+  {
+    "question": "Why is a vehicle's brake failure?",
+    "answers": [
+      "a breaks by medi",
+      "Break pipe bursting",
+      "not a brake notylom",
+      "all of the above"
+    ],
+    "correctAnswer": 4,
+    "category": 1,
+    "image": ""
+  },
+  {
+    "question": "What happens to play pressure to run a ride?",
+    "answers": [
+      "imprisonment",
+      "finely",
+      "confiscation",
+      "nothing happens"
+    ],
+    "correctAnswer": 2,
+    "category": 1,
+    "image": ""
+  },
+  {
+    "question": "What does the line drawn in the middle of the road?",
+    "answers": [
+      "not receiving.",
+      "Setcing road lanes",
+      "Not getting water",
+      "not to overtake"
+    ],
+    "correctAnswer": 2,
+    "category": 1,
+    "image": ""
+  },
+  {
+    "question": "Where should the bluebook keep?",
+    "answers": [
+      "in the house",
+      "the driver",
+      "In office",
+      "all of the above"
+    ],
+    "correctAnswer": 2,
+    "category": 1,
+    "image": ""
+  },
+  {
+    "question": "How long does the side light?",
+    "answers": [
+      "When changing the lane",
+      "When overtaking",
+      "When running a vehicle",
+      "both and b."
+    ],
+    "correctAnswer": 4,
+    "category": 1,
+    "image": ""
+  },
+  {
+    "question": "How much period should not be notified if the driver's permit is lost?",
+    "answers": [
+      "7 days",
+      "15 days",
+      "1 month",
+      "2 months"
+    ],
+    "correctAnswer": 1,
+    "category": 2,
+    "image": ""
+  },
+  {
+    "question": "Doesn't it take a fine when renewing a driver's permission?",
+    "answers": [
+      "a month",
+      "three months",
+      "Five months",
+      "seven months"
+    ],
+    "correctAnswer": 2,
+    "category": 2,
+    "image": ""
+  },
+  {
+    "question": "How old should be completed to pick the driver of the car / jeep aid?",
+    "answers": [
+      "16 years",
+      "17 years",
+      "18 years",
+      "20 years"
+    ],
+    "correctAnswer": 3,
+    "category": 2,
+    "image": ""
+  },
+  {
+    "question": "The driver's driver permit letter is suspected if the driver violates more than violated?",
+    "answers": [
+      "three times",
+      "four times",
+      "five times",
+      "six times"
+    ],
+    "correctAnswer": 3,
+    "category": 2,
+    "image": ""
+  },
+  {
+    "question": "How many years after taking a driver of a car / jeep can be consistent with a large vehicle to India?",
+    "answers": [
+      "1 year",
+      "2 years",
+      "3 years",
+      "4 years"
+    ],
+    "correctAnswer": 2,
+    "category": 2,
+    "image": ""
+  },
+  {
+    "question": "Which office issues the vehicle statement?",
+    "answers": [
+      "Traffic Police Office",
+      "District Police Office",
+      "Transportation Office",
+      "None of the above"
+    ],
+    "correctAnswer": 3,
+    "category": 2,
+    "image": ""
+  },
+  {
+    "question": "What is the renewal fee for a medium vehicle driver's license?",
+    "answers": [
+      "One thousand five hundred",
+      "Two thousand",
+      "Two thousand five hundred",
+      "Three thousand"
+    ],
+    "correctAnswer": 3,
+    "category": 2,
+    "image": ""
+  },
+  {
+    "question": "After how many years must a driver's permit be renewed?",
+    "answers": [
+      "Every 5 years",
+      "Every 3 years",
+      "Every 2 years",
+      "Every 7 years"
+    ],
+    "correctAnswer": 1,
+    "category": 2,
+    "image": ""
+  },
+  {
+    "question": "What is the fee for a jeep driver's license?",
+    "answers": [
+      "One thousand",
+      "Seven hundred",
+      "Two thousand",
+      "One thousand five hundred"
+    ],
+    "correctAnswer": 3,
+    "category": 2,
+    "image": ""
+  },
+  {
+    "question": "Within what period must the office be notified if a driver's address changes?",
+    "answers": [
+      "Within seven days",
+      "Within fifteen days",
+      "Within a month",
+      "Within the grace period"
+    ],
+    "correctAnswer": 3,
+    "category": 2,
+    "image": ""
+  },
+  {
+    "question": "How many seats are reserved for women in public transport?",
+    "answers": [
+      "2 seats",
+      "3 seats",
+      "6 seats",
+      "5 seats"
+    ],
+    "correctAnswer": 1,
+    "category": 2,
+    "image": ""
+  },
+  {
+    "question": "What is the grace period for renewing a registration certificate without a fine?",
+    "answers": [
+      "Within 1 month",
+      "Within 2 months",
+      "Within 3 months",
+      "Within 4 months"
+    ],
+    "correctAnswer": 3,
+    "category": 2,
+    "image": ""
+  },
+  {
+    "question": "After how many hours must a long-distance public vehicle driver be changed?",
+    "answers": [
+      "4 hours",
+      "6 hours",
+      "8 hours",
+      "As required"
+    ],
+    "correctAnswer": 2,
+    "category": 2,
+    "image": ""
+  },
+  {
+    "question": "What is the punishment if a driver intentionally causes a fatal accident?",
+    "answers": [
+      "No punishment",
+      "Life imprisonment",
+      "Imprisonment",
+      "20 years imprisonment"
+    ],
+    "correctAnswer": 2,
+    "category": 2,
+    "image": ""
+  },
+  {
+    "question": "After how many years is a license automatically canceled if not renewed?",
+    "answers": [
+      "1 year",
+      "3 years",
+      "5 years",
+      "N/A"
+    ],
+    "correctAnswer": 3,
+    "category": 2,
+    "image": ""
+  },
+  {
+    "question": "What is the additional fee for adding large vehicles to a permit?",
+    "answers": [
+      "Five hundred",
+      "One thousand",
+      "One thousand five hundred",
+      "Two thousand"
+    ],
+    "correctAnswer": 1,
+    "category": 2,
+    "image": ""
+  },
+  {
+    "question": "What is the application fee for a driver's license?",
+    "answers": [
+      "Rs.100",
+      "Rs.50",
+      "Rs.300",
+      "Rs.40"
+    ],
+    "correctAnswer": 2,
+    "category": 2,
+    "image": ""
+  },
+  {
+    "question": "For how many years can an old vehicle be operated?",
+    "answers": [
+      "10 years",
+      "15 years",
+      "20 years",
+      "25 years"
+    ],
+    "correctAnswer": 3,
+    "category": 2,
+    "image": ""
+  },
+  {
+    "question": "What is the renewal fee for a motorcycle license?",
+    "answers": [
+      "One thousand five hundred",
+      "Two thousand",
+      "Two thousand five hundred",
+      "Three thousand"
+    ],
+    "correctAnswer": 1,
+    "category": 2,
+    "image": ""
+  },
+  {
+    "question": "What is the maximum fine for illegal racing?",
+    "answers": [
+      "2 million",
+      "300,000",
+      "400,000",
+      "5 million"
+    ],
+    "correctAnswer": 4,
+    "category": 2,
+    "image": ""
+  },
+  {
+    "question": "How often should long-distance public transport vehicles take a rest break?",
+    "answers": [
+      "Every 3 hours",
+      "Every 5 hours",
+      "Every 2 hours",
+      "No requirement"
+    ],
+    "correctAnswer": 4,
+    "category": 2,
+    "image": ""
+  },
+  {
+    "question": "How old is the vehicle period in the ware period of a driver's permission?",
+    "answers": [
+      "1 year",
+      "3 years",
+      "5 year",
+      "10 years"
+    ],
+    "correctAnswer": 3,
+    "category": 2,
+    "image": ""
+  },
+  {
+    "question": "How much seat is reserved for the disabled people on the local passenger large public riding?",
+    "answers": [
+      "2 seats",
+      "3 seat",
+      "4 Seat",
+      "5 seats"
+    ],
+    "correctAnswer": 1,
+    "category": 2,
+    "image": ""
+  },
+  {
+    "question": "How long does the driver's permit has been suspended for?",
+    "answers": [
+      "3 months",
+      "5 months",
+      "6 months",
+      "8 months"
+    ],
+    "correctAnswer": 3,
+    "category": 2,
+    "image": ""
+  },
+  {
+    "question": "How often do you feared go to reality when renewing a large vehicle's vehicle's driver",
+    "answers": [
+      "One thousand five hundred",
+      "Two thousand",
+      "two thousand five hundred",
+      "No"
+    ],
+    "correctAnswer": 4,
+    "category": 2,
+    "image": ""
+  },
+  {
+    "question": "After how much time is a fine imposed when renewing an expired driver's permit?",
+    "answers": [
+      "One month",
+      "Three months",
+      "Five months",
+      "Seven months"
+    ],
+    "correctAnswer": 2,
+    "category": 2,
+    "image": ""
+  },
+  {
+    "question": "Is there a provision to affix tickets to the application form for loss or marking?",
+    "answers": [
+      "Five rupees",
+      "Rupture",
+      "Rupees",
+      "One rupee"
+    ],
+    "correctAnswer": 2,
+    "category": 2,
+    "image": ""
+  },
+  {
+    "question": "If a vehicle registration certificate is lost or a copy is needed for any other reason, within how many days should you apply for a copy?",
+    "answers": [
+      "Within 3 days",
+      "Within 7 days",
+      "Within 15 days",
+      "Within 30 days"
+    ],
+    "correctAnswer": 3,
+    "category": 2,
+    "image": ""
+  },
+  {
+    "question": "What is the penalty if a vehicle without a pollution certificate sticker is used?",
+    "answers": [
+      "Confiscation",
+      "Seized vehicle",
+      "Banned from future operation",
+      "Fined"
+    ],
+    "correctAnswer": 4,
+    "category": 2,
+    "image": ""
+  },
+  {
+    "question": "What is the fine for renewing a driver's license one year late?",
+    "answers": [
+      "One hundred and fifty percent",
+      "Fifty percent",
+      "Thirty percent",
+      "One hundred percent"
+    ],
+    "correctAnswer": 4,
+    "category": 2,
+    "image": ""
+  },
+  {
+    "question": "According to the Transportation Act, what is the minimum age to obtain a driver's license?",
+    "answers": [
+      "16 years",
+      "18 years",
+      "21 years",
+      "25 years"
+    ],
+    "correctAnswer": 3,
+    "category": 2,
+    "image": ""
+  },
+  {
+    "question": "What is the renewal interval for private vehicles?",
+    "answers": [
+      "Every 3 months",
+      "Every 6 months",
+      "Every 1 year",
+      "Every 2 years"
+    ],
+    "correctAnswer": 2,
+    "category": 2,
+    "image": ""
+  },
+  {
+    "question": "Within how many days must a customs reply be submitted?",
+    "answers": [
+      "Within 10 days",
+      "Within 15 days",
+      "Within 20 days",
+      "Within 25 days"
+    ],
+    "correctAnswer": 2,
+    "category": 2,
+    "image": ""
+  },
+  {
+    "question": "What is the weight range for a heavy vehicle?",
+    "answers": [
+      "More than 10 tons",
+      "From 4 tons to 10 tons",
+      "Less than 4 tons",
+      "1 ton"
+    ],
+    "correctAnswer": 1,
+    "category": 2,
+    "image": ""
+  },
+  {
+    "question": "What is the weight range for a medium vehicle?",
+    "answers": [
+      "10 tons",
+      "1 ton to 4 tons",
+      "4 tons to 10 tons",
+      "1 ton"
+    ],
+    "correctAnswer": 3,
+    "category": 2,
+    "image": ""
+  },
+  {
+    "question": "What is the weight range for a light vehicle?",
+    "answers": [
+      "10 tons",
+      "Less than 4 tons",
+      "Less than 1 ton",
+      "1 ton"
+    ],
+    "correctAnswer": 2,
+    "category": 2,
+    "image": ""
+  },
+  {
+    "question": "In which year was the Vehicle and Transportation System Act enacted?",
+    "answers": [
+      "V.S.2048",
+      "B",
+      "C",
+      "V."
+    ],
+    "correctAnswer": 2,
+    "category": 2,
+    "image": ""
+  },
+  {
+    "question": "Which Act is currently in effect in Nepal?",
+    "answers": [
+      "Nepal Vehicles Pollution Control, 2056",
+      "Nepal Vehicle Courtesy Act, 2060",
+      "Nepal Vehicle Management Act, 2065",
+      "Nepal Road Traffic Act, 2069"
+    ],
+    "correctAnswer": 4,
+    "category": 2,
+    "image": ""
+  },
+  {
+    "question": "How often must a vehicle registration certificate be renewed?",
+    "answers": [
+      "Every 6 months",
+      "Every 1 year",
+      "Every 2 years",
+      "Every 4 years"
+    ],
+    "correctAnswer": 2,
+    "category": 2,
+    "image": ""
+  },
+  {
+    "question": "For how many years can a penalty be paid after a certificate expires?",
+    "answers": [
+      "5 years",
+      "3 years",
+      "2 years",
+      "7 years"
+    ],
+    "correctAnswer": 1,
+    "category": 2,
+    "image": ""
+  },
+  {
+    "question": "Within how long must the fee be paid after passing the driving trial to receive a driver's license?",
+    "answers": [
+      "Within 18 months",
+      "Within 5 years",
+      "Within 15 days",
+      "Within 90 days"
+    ],
+    "correctAnswer": 1,
+    "category": 2,
+    "image": ""
+  },
+  {
+    "question": "What is the fee for a duplicate driver's permit?",
+    "answers": [
+      "Two hundred",
+      "Five hundred",
+      "One thousand",
+      "One thousand five hundred"
+    ],
+    "correctAnswer": 2,
+    "category": 2,
+    "image": ""
+  },
+  {
+    "question": "Which of the following can result in cancellation of a driver's license?",
+    "answers": [
+      "If a deficiency is certified",
+      "If the driver has died",
+      "If the driver requests cancellation",
+      "All of the above"
+    ],
+    "correctAnswer": 4,
+    "category": 2,
+    "image": ""
+  },
+  {
+    "question": "For how long is a person barred from retaking the written test after failing the driver's permit exam?",
+    "answers": [
+      "1 year",
+      "2 months",
+      "3 months",
+      "None"
+    ],
+    "correctAnswer": 3,
+    "category": 2,
+    "image": ""
+  },
+  {
+    "question": "What is the validity period of a temporary vehicle registration certificate?",
+    "answers": [
+      "1 month",
+      "3 months",
+      "6 months",
+      "1 year"
+    ],
+    "correctAnswer": 4,
+    "category": 2,
+    "image": ""
+  },
+  {
+    "question": "A road longer than 250 kilometers is classified as what?",
+    "answers": [
+      "Long route",
+      "Local road",
+      "Short route",
+      "None of the above"
+    ],
+    "correctAnswer": 1,
+    "category": 2,
+    "image": ""
+  },
+  {
+    "question": "At age 21, which category of vehicle can a person drive?",
+    "answers": [
+      "Small",
+      "Medium",
+      "Large",
+      "All of the above"
+    ],
+    "correctAnswer": 4,
+    "category": 2,
+    "image": ""
+  },
+  {
+    "question": "What is the fine for driving a vehicle without a valid permit?",
+    "answers": [
+      "Rs. 500",
+      "Rs. 1000",
+      "Rs. 1500",
+      "Rs. 2000"
+    ],
+    "correctAnswer": 3,
+    "category": 2,
+    "image": ""
+  },
+  {
+    "question": "How long is the trial period for a learner's license?",
+    "answers": [
+      "6 months",
+      "1 year",
+      "3 months",
+      "18 months"
+    ],
+    "correctAnswer": 2,
+    "category": 2,
+    "image": ""
+  },
+  {
+    "question": "When adding a new class to a driving license, does the expiration date extend?",
+    "answers": [
+      "5 years",
+      "3 months",
+      "Does not extend",
+      "18 months"
+    ],
+    "correctAnswer": 3,
+    "category": 2,
+    "image": ""
+  },
+  {
+    "question": "Is there a provision for a temporary permit for a certain period?",
+    "answers": [
+      "14 days",
+      "7 days",
+      "5 days",
+      "One month"
+    ],
+    "correctAnswer": 2,
+    "category": 2,
+    "image": ""
+  },
+  {
+    "question": "How long is a temporary permit valid?",
+    "answers": [
+      "4 months",
+      "6 months",
+      "3 months",
+      "1 year"
+    ],
+    "correctAnswer": 1,
+    "category": 2,
+    "image": ""
+  },
+  {
+    "question": "How long after expiration can a term license be renewed?",
+    "answers": [
+      "4 days",
+      "6 days",
+      "15 days",
+      "1 year"
+    ],
+    "correctAnswer": 3,
+    "category": 2,
+    "image": ""
+  },
+  {
+    "question": "What is the additional penalty percentage for renewing a permit more than a month late?",
+    "answers": [
+      "50 percent",
+      "25 percent",
+      "100 percent",
+      "No extra charge"
+    ],
+    "correctAnswer": 3,
+    "category": 2,
+    "image": ""
+  },
+  {
+    "question": "Repeat the way to how much Days will be taken within how long?",
+    "answers": [
+      "within 45 days",
+      "Within 45 days",
+      "Within 60 days",
+      "Within 90 days",
+      "None"
+    ],
+    "correctAnswer": 4,
+    "category": 2,
+    "image": ""
+  },
+  {
+    "question": "What is the minimum percentage required to pass the written exam for a driving permit?",
+    "answers": [
+      "50 percent",
+      "60 percent",
+      "80 percent",
+      "70 percent"
+    ],
+    "correctAnswer": 3,
+    "category": 2,
+    "image": ""
+  },
+  {
+    "question": "What is the penalty for altering a road or abducting someone?",
+    "answers": [
+      "Imprisonment or fine",
+      "Seized vehicle",
+      "Country ban",
+      "All of the above"
+    ],
+    "correctAnswer": 1,
+    "category": 2,
+    "image": ""
+  },
+  {
+    "question": "Within how many days must a cancelled vehicle permit be submitted to the authority?",
+    "answers": [
+      "7 days",
+      "14 days",
+      "35 days",
+      "15 days"
+    ],
+    "correctAnswer": 1,
+    "category": 2,
+    "image": ""
+  },
+  {
+    "question": "What is the penalty for changing a number plate and driving the vehicle?",
+    "answers": [
+      "6 months imprisonment",
+      "Fine of 50,000 to 150,000",
+      "Confiscation",
+      "All of the above"
+    ],
+    "correctAnswer": 4,
+    "category": 2,
+    "image": ""
+  },
+  {
+    "question": "What is the insurance amount for a government driver or other employee?",
+    "answers": [
+      "Rs. 500,000",
+      "Rs. 1,000,000",
+      "Rs. 1,500,000",
+      "Rs. 2,000,000"
+    ],
+    "correctAnswer": 1,
+    "category": 2,
+    "image": ""
+  },
+  {
+    "question": "A local road is defined as being up to how many kilometers?",
+    "answers": [
+      "Up to 150 kilometers",
+      "5 kilometers",
+      "Up to 25 kilometers",
+      "Longer than 250 kilometers"
+    ],
+    "correctAnswer": 3,
+    "category": 2,
+    "image": ""
+  },
+  {
+    "question": "What percentage of seats are reserved for senior citizens on public transport?",
+    "answers": [
+      "5 percent",
+      "50 percent",
+      "15 percent",
+      "20 percent"
+    ],
+    "correctAnswer": 2,
+    "category": 2,
+    "image": ""
+  },
+  {
+    "question": "After how many years must a private or other vehicle be re-registered?",
+    "answers": [
+      "20 years",
+      "15 years",
+      "5 years",
+      "25 years"
+    ],
+    "correctAnswer": 1,
+    "category": 2,
+    "image": ""
+  },
+  {
+    "question": "After how many years must a registered vehicle be renewed?",
+    "answers": [
+      "3 years",
+      "15 years",
+      "7 years",
+      "5 years"
+    ],
+    "correctAnswer": 4,
+    "category": 2,
+    "image": ""
+  },
+  {
+    "question": "A long route is defined as being at least how many kilometers?",
+    "answers": [
+      "100 km",
+      "250 km",
+      "Not specified",
+      "None"
+    ],
+    "correctAnswer": 2,
+    "category": 2,
+    "image": ""
+  },
+  {
+    "question": "A medium route is defined as being how many kilometers long?",
+    "answers": [
+      "250 km",
+      "100 to 250 km",
+      "Not specified",
+      "25 to 100 km"
+    ],
+    "correctAnswer": 2,
+    "category": 2,
+    "image": ""
+  },
+  {
+    "question": "A short route is defined as being how many kilometers long?",
+    "answers": [
+      "250 km",
+      "100 to 250 km",
+      "Not specified",
+      "25 to 100 km"
+    ],
+    "correctAnswer": 4,
+    "category": 2,
+    "image": ""
+  },
+  {
+    "question": "What is the maximum validity period of a temporary vehicle registration certificate?",
+    "answers": [
+      "4 months",
+      "6 months",
+      "14 months",
+      "5 years"
+    ],
+    "correctAnswer": 2,
+    "category": 2,
+    "image": ""
+  },
+  {
+    "question": "For how long can a vehicle registered abroad be used in Nepal?",
+    "answers": [
+      "1 month",
+      "1 year",
+      "5 years",
+      "Not specified"
+    ],
+    "correctAnswer": 1,
+    "category": 2,
+    "image": ""
+  },
+  {
+    "question": "What is the minimum fee required when registering a vehicle?",
+    "answers": [
+      "50 percent of the registration fee",
+      "Not specified",
+      "Full registration fee",
+      "Rs 150"
+    ],
+    "correctAnswer": 1,
+    "category": 2,
+    "image": ""
+  },
+  {
+    "question": "Within how many days must the traffic registration certificate be submitted after being ordered to do so?",
+    "answers": [
+      "Within 7 days",
+      "Within 15 days",
+      "Within 35 days",
+      "Within 21 days"
+    ],
+    "correctAnswer": 1,
+    "category": 2,
+    "image": ""
+  },
+  {
+    "question": "When adding a new class to a vehicle permit, which test is not required?",
+    "answers": [
+      "Written test",
+      "Practical test",
+      "Both tests",
+      "No test is required"
+    ],
+    "correctAnswer": 1,
+    "category": 2,
+    "image": ""
+  },
+  {
+    "question": "What is the minimum passing percentage for the practical driving test for a car, jeep, or delivery van?",
+    "answers": [
+      "50%",
+      "60%",
+      "70%",
+      "80%"
+    ],
+    "correctAnswer": 3,
+    "category": 2,
+    "image": ""
+  },
+  {
+    "question": "During the practical test for a car, jeep, or delivery van, what happens if you touch the line while making a U-turn?",
+    "answers": [
+      "10 points deducted",
+      "50 points deducted",
+      "Disqualified",
+      "No penalty"
+    ],
+    "correctAnswer": 1,
+    "category": 2,
+    "image": ""
+  },
+  {
+    "question": "How many points do you earn for successfully completing the curve section in the practical test for a car, jeep, or delivery van?",
+    "answers": [
+      "10 points",
+      "20 points",
+      "15 points",
+      "25 points"
+    ],
+    "correctAnswer": 2,
+    "category": 2,
+    "image": ""
+  },
+  {
+    "question": "How many attempts are allowed to start the vehicle during the practical test for a car, jeep, or delivery van?",
+    "answers": [
+      "1 attempt",
+      "2 attempts",
+      "3 attempts",
+      "4 attempts"
+    ],
+    "correctAnswer": 1,
+    "category": 2,
+    "image": ""
+  },
+  {
+    "question": "How many points are deducted for not wearing a seatbelt during the practical test for a car, jeep, or delivery van?",
+    "answers": [
+      "2 points",
+      "4 points",
+      "No deduction",
+      "Disqualified"
+    ],
+    "correctAnswer": 2,
+    "category": 2,
+    "image": ""
+  },
+  {
+    "question": "What is the width of the garage track used for garage parking in the practical test for a car, jeep, or delivery van?",
+    "answers": [
+      "2 meters",
+      "3 meters",
+      "4 meters",
+      "5 meters"
+    ],
+    "correctAnswer": 2,
+    "category": 2,
+    "image": ""
+  },
+  {
+    "question": "How many points are deducted for violating a traffic signal during the practical test for a car, jeep, or delivery van?",
+    "answers": [
+      "10 points",
+      "15 points",
+      "20 points",
+      "No deduction"
+    ],
+    "correctAnswer": 2,
+    "category": 2,
+    "image": ""
+  },
+  {
+    "question": "What is the length of the speed breaker used in the ramp test for a car, jeep, or delivery van?",
+    "answers": [
+      "12 meters",
+      "14 meters",
+      "16 meters",
+      "20 meters"
+    ],
+    "correctAnswer": 3,
+    "category": 2,
+    "image": ""
+  },
+  {
+    "question": "After passing the written test, how long is the trial examination valid?",
+    "answers": [
+      "One year",
+      "Up to one month",
+      "Twelve months",
+      "Eighteen months"
+    ],
+    "correctAnswer": 4,
+    "category": 2,
+    "image": ""
+  },
+  {
+    "question": "How many times can you attempt the trial examination after passing the written test?",
+    "answers": [
+      "1 attempt",
+      "2 attempts",
+      "3 attempts",
+      "4 attempts"
+    ],
+    "correctAnswer": 3,
+    "category": 2,
+    "image": ""
+  },
+  {
+    "question": "According to the Vehicle and Transportation Act, what is considered a 'public space'?",
+    "answers": [
+      "Bridge",
+      "Road",
+      "Other",
+      "All of the above"
+    ],
+    "correctAnswer": 4,
+    "category": 2,
+    "image": ""
+  },
+  {
+    "question": "Within how long must a private vehicle's tax be submitted after expiry?",
+    "answers": [
+      "Immediately",
+      "Within a month",
+      "Within two months",
+      "Within 3 months of expiry"
+    ],
+    "correctAnswer": 4,
+    "category": 2,
+    "image": ""
+  },
+  {
+    "question": "Within how many days must a cancelled permit be returned?",
+    "answers": [
+      "Within 10 days",
+      "Within 15 days",
+      "Within 30 days",
+      "None"
+    ],
+    "correctAnswer": 2,
+    "category": 2,
+    "image": ""
+  },
+  {
+    "question": "Which vehicles are classified as tourist vehicles?",
+    "answers": [
+      "Public transportation",
+      "Private vehicles",
+      "Government vehicles",
+      "Diplomatic vehicles"
+    ],
+    "correctAnswer": 1,
+    "category": 2,
+    "image": ""
+  },
+  {
+    "question": "What is the seat capacity of a mini bus?",
+    "answers": [
+      "Up to 25 including driver",
+      "12 to 20 including driver",
+      "10 to 22",
+      "Other"
+    ],
+    "correctAnswer": 1,
+    "category": 2,
+    "image": ""
+  },
+  {
+    "question": "Up to what age is a person allowed to drive large and medium public vehicles?",
+    "answers": [
+      "55 years",
+      "50 years",
+      "60 years",
+      "45 years"
+    ],
+    "correctAnswer": 3,
+    "category": 2,
+    "image": ""
+  },
+  {
+    "question": "What is the application fee for medium and small vehicles at the transport office?",
+    "answers": [
+      "Rs. 500",
+      "Rs. 1000",
+      "Rs. 1500",
+      "Rs. 2000"
+    ],
+    "correctAnswer": 1,
+    "category": 2,
+    "image": ""
+  },
+  {
+    "question": "According to the Vehicle Act, who is disqualified from receiving a permit?",
+    "answers": [
+      "A person with a criminal record",
+      "A person already holding a driver's permit",
+      "Transport business owner",
+      "Person working on site"
+    ],
+    "correctAnswer": 2,
+    "category": 2,
+    "image": ""
+  },
+  {
+    "question": "Who determines whether a vehicle is roadworthy?",
+    "answers": [
+      "Traffic police",
+      "Mechanical engineer",
+      "Driver",
+      "Transport office"
+    ],
+    "correctAnswer": 3,
+    "category": 3,
+    "image": ""
+  },
+  {
+    "question": "What should you do to stop suddenly in an emergency?",
+    "answers": [
+      "Apply brakes safely",
+      "Use the horn",
+      "Ask the traffic police",
+      "None of the above"
+    ],
+    "correctAnswer": 1,
+    "category": 3,
+    "image": ""
+  },
+  {
+    "question": "How can water enter the engine?",
+    "answers": [
+      "Through the exhaust pipe",
+      "Through the air intake",
+      "Through other openings",
+      "All of the above"
+    ],
+    "correctAnswer": 3,
+    "category": 3,
+    "image": ""
+  },
+  {
+    "question": "What does a speedometer measure?",
+    "answers": [
+      "Vehicle speed",
+      "Engine temperature",
+      "Odometer reading",
+      "All of the above"
+    ],
+    "correctAnswer": 1,
+    "category": 3,
+    "image": ""
+  },
+  {
+    "question": "When do brake lights turn on?",
+    "answers": [
+      "When changing gear",
+      "When braking",
+      "When pressing the brake pedal",
+      "When stopping"
+    ],
+    "correctAnswer": 3,
+    "category": 3,
+    "image": ""
+  },
+  {
+    "question": "What is the function of a spark plug?",
+    "answers": [
+      "To produce a spark",
+      "To supply fuel to the engine",
+      "To cool the engine",
+      "None of the above"
+    ],
+    "correctAnswer": 1,
+    "category": 3,
+    "image": ""
+  },
+  {
+    "question": "What does 'four-wheel drive' refer to?",
+    "answers": [
+      "A vehicle with brakes on all four wheels",
+      "A vehicle with engine power delivered to all four wheels",
+      "A vehicle for short distances",
+      "All of the above"
+    ],
+    "correctAnswer": 2,
+    "category": 3,
+    "image": ""
+  },
+  {
+    "question": "Which of the following are sources of power for vehicles?",
+    "answers": [
+      "Electricity",
+      "Air pressure",
+      "Brakes",
+      "All of the above"
+    ],
+    "correctAnswer": 1,
+    "category": 3,
+    "image": ""
+  },
+  {
+    "question": "What is used to lubricate engine parts?",
+    "answers": [
+      "Gasoline",
+      "Diesel",
+      "Engine oil",
+      "Water"
+    ],
+    "correctAnswer": 3,
+    "category": 3,
+    "image": ""
+  },
+  {
+    "question": "Which device increases the amount of fuel in a carburetor?",
+    "answers": [
+      "Spark plug",
+      "Choke",
+      "Battery",
+      "None of the above"
+    ],
+    "correctAnswer": 4,
+    "category": 3,
+    "image": ""
+  },
+  {
+    "question": "What is the function of a master cylinder?",
+    "answers": [
+      "Helps the vehicle move",
+      "Helps in climbing",
+      "Helps in reversing",
+      "None of the above"
+    ],
+    "correctAnswer": 4,
+    "category": 3,
+    "image": ""
+  },
+  {
+    "question": "In which type of engine is a carburetor used?",
+    "answers": [
+      "Petrol engine",
+      "Diesel engine",
+      "Electronic engine",
+      "All of the above"
+    ],
+    "correctAnswer": 1,
+    "category": 3,
+    "image": ""
+  },
+  {
+    "question": "Which parts help maintain the speed of a car?",
+    "answers": [
+      "Brakes and accelerator",
+      "Accelerator and steering",
+      "Gear and accelerator",
+      "Fan belt and accelerator"
+    ],
+    "correctAnswer": 3,
+    "category": 3,
+    "image": ""
+  },
+  {
+    "question": "What should you do if the oil pressure warning light turns red on the dashboard?",
+    "answers": [
+      "Start the engine",
+      "Turn off the engine",
+      "Ignore it",
+      "Continue driving"
+    ],
+    "correctAnswer": 2,
+    "category": 3,
+    "image": ""
+  },
+  {
+    "question": "What is kept in a radiator?"
+    "answers": [
+      "gasoline",
+      "Diesel",
+      "water",
+      "acid"
+    ],
+    "correctAnswer": 3,
+    "category": 3,
+    "image": ""
+  },
+  {
+    "question": "In which gear should the vehicle be when starting the engine?",
+    "answers": [
+      "In first gear",
+      "In second gear",
+      "In third gear",
+      "In neutral"
+    ],
+    "correctAnswer": 4,
+    "category": 3,
+    "image": ""
+  },
+  {
+    "question": "What should you do if black smoke comes out when starting the engine?",
+    "answers": [
+      "Close the exhaust pipe",
+      "Check the exhaust pipe",
+      "Take the vehicle for engine maintenance",
+      "Add fuel"
+    ],
+    "correctAnswer": 3,
+    "category": 3,
+    "image": ""
+  },
+  {
+    "question": "What is the name of the meter used to measure battery current?",
+    "answers": [
+      "Lactometer",
+      "Speedometer",
+      "Hydrometer",
+      "Ammeter"
+    ],
+    "correctAnswer": 4,
+    "category": 3,
+    "image": ""
+  },
+  {
+    "question": "Which gear should be used when reversing the vehicle?",
+    "answers": [
+      "Hand gear",
+      "First gear",
+      "Third gear",
+      "Reverse gear"
+    ],
+    "correctAnswer": 4,
+    "category": 3,
+    "image": ""
+  },
+  {
+    "question": "What is the function of the clutch?",
+    "answers": [
+      "Increase speed",
+      "Reduce speed",
+      "Disconnect engine from gear",
+      "To stop"
+    ],
+    "correctAnswer": 3,
+    "category": 3,
+    "image": ""
+  },
+  {
+    "question": "What is the effect of using A/C in a vehicle?",
+    "answers": [
+      "Increases fuel consumption",
+      "Uses the dynamo",
+      "Both a and b",
+      "Neither a nor b"
+    ],
+    "correctAnswer": 4,
+    "category": 3,
+    "image": ""
+  },
+  {
+    "question": "What is the main function of the gear lever?",
+    "answers": [
+      "To accelerate the vehicle quickly",
+      "To stop",
+      "To provide necessary power to the vehicle",
+      "To help the vehicle overtake"
+    ],
+    "correctAnswer": 3,
+    "category": 3,
+    "image": ""
+  },
+  {
+    "question": "What is the function of the brake?",
+    "answers": [
+      "To stop the vehicle",
+      "To increase the speed of the vehicle",
+      "To accelerate the vehicle",
+      "To turn the vehicle"
+    ],
+    "correctAnswer": 1,
+    "category": 3,
+    "image": ""
+  },
+  {
+    "question": "What does the Fool meters show?",
+    "answers": [
+      "The amount of fuel",
+      "The amount of water",
+      "The amount of the monulous",
+      "all of the above"
+    ],
+    "correctAnswer": 1,
+    "category": 3,
+    "image": ""
+  },
+  {
+    "question": "What should the vehicle's tires to be done?",
+    "answers": [
+      "to run at the tip guy",
+      "The wind uses by a low less",
+      "keeping the pressure of the wind",
+      "none of the above"
+    ],
+    "correctAnswer": 3,
+    "category": 3,
+    "image": ""
+  },
+  {
+    "question": "What happens if the engine is dug out?",
+    "answers": [
+      "engine turns more",
+      "Current sounds",
+      "engine turns off",
+      "nothing happens"
+    ],
+    "correctAnswer": 3,
+    "category": 3,
+    "image": ""
+  },
+  {
+    "question": "What is the work of carviewer?",
+    "answers": [
+      "to cool the engine",
+      "Heasiness to Heat Engine",
+      "To distort to increase the speed of engine",
+      "none"
+    ],
+    "correctAnswer": 4,
+    "category": 3,
+    "image": ""
+  },
+  {
+    "question": "The driver is not to check before driving?",
+    "answers": [
+      "Lots",
+      "Chakhs",
+      "The color color",
+      "break"
+    ],
+    "correctAnswer": 3,
+    "category": 3,
+    "image": ""
+  },
+  {
+    "question": "What should be done when a gear is leaping from deferenceal?",
+    "answers": [
+      "To be used by time to time",
+      "Mont repair how to take the lest",
+      "keeping a voice until the sound of the eyes",
+      "Maintaining up (d) until heated hot"
+    ],
+    "correctAnswer": 2,
+    "category": 3,
+    "image": ""
+  },
+  {
+    "question": "What controls the ride wheel?",
+    "answers": [
+      "In engine",
+      "break",
+      "Buddy",
+      "Battery"
+    ],
+    "correctAnswer": 2,
+    "category": 3,
+    "image": ""
+  },
+  {
+    "question": "How long does the Riveters lights?",
+    "answers": [
+      "when wearing brakes",
+      "When wearing a hand break",
+      "While pressing the Aclet",
+      "all of the above"
+    ],
+    "correctAnswer": 4,
+    "category": 3,
+    "image": ""
+  },
+  {
+    "question": "What is compromised within a cylindere of the decade engine?",
+    "answers": [
+      "to water",
+      "Finance",
+      "the wind",
+      "all of the above"
+    ],
+    "correctAnswer": 3,
+    "category": 3,
+    "image": ""
+  },
+  {
+    "question": "What should check if the sudden foot break is?",
+    "answers": [
+      "to check the pressure of the wheel",
+      "Break-Oil Label to Check",
+      "To check the master cylindere",
+      "all of the above"
+    ],
+    "correctAnswer": 4,
+    "category": 3,
+    "image": ""
+  },
+  {
+    "question": "What should you do to start in winter season?",
+    "answers": [
+      "should be pressing Start Sweets",
+      "should add water to the monial",
+      "must add fuel",
+      "should be used chick"
+    ],
+    "correctAnswer": 4,
+    "category": 3,
+    "image": ""
+  },
+  {
+    "question": "How is the battery in a vehicle charge?",
+    "answers": [
+      "from the engine of the vehicle",
+      "from the fuel's fuel",
+      "from the Dinamo's Dinamo",
+      "none of the above"
+    ],
+    "correctAnswer": 3,
+    "category": 3,
+    "image": ""
+  },
+  {
+    "question": "What is the job of the depip stick?",
+    "answers": [
+      "To check the amount of the monobil",
+      "To check the amount of water",
+      "Opening oilmorial",
+      "None of the above"
+    ],
+    "correctAnswer": 1,
+    "category": 3,
+    "image": ""
+  },
+  {
+    "question": "What is the work of the acletler?",
+    "answers": [
+      "the engine heating",
+      "Close oils",
+      "To give an amount of oil as speeded",
+      "Smoke a lot of throwing"
+    ],
+    "correctAnswer": 3,
+    "category": 3,
+    "image": ""
+  },
+  {
+    "question": "What is deflectible work?",
+    "answers": [
+      "to turn the wheel",
+      "filling the air on the wheel",
+      "to make a puncher of the wheel",
+      "None of the above"
+    ],
+    "correctAnswer": 1,
+    "category": 3,
+    "image": ""
+  },
+  {
+    "question": "What is the main task of the action of the vehicle?",
+    "answers": [
+      "keeping the vehicle",
+      "(B) (B) The load.",
+      "Going to the moon",
+      "Mening for White"
+    ],
+    "correctAnswer": 1,
+    "category": 3,
+    "image": ""
+  },
+  {
+    "question": "What is the wiper?",
+    "answers": [
+      "speed acceleration",
+      "B",
+      "Tawell",
+      "Cleaning machine"
+    ],
+    "correctAnswer": 4,
+    "category": 3,
+    "image": ""
+  },
+  {
+    "question": "What is the name of the production device produced in the current engine?",
+    "answers": [
+      "Storage Battery",
+      "Charging Dianamo",
+      "Drratel",
+      "Turchlight"
+    ],
+    "correctAnswer": 2,
+    "category": 3,
+    "image": ""
+  },
+  {
+    "question": "What is the petrol engine called in another word?",
+    "answers": [
+      "Digse engine",
+      "Hydroulic engine",
+      "Gasoline Engine",
+      "all of the above"
+    ],
+    "correctAnswer": 3,
+    "category": 3,
+    "image": ""
+  },
+  {
+    "question": "Hand break is considered dangerous to put into what conditions?",
+    "answers": [
+      "On the rising",
+      "On Oraleo",
+      "in case of excess speedered",
+      "on moons"
+    ],
+    "correctAnswer": 3,
+    "category": 3,
+    "image": ""
+  },
+  {
+    "question": "Where does the steering work?",
+    "answers": [
+      "in front of ahead",
+      "on the back wheel",
+      "in the gear",
+      "in engine"
+    ],
+    "correctAnswer": 1,
+    "category": 3,
+    "image": ""
+  },
+  {
+    "question": "Where does the break in the ride work?",
+    "answers": [
+      "in engine",
+      "On the steering",
+      "On the wheel",
+      "(d) gear"
+    ],
+    "correctAnswer": 3,
+    "category": 3,
+    "image": ""
+  },
+  {
+    "question": "What system is connected in the break?",
+    "answers": [
+      "Mechanical",
+      "Hydraulic system",
+      "to be both of the ks and b",
+      "are not both a and b."
+    ],
+    "correctAnswer": 2,
+    "category": 3,
+    "image": ""
+  },
+  {
+    "question": "What if the battery should have lower the lewell?",
+    "answers": [
+      "To drive a stream",
+      "To put distilter",
+      "Mionalwater",
+      "oil oil"
+    ],
+    "correctAnswer": 2,
+    "category": 3,
+    "image": ""
+  },
+  {
+    "question": "How long should choke Liver close?",
+    "answers": [
+      "After the engine closed",
+      "At any time",
+      "After engine start",
+      "all of the above"
+    ],
+    "correctAnswer": 3,
+    "category": 3,
+    "image": ""
+  },
+  {
+    "question": "What should be done if Black Smoke came to drip?",
+    "answers": [
+      "the fuel should be added",
+      "engine must repair",
+      "must turn off the cylester pipe",
+      "All of the above"
+    ],
+    "correctAnswer": 2,
+    "category": 3,
+    "image": ""
+  },
+  {
+    "question": "Which of the device is not the lower one of the measuring ranks?",
+    "answers": [
+      "Hydrometer",
+      "Thermal Mit",
+      "Hector",
+      "all of the above"
+    ],
+    "correctAnswer": 4,
+    "category": 3,
+    "image": ""
+  },
+  {
+    "question": "What does the battery overturn away from being charged?",
+    "answers": [
+      "carburettor",
+      "cut out",
+      "Air General",
+      "No"
+    ],
+    "correctAnswer": 2,
+    "category": 3,
+    "image": ""
+  },
+  {
+    "question": "What is the ignition Switch?",
+    "answers": [
+      "with engine and clutch",
+      "with engine and gearbox",
+      "with engine and battery",
+      "all of the above"
+    ],
+    "correctAnswer": 3,
+    "category": 3,
+    "image": ""
+  },
+  {
+    "question": "Where does the car turn the car when a moving vehicle in front of a moving vehicle?",
+    "answers": [
+      "don't turn anywhere",
+      "to the right",
+      "toward the left",
+      "Stuck up"
+    ],
+    "correctAnswer": 2,
+    "category": 3,
+    "image": ""
+  },
+  {
+    "question": "What dialing is held in the steering vex?",
+    "answers": [
+      "Breaky layer",
+      "Mville",
+      "Steering Attance",
+      "Grizz"
+    ],
+    "correctAnswer": 3,
+    "category": 3,
+    "image": ""
+  },
+  {
+    "question": "What is the main source of electricity in engine?",
+    "answers": [
+      "gasoline",
+      "Battery",
+      "Mville",
+      "Diesel"
+    ],
+    "correctAnswer": 2,
+    "category": 3,
+    "image": ""
+  },
+  {
+    "question": "What doesn't the engine of the vehicle run due to the following?",
+    "answers": [
+      "in a low-speed in a good",
+      "If the engine remained in the right",
+      "If the fuel is not done",
+      "none of the above"
+    ],
+    "correctAnswer": 4,
+    "category": 3,
+    "image": ""
+  },
+  {
+    "question": "How much is the capacity of four wheeled vehicles used in a vehicle training center?",
+    "answers": [
+      "(a) 996 C.S.",
+      "998 C.S.",
+      "C.S.",
+      "795 C.S."
+    ],
+    "correctAnswer": 1,
+    "category": 3,
+    "image": ""
+  },
+  {
+    "question": "How much is the effective capacity building used at a vehicle training center used at the current electricity.",
+    "answers": [
+      "1000 watt",
+      "80 watts",
+      "900 watt",
+      "70 watts"
+    ],
+    "correctAnswer": 1,
+    "category": 3,
+    "image": ""
+  },
+  {
+    "question": "What does the car's wheel turning work?",
+    "answers": [
+      "Radiator",
+      "Gear with",
+      "Defensive",
+      "None of the above"
+    ],
+    "correctAnswer": 3,
+    "category": 3,
+    "image": ""
+  },
+  {
+    "question": "What is not in the radiator?",
+    "answers": [
+      "gasoline",
+      "Diesel",
+      "Acid",
+      "all of the above"
+    ],
+    "correctAnswer": 4,
+    "category": 3,
+    "image": ""
+  },
+  {
+    "question": "What controls the power of the engine?",
+    "answers": [
+      "Acleterator",
+      "by break",
+      "Steeringle",
+      "Clutch"
+    ],
+    "correctAnswer": 1,
+    "category": 3,
+    "image": ""
+  },
+  {
+    "question": "What does the work of giving a current current in the vehicle does?",
+    "answers": [
+      "Acleterator",
+      "Clutch",
+      "Steeringle",
+      "Spark plug with"
+    ],
+    "correctAnswer": 4,
+    "category": 3,
+    "image": ""
+  },
+  {
+    "question": "What is the work of Dyinamo?",
+    "answers": [
+      "To make the current shopping",
+      "To cool the water of radiator",
+      "Charging Wartry",
+      "is not the work of Dyinamo"
+    ],
+    "correctAnswer": 3,
+    "category": 3,
+    "image": ""
+  },
+  {
+    "question": "What makes the engine player smooth?",
+    "answers": [
+      "griz",
+      "Mobil",
+      "Steering Attance",
+      "all of the above"
+    ],
+    "correctAnswer": 4,
+    "category": 3,
+    "image": ""
+  },
+  {
+    "question": "Which of the following is not used for",
+    "answers": [
+      "Speedometer",
+      "Thermorm",
+      "Telecope",
+      "No"
+    ],
+    "correctAnswer": 4,
+    "category": 3,
+    "image": ""
+  },
+  {
+    "question": "Which of the following is the work of the balance?",
+    "answers": [
+      "to increase the speed of the vehicle",
+      "To turn the vehicle",
+      "To back the vehicle",
+      "all of the above"
+    ],
+    "correctAnswer": 4,
+    "category": 3,
+    "image": ""
+  },
+  {
+    "question": "What must we do east?",
+    "answers": [
+      "To inspect the condition of the vehicle",
+      "To inform the traffic",
+      "To report mechanical engineer",
+      "all of the above"
+    ],
+    "correctAnswer": 1,
+    "category": 3,
+    "image": ""
+  },
+  {
+    "question": "What does the rotation of fan take?",
+    "answers": [
+      "Acleterator",
+      "Clutch",
+      "Fan beltley",
+      "all of the above"
+    ],
+    "correctAnswer": 3,
+    "category": 3,
+    "image": ""
+  },
+  {
+    "question": "What should you have to see to see the amount of a fool in the car?",
+    "answers": [
+      "FULL MET",
+      "speedeometer",
+      "thermometer",
+      "all of the above"
+    ],
+    "correctAnswer": 1,
+    "category": 3,
+    "image": ""
+  },
+  {
+    "question": "What is not the main job of the acletler?",
+    "answers": [
+      "heating engine",
+      "The oil",
+      "Reducing pollution",
+      "all of the above"
+    ],
+    "correctAnswer": 4,
+    "category": 3,
+    "image": ""
+  },
+  {
+    "question": "Where does the steering work not?",
+    "answers": [
+      "in the gear",
+      "In engine",
+      "in brak",
+      "No"
+    ],
+    "correctAnswer": 4,
+    "category": 3,
+    "image": ""
+  },
+  {
+    "question": "What does the brake not work in?",
+    "answers": [
+      "In engine",
+      "On the gear",
+      "on the steering",
+      "all of the above"
+    ],
+    "correctAnswer": 4,
+    "category": 3,
+    "image": ""
+  },
+  {
+    "question": "What is the main source of electricity in a vehicle?",
+    "answers": [
+      "fuel",
+      "engine",
+      "Dynamo",
+      "none"
+    ],
+    "correctAnswer": 4,
+    "category": 3,
+    "image": ""
+  },
+  {
+    "question": "What does the work of bringing Moquil to various parts?",
+    "answers": [
+      "Chock",
+      "The Real Pump",
+      "Bleeding",
+      "all of the above"
+    ],
+    "correctAnswer": 2,
+    "category": 3,
+    "image": ""
+  },
+  {
+    "question": "Which oil is thrown in the engine?",
+    "answers": [
+      "Matcastale",
+      "Breakal camels",
+      "Engine oil",
+      "Dizl Real"
+    ],
+    "correctAnswer": 3,
+    "category": 3,
+    "image": ""
+  },
+  {
+    "question": "What do you need to be diesel engine start?",
+    "answers": [
+      "diesel and air",
+      "plug spark",
+      "petrol and air",
+      "Carent"
+    ],
+    "correctAnswer": 1,
+    "category": 3,
+    "image": ""
+  },
+  {
+    "question": "Which part does the part of the vehicle not work well in the drown of the vehicle?",
+    "answers": [
+      "light",
+      "Clutch",
+      "footbrain",
+      "Hand Break"
+    ],
+    "correctAnswer": 3,
+    "category": 3,
+    "image": ""
+  },
+  {
+    "question": "C.S. in a vehicle",
+    "answers": [
+      "capacity of engine",
+      "ability of brake",
+      "Ability to gear box",
+      "all of the above"
+    ],
+    "correctAnswer": 1,
+    "category": 3,
+    "image": ""
+  },
+  {
+    "question": "Which of the workplace of workshop is about the following?",
+    "answers": [
+      "making a broken ride",
+      "To make a finishing of the vehicle",
+      "to make a body of vehicles",
+      "all of the above"
+    ],
+    "correctAnswer": 4,
+    "category": 3,
+    "image": ""
+  },
+  {
+    "question": "Which of the work of the Dryving Training Center is?",
+    "answers": [
+      "to help fill the license form",
+      "To register the license form",
+      "Teaching in a trial exam",
+      "Training to drive vehicles"
+    ],
+    "correctAnswer": 4,
+    "category": 3,
+    "image": ""
+  },
+  {
+    "question": "What does it mean to refer to ride?",
+    "answers": [
+      "Mobil of (a) engine",
+      "(B) (B",
+      "waste inside the vehicle",
+      "Smoke out of the ride"
+    ],
+    "correctAnswer": 4,
+    "category": 4,
+    "image": ""
+  },
+  {
+    "question": "Which part of the vehicle in pollution from vehicles affect?",
+    "answers": [
+      "by break",
+      "The gear box",
+      "Filley",
+      "Status of engine"
+    ],
+    "correctAnswer": 4,
+    "category": 4,
+    "image": ""
+  },
+  {
+    "question": "Which is the lowest engine?",
+    "answers": [
+      "Development Engine",
+      "Patrol engine",
+      "Electrical engine",
+      "Coal engine"
+    ],
+    "correctAnswer": 3,
+    "category": 4,
+    "image": ""
+  },
+  {
+    "question": "What pollution is caused by horn?",
+    "answers": [
+      "the pollution of the air",
+      "The pollution of the soil",
+      "Pollution water",
+      "sound pollution"
+    ],
+    "correctAnswer": 4,
+    "category": 4,
+    "image": ""
+  },
+  {
+    "question": "Which of the vehicles in the to-stroke and fore-stroke engine produces the atmosphere?",
+    "answers": [
+      "to-stroke",
+      "Four-stroke",
+      "both and bull",
+      "No."
+    ],
+    "correctAnswer": 1,
+    "category": 4,
+    "image": ""
+  },
+  {
+    "question": "Bring it suitable when it comes to pollution free city?",
+    "answers": [
+      "Electrical",
+      "Diesel",
+      "petrol",
+      "gas"
+    ],
+    "correctAnswer": 1,
+    "category": 4,
+    "image": ""
+  },
+  {
+    "question": "Where does the pollution of the security driven by electricity be tested?",
+    "answers": [
+      "Department of Transportation",
+      "Electricity Authority",
+      "Change Management Office",
+      "none"
+    ],
+    "correctAnswer": 4,
+    "category": 4,
+    "image": ""
+  },
+  {
+    "question": "Under what areas do not play?",
+    "answers": [
+      "the original road",
+      "area with traffic jams",
+      "Close to school and hospital",
+      "in a place where the slogan rally"
+    ],
+    "correctAnswer": 3,
+    "category": 4,
+    "image": ""
+  },
+  {
+    "question": "Where does the smoke smoke of vehicles do not have?",
+    "answers": [
+      "Salayer",
+      "Engine",
+      "Gear",
+      "axle"
+    ],
+    "correctAnswer": 1,
+    "category": 4,
+    "image": ""
+  },
+  {
+    "question": "Currently which vehicle pollution criteria applied?",
+    "answers": [
+      "V.S.",
+      "V.S.",
+      "V.S.",
+      "V.S."
+    ],
+    "correctAnswer": 3,
+    "category": 4,
+    "image": ""
+  },
+  {
+    "question": "Why is the disadvantage of vehicles?",
+    "answers": [
+      "Ride condition is ok / not to know",
+      "to protect from a vehicle accident",
+      "both and bull",
+      "No"
+    ],
+    "correctAnswer": 3,
+    "category": 4,
+    "image": ""
+  },
+  {
+    "question": "Who does the pollution of a vehicle does?",
+    "answers": [
+      "Riding Test Office",
+      "Transportation Association",
+      "Police Office",
+      "both and both of them"
+    ],
+    "correctAnswer": 4,
+    "category": 4,
+    "image": ""
+  },
+  {
+    "question": "In which of the following types of vehicle is not applicable, 2069, 2009?",
+    "answers": [
+      "private vehicles",
+      "big buses",
+      "mechanisms such as dowzer loader",
+      "everyone thinks"
+    ],
+    "correctAnswer": 3,
+    "category": 4,
+    "image": ""
+  },
+  {
+    "question": "What happens if the droplet of pollution is not stickers in the banned area?",
+    "answers": [
+      "fine",
+      "Sefted ride",
+      "imprisonment",
+      "both and both of them"
+    ],
+    "correctAnswer": 1,
+    "category": 4,
+    "image": ""
+  },
+  {
+    "question": "Which vehicles do not have to test the pollution of means?",
+    "answers": [
+      "moving from petrol",
+      "Following",
+      "Stopping the degeel",
+      "None of the above"
+    ],
+    "correctAnswer": 2,
+    "category": 4,
+    "image": ""
+  },
+  {
+    "question": "Who doesn't interview of a ride?",
+    "answers": [
+      "Riding Test Office",
+      "Transportation Association",
+      "Police Office",
+      "No"
+    ],
+    "correctAnswer": 3,
+    "category": 4,
+    "image": ""
+  },
+  {
+    "question": "What is usually tested in a vehicle pollution check?",
+    "answers": [
+      "Brake",
+      "Buddy",
+      "of smoke",
+      "Shawn"
+    ],
+    "correctAnswer": 3,
+    "category": 4,
+    "image": ""
+  },
+  {
+    "question": "Who works on a vehicle to ride a vehicle?",
+    "answers": [
+      "The Ministry of Physical Infrastructure and Transportation",
+      "The Department of Transport Management",
+      "Police Office",
+      "Auditor General"
+    ],
+    "correctAnswer": 4,
+    "category": 4,
+    "image": ""
+  },
+  {
+    "question": "Which color stickers are pasted in a clean tempo?",
+    "answers": [
+      "blue",
+      "Red",
+      "green",
+      "No"
+    ],
+    "correctAnswer": 3,
+    "category": 4,
+    "image": ""
+  },
+  {
+    "question": "What pollution is caused by the smoke of riding?",
+    "answers": [
+      "the pollution of air",
+      "The pollution of the soil",
+      "Pollution water",
+      "contamination of sound"
+    ],
+    "correctAnswer": 1,
+    "category": 4,
+    "image": ""
+  },
+  {
+    "question": "Which fuel has more pollution?",
+    "answers": [
+      "Electrical",
+      "Diesel",
+      "petrol",
+      "gas"
+    ],
+    "correctAnswer": 3,
+    "category": 4,
+    "image": ""
+  },
+  {
+    "question": "What vehicles do the Investment Certificate Required?",
+    "answers": [
+      "private ride",
+      "Rent Ride",
+      "Government riding",
+      "all of the above"
+    ],
+    "correctAnswer": 2,
+    "category": 4,
+    "image": ""
+  },
+  {
+    "question": "Where should a motorcycle check?",
+    "answers": [
+      "Transportation system office",
+      "garage",
+      "Worksop",
+      "None of the above"
+    ],
+    "correctAnswer": 4,
+    "category": 4,
+    "image": ""
+  },
+  {
+    "question": "What color is the pollute Sticker?",
+    "answers": [
+      "green",
+      "Blue",
+      "yellow",
+      "Red"
+    ],
+    "correctAnswer": 1,
+    "category": 4,
+    "image": ""
+  },
+  {
+    "question": "What happens to run a vehicle without checking pollution?",
+    "answers": [
+      "imprisonment",
+      "finely",
+      "both and bull",
+      "nothing happens"
+    ],
+    "correctAnswer": 2,
+    "category": 4,
+    "image": ""
+  },
+  {
+    "question": "How long at the pollution of government vehicles?",
+    "answers": [
+      "In 6/6 months",
+      "In the 1/2 years",
+      "in 2/2 years",
+      "in 3/3 months"
+    ],
+    "correctAnswer": 2,
+    "category": 4,
+    "image": ""
+  },
+  {
+    "question": "What does the green sticker sticking to the vehicle indicate?",
+    "answers": [
+      "The pollution of vehicles has been checked",
+      "The vehicle is pollutionless",
+      "both and bull",
+      "No"
+    ],
+    "correctAnswer": 2,
+    "category": 4,
+    "image": ""
+  },
+  {
+    "question": "Which of the following vehicle doesn't smoke smoke?",
+    "answers": [
+      "Just",
+      "Min",
+      "Truck",
+      "Trolibus"
+    ],
+    "correctAnswer": 4,
+    "category": 4,
+    "image": ""
+  },
+  {
+    "question": "How to reduce pollution?",
+    "answers": [
+      "by using air conditioning and hitter less",
+      "engine in case right",
+      "by running a vehicle less",
+      "all of the above"
+    ],
+    "correctAnswer": 4,
+    "category": 4,
+    "image": ""
+  },
+  {
+    "question": "What has the vehicle pollution rule applied?",
+    "answers": [
+      "In Kathmandu Valley",
+      "In Birgunj market",
+      "In Biratnagar sub-metropolitan",
+      "across Nepal"
+    ],
+    "correctAnswer": 1,
+    "category": 4,
+    "image": ""
+  },
+  {
+    "question": "What does the street security refer to what?",
+    "answers": [
+      "The vehicle driver carefully",
+      "Following a vehicle rules",
+      "to give the vehicle on the roadside vehicle",
+      "all of the above"
+    ],
+    "correctAnswer": 4,
+    "category": 5,
+    "image": ""
+  },
+  {
+    "question": "Which light should be clothed when the vehicle should be burned?",
+    "answers": [
+      "frog light",
+      "Head Light",
+      "Break light",
+      "side light"
+    ],
+    "correctAnswer": 4,
+    "category": 5,
+    "image": ""
+  },
+  {
+    "question": "What is the meaning of red traffic light?",
+    "answers": [
+      "Signal to be cautious",
+      "to prevent vehicles",
+      "The signs of being secured",
+      "No"
+    ],
+    "correctAnswer": 2,
+    "category": 5,
+    "image": ""
+  },
+  {
+    "question": "What is the use of horning?",
+    "answers": [
+      "Use only in a essential situation",
+      "Do not go unused",
+      "playing in a very crowded place",
+      "all of the above"
+    ],
+    "correctAnswer": 1,
+    "category": 5,
+    "image": ""
+  },
+  {
+    "question": "Under what circumstances should the cell stop?",
+    "answers": [
+      "If the traffic light referred to by traffic lights",
+      "In the place of Man Ohol in Jobra crossings",
+      "If the traffic police indicated",
+      "all of the above"
+    ],
+    "correctAnswer": 4,
+    "category": 5,
+    "image": ""
+  },
+  {
+    "question": "In what part of Zebra crossings is placed on the road?",
+    "answers": [
+      "(a) in the square",
+      "in all squares",
+      "Out other than choke",
+      "all of the above"
+    ],
+    "correctAnswer": 1,
+    "category": 5,
+    "image": ""
+  },
+  {
+    "question": "What area should have to reduce the vehicle?",
+    "answers": [
+      "School area",
+      "A delicious settlement place",
+      "Chauwalu",
+      "all of the above"
+    ],
+    "correctAnswer": 4,
+    "category": 5,
+    "image": ""
+  },
+  {
+    "question": "What happens if it takes a ride on a quick run?",
+    "answers": [
+      "The vehicle rises increased",
+      "is quick to the destination",
+      "chances likely to happen",
+      "ride is old"
+    ],
+    "correctAnswer": 3,
+    "category": 5,
+    "image": ""
+  },
+  {
+    "question": "What is Jbrura crossings made for?",
+    "answers": [
+      "ride to cross the road",
+      "the animal to cross the road",
+      "to prevent vehicles",
+      "hiking to cross the road"
+    ],
+    "correctAnswer": 4,
+    "category": 5,
+    "image": ""
+  },
+  {
+    "question": "What should not be done by driving a ride in schools and hospitals?",
+    "answers": [
+      "should not play",
+      "Rugged rapidly not to be used",
+      "should not be overtake",
+      "all of the above"
+    ],
+    "correctAnswer": 4,
+    "category": 5,
+    "image": ""
+  },
+  {
+    "question": "How much speed do you have to ride per hour in a thick settlement area?",
+    "answers": [
+      "less than 40 kilometers",
+      "less than 40 kilometers",
+      "less than 35 km",
+      "Everything of the above"
+    ],
+    "correctAnswer": 1,
+    "category": 5,
+    "image": ""
+  },
+  {
+    "question": "Who should the driver report if a ride accident?",
+    "answers": [
+      "to the nearest police",
+      "to a close residents",
+      "The injured are to relatives",
+      "All of the above"
+    ],
+    "correctAnswer": 4,
+    "category": 5,
+    "image": ""
+  },
+  {
+    "question": "What should man do to his riding time when a person is going to take the road?",
+    "answers": [
+      "to marine hand",
+      "Increased vehicle acceleration",
+      "turning a vehicle",
+      "to reduce the speed and take the way"
+    ],
+    "correctAnswer": 4,
+    "category": 5,
+    "image": ""
+  },
+  {
+    "question": "Why is the seat belt of seat belt while driving?",
+    "answers": [
+      "to show good",
+      "to avoid transportation of traffic police",
+      "to cause less damage to accidents",
+      "all of the above"
+    ],
+    "correctAnswer": 3,
+    "category": 5,
+    "image": ""
+  },
+  {
+    "question": "What happens if a tire puncture on the road?",
+    "answers": [
+      "without saying carefully",
+      "The vehicle ending down",
+      "Panchway to take up using spare tires",
+      "None of the above"
+    ],
+    "correctAnswer": 3,
+    "category": 5,
+    "image": ""
+  },
+  {
+    "question": "What should vehicles have to do?",
+    "answers": [
+      "the brakes of the vehicle and stop",
+      "Right Side light burning",
+      "to turn the left sides of the left sides",
+      "played to hang up too"
+    ],
+    "correctAnswer": 3,
+    "category": 5,
+    "image": ""
+  },
+  {
+    "question": "In what time does it mean that it is better not to run for security?",
+    "answers": [
+      "When a torrential rainfall",
+      "Drawing in a thick snow time",
+      "In a thick foggy time",
+      "all in the top"
+    ],
+    "correctAnswer": 4,
+    "category": 5,
+    "image": ""
+  },
+  {
+    "question": "What is the means of use when discovered the speed of riding on the road?",
+    "answers": [
+      "|",
+      "Race gun",
+      "Speed ​​Gun",
+      "No"
+    ],
+    "correctAnswer": 3,
+    "category": 5,
+    "image": ""
+  },
+  {
+    "question": "What is the meaning of red traffic light?",
+    "answers": [
+      "Signal to be cautious",
+      "to prevent vehicles",
+      "C",
+      "No"
+    ],
+    "correctAnswer": 4,
+    "category": 5,
+    "image": ""
+  },
+  {
+    "question": "In what ways should we do when it comes to uninterrupted (overseing)?",
+    "answers": [
+      "always from right",
+      "by playing",
+      "If the straightway and safe",
+      "all of the above"
+    ],
+    "correctAnswer": 4,
+    "category": 5,
+    "image": ""
+  },
+  {
+    "question": "Would you have to give first priority to the vehicles coming from a round moisture?",
+    "answers": [
+      "to those who come from the right",
+      "To those who come from left",
+      "to those who come from behind",
+      "None of the above"
+    ],
+    "correctAnswer": 1,
+    "category": 5,
+    "image": ""
+  },
+  {
+    "question": "What Sids Should I Overtake?",
+    "answers": [
+      "from left",
+      "from the right",
+      "from both sides",
+      "Not even from any sode"
+    ],
+    "correctAnswer": 2,
+    "category": 5,
+    "image": ""
+  },
+  {
+    "question": "What incidents should be given artificial oxygen in the accident?",
+    "answers": [
+      "Common",
+      "Blood flowing",
+      "There is unconscious condition",
+      "Hose in consciousness"
+    ],
+    "correctAnswer": 3,
+    "category": 5,
+    "image": ""
+  },
+  {
+    "question": "Who doesn't have to inform if the vehicle accident?",
+    "answers": [
+      "to the nearest police",
+      "to a close residents",
+      "The injured are to relatives",
+      "to the street passengers"
+    ],
+    "correctAnswer": 4,
+    "category": 5,
+    "image": ""
+  },
+  {
+    "question": "How should it be indicated ahead when overtakening?",
+    "answers": [
+      "the head lightweight",
+      "by playing",
+      "the side lightweight",
+      "all of the above"
+    ],
+    "correctAnswer": 4,
+    "category": 5,
+    "image": ""
+  },
+  {
+    "question": "Why is the accident more likely than during the day?",
+    "answers": [
+      "Since high speed and visuality is low",
+      "Since a more ride",
+      "Ship passengers serving intoxicators",
+      "Not even the above"
+    ],
+    "correctAnswer": 1,
+    "category": 5,
+    "image": ""
+  },
+  {
+    "question": "With what area do not have to minimize vehicles?",
+    "answers": [
+      "in a thick settlement",
+      "In the school area",
+      "in the quot",
+      "On the open path."
+    ],
+    "correctAnswer": 4,
+    "category": 5,
+    "image": ""
+  },
+  {
+    "question": "What not to do when driving?",
+    "answers": [
+      "should not talk on mobile",
+      "The intoxicating should not be served",
+      "passengers should not fight",
+      "all of the above"
+    ],
+    "correctAnswer": 4,
+    "category": 5,
+    "image": ""
+  },
+  {
+    "question": "What is the Balling Light while parking on the night?",
+    "answers": [
+      "Head light",
+      "SOD Light",
+      "Parking light",
+      "No"
+    ],
+    "correctAnswer": 3,
+    "category": 5,
+    "image": ""
+  },
+  {
+    "question": "What should be done when the next riding is about to overturn?",
+    "answers": [
+      "Increased your riding speeds",
+      "giving a walk and shade your riding",
+      "playing",
+      "not to do anything"
+    ],
+    "correctAnswer": 2,
+    "category": 5,
+    "image": ""
+  },
+  {
+    "question": "Which gear should ride a ride in the greater bokes?",
+    "answers": [
+      "in a gear",
+      "in two gear",
+      "in three gear",
+      "in four gear"
+    ],
+    "correctAnswer": 1,
+    "category": 5,
+    "image": ""
+  },
+  {
+    "question": "At what time should you look at the Lucing Glass?",
+    "answers": [
+      "when overtaking",
+      "While in a darkening",
+      "the right handed",
+      "all of the above"
+    ],
+    "correctAnswer": 4,
+    "category": 5,
+    "image": ""
+  },
+  {
+    "question": "What should not be done when a vehicle behind his riding?",
+    "answers": [
+      "slide and side day",
+      "to speed up",
+      "To play",
+      "d and c"
+    ],
+    "correctAnswer": 4,
+    "category": 5,
+    "image": ""
+  },
+  {
+    "question": "What is the status of the driver to be?",
+    "answers": [
+      "wearing clean clothes",
+      "Not having drugs",
+      "wearing shoes",
+      "Ninging overnight"
+    ],
+    "correctAnswer": 2,
+    "category": 5,
+    "image": ""
+  },
+  {
+    "question": "Who should a driver first inform if the nuasantical situation is not correct?",
+    "answers": [
+      "Traffic Police",
+      "the nearest police office",
+      "a vehicle rich or manager",
+      "District Administration Office"
+    ],
+    "correctAnswer": 3,
+    "category": 5,
+    "image": ""
+  },
+  {
+    "question": "Where to stop stopping when the vehicle stops?",
+    "answers": [
+      "just near the spot",
+      "Where there is a crowded place",
+      "In a place in parking",
+      "Among the middle of the road"
+    ],
+    "correctAnswer": 3,
+    "category": 5,
+    "image": ""
+  },
+  {
+    "question": "What should the driver do to enter the Men Road from Said Road?",
+    "answers": [
+      "to enter the spade",
+      "to stop the vehicle in the middle of the manrod",
+      "To enter the signs of signal",
+      "without disobedience"
+    ],
+    "correctAnswer": 3,
+    "category": 5,
+    "image": ""
+  },
+  {
+    "question": "What should you do when doing the ride?",
+    "answers": [
+      "to race an engine",
+      "Reserved mirror is a vehicle / hierarchy, not",
+      "to keep the vehicle back and look back",
+      "play (d"
+    ],
+    "correctAnswer": 2,
+    "category": 5,
+    "image": ""
+  },
+  {
+    "question": "What do you do before you start your vehicle?",
+    "answers": [
+      "the oil checks",
+      "Checks the gear",
+      "checks breaks and shakeers light",
+      "all of the above"
+    ],
+    "correctAnswer": 4,
+    "category": 5,
+    "image": ""
+  },
+  {
+    "question": "Under what circumstances is it appropriate to wear the hand break?",
+    "answers": [
+      "while starting the vehicle",
+      "While stopping the vehicle",
+      "When the vehicle appears to stop",
+      "Curtains to ran away"
+    ],
+    "correctAnswer": 2,
+    "category": 5,
+    "image": ""
+  },
+  {
+    "question": "What is the cause of vehicle accident?",
+    "answers": [
+      "Human fault",
+      "the mistake of the machine",
+      "The path of the road",
+      "all of the above"
+    ],
+    "correctAnswer": 4,
+    "category": 5,
+    "image": ""
+  },
+  {
+    "question": "Is it possible to accident with the vehicle when changing lakes in one way?",
+    "answers": [
+      "with a vehicle coming from ahead",
+      "With the vehicle from the right",
+      "with a car from the left",
+      "with a car from the back"
+    ],
+    "correctAnswer": 4,
+    "category": 5,
+    "image": ""
+  },
+  {
+    "question": "What must we do while driving?",
+    "answers": [
+      "The habitat gear wear",
+      "Looking at Said Mirror",
+      "Medificant",
+      "all of the above"
+    ],
+    "correctAnswer": 4,
+    "category": 5,
+    "image": ""
+  },
+  {
+    "question": "What is the following runner's situation to be of the following?",
+    "answers": [
+      "The power to see being good",
+      "Netoiled",
+      "Dinesh did not take alcohol",
+      "All of the above"
+    ],
+    "correctAnswer": 4,
+    "category": 5,
+    "image": ""
+  },
+  {
+    "question": "How to run a ride at time in a hurry?",
+    "answers": [
+      "horn and running and running",
+      "Break lights burning, shaking",
+      "running at the light crop secure speed",
+      "See the way to reach a quick way"
+    ],
+    "correctAnswer": 3,
+    "category": 5,
+    "image": ""
+  },
+  {
+    "question": "How do you need to run while driving in turnings?",
+    "answers": [
+      "run in the gear",
+      "To reduce the speede",
+      "To play a lot of light ahead of a tanning",
+      "all of the above"
+    ],
+    "correctAnswer": 4,
+    "category": 5,
+    "image": ""
+  },
+  {
+    "question": "Who is the duty to give a duty to the victims of the victims while driving?",
+    "answers": [
+      "rich",
+      "Chief District Officer",
+      "Traffic Police",
+      "Auditoring Accolution Office"
+    ],
+    "correctAnswer": 2,
+    "category": 5,
+    "image": ""
+  },
+  {
+    "question": "What happens if it takes a ride of alcohol?",
+    "answers": [
+      "could cause accidents",
+      "penalties are fined",
+      "both of the above",
+      "It is fun"
+    ],
+    "correctAnswer": 3,
+    "category": 5,
+    "image": ""
+  },
+  {
+    "question": "Why should the seatbelt use?",
+    "answers": [
+      "for rest",
+      "to avoid penalty",
+      "for safe trip",
+      "none of the above"
+    ],
+    "correctAnswer": 3,
+    "category": 5,
+    "image": ""
+  },
+  {
+    "question": "What should a person who have been injured in the accident first?",
+    "answers": [
+      "must take to the hospital",
+      "Elementary is concerned",
+      "must be separated from the crowd",
+      "no need to do"
+    ],
+    "correctAnswer": 2,
+    "category": 5,
+    "image": ""
+  },
+  {
+    "question": "The injured do the wounds immediately give food to eat?",
+    "answers": [
+      "happens",
+      "doesn't",
+      "To do what the injured will",
+      "to advise those present in the incident"
+    ],
+    "correctAnswer": 2,
+    "category": 5,
+    "image": ""
+  },
+  {
+    "question": "What happens to do when it is a ride during the rain?",
+    "answers": [
+      "A car wheel",
+      "that is not a break",
+      "Passengers can be shocked",
+      "all of the above"
+    ],
+    "correctAnswer": 4,
+    "category": 5,
+    "image": ""
+  },
+  {
+    "question": "What should not do in Zebra crossings?",
+    "answers": [
+      "to run in the cavalry",
+      "Traffic Police to stand",
+      "to prevent vehicles",
+      "all of the above"
+    ],
+    "correctAnswer": 4,
+    "category": 5,
+    "image": ""
+  },
+  {
+    "question": "What do vehicles have to do when a road?",
+    "answers": [
+      "to turn on the left sides",
+      "To turn the headlight crops",
+      "to turn right on the right sides",
+      "None of the above"
+    ],
+    "correctAnswer": 3,
+    "category": 5,
+    "image": ""
+  },
+  {
+    "question": "What should you do when you stop the car?",
+    "answers": [
+      "wear the oat",
+      "To keep in the first gear",
+      "wear handbreaks",
+      "all of the above"
+    ],
+    "correctAnswer": 4,
+    "category": 5,
+    "image": ""
+  },
+  {
+    "question": "What light should be like to see the vehicle when it is in thick fog?",
+    "answers": [
+      "head light",
+      "break light",
+      "fog light",
+      "Side light"
+    ],
+    "correctAnswer": 3,
+    "category": 5,
+    "image": ""
+  },
+  {
+    "question": "What should you do to the epnowing ride when you are about to arrive?",
+    "answers": [
+      "to pass the right on the right left",
+      "Going forward only after maintaining (b) and ran (b",
+      "",
+      "all of the above"
+    ],
+    "correctAnswer": 4,
+    "category": 5,
+    "image": ""
+  },
+  {
+    "question": "Why is Mobil in the ride?",
+    "answers": [
+      "to save fuel",
+      "To facilitate engine operations",
+      "to run at a sharp motion",
+      "all of the above"
+    ],
+    "correctAnswer": 4,
+    "category": 5,
+    "image": ""
+  },
+  {
+    "question": "What indicates the trap of rides?",
+    "answers": [
+      "Silenseer Pep of Bit",
+      "District without Syareser",
+      "engine deteriorated",
+      "not fuel"
+    ],
+    "correctAnswer": 3,
+    "category": 5,
+    "image": ""
+  },
+  {
+    "question": "Under what circumstances is the clutch of pressure in danger?",
+    "answers": [
+      "in the downward road",
+      "more speed",
+      "in mode",
+      "all of the above"
+    ],
+    "correctAnswer": 1,
+    "category": 5,
+    "image": ""
+  },
+  {
+    "question": "What should be done in a green light when carriage in Zebra cross?",
+    "answers": [
+      "to move forward",
+      "to stop the vehicle",
+      "To be ready to move a ride",
+      "all of the above"
+    ],
+    "correctAnswer": 1,
+    "category": 6,
+    "image": ""
+  },
+  {
+    "question": "When it takes a car in Zebra Crossing, what should be a yellow light?",
+    "answers": [
+      "The sheer move forward",
+      "to stop the vehicle",
+      "To be ready to move a ride",
+      "all of the above"
+    ],
+    "correctAnswer": 3,
+    "category": 6,
+    "image": ""
+  },
+  {
+    "question": "What does the motionless line indicate?",
+    "answers": [
+      "to stop the vehicle",
+      "Reduce the vehicle speed",
+      "Terror",
+      "vehicle to run up quickly"
+    ],
+    "correctAnswer": 1,
+    "category": 6,
+    "image": ""
+  },
+  {
+    "question": "What should a red light in Zebra's cars reach?",
+    "answers": [
+      "The sheer move forward",
+      "to stop the vehicle",
+      "To be ready to move a ride",
+      "all of the above"
+    ],
+    "correctAnswer": 2,
+    "category": 6,
+    "image": ""
+  },
+  {
+    "question": "What should the red light of vehicles have to understand in a red light of vehicles?",
+    "answers": [
+      "Changed gear",
+      "Destroyed Side",
+      "Break is being performed",
+      "speed up"
+    ],
+    "correctAnswer": 3,
+    "category": 6,
+    "image": ""
+  },
+  {
+    "question": "What does a threeakun (triangle) refer to?",
+    "answers": [
+      "Incentrandogical",
+      "Rejection",
+      "restrictive",
+      "all of the above"
+    ],
+    "correctAnswer": 2,
+    "category": 6,
+    "image": ""
+  },
+  {
+    "question": "What does a fourkun (imported or square) size sign indicate?",
+    "answers": [
+      "Incentrandogical",
+      "Rejection",
+      "restrictive",
+      "all of the above"
+    ],
+    "correctAnswer": 1,
+    "category": 6,
+    "image": ""
+  },
+  {
+    "question": "What does the circular size of a traffic sign imagine?",
+    "answers": [
+      "Incentrandogical",
+      "Rejection",
+      "restrictive",
+      "all of the above"
+    ],
+    "correctAnswer": 3,
+    "category": 6,
+    "image": ""
+  },
+  {
+    "question": "Why is the road losing?",
+    "answers": [
+      "to make a vehicle smooth",
+      "to make the street well",
+      "To fine",
+      "all of the above"
+    ],
+    "correctAnswer": 1,
+    "category": 6,
+    "image": ""
+  },
+  {
+    "question": "Which of the following color is not used to lure roads?",
+    "answers": [
+      "white",
+      "(B) (B",
+      "red",
+      "Black"
+    ],
+    "correctAnswer": 3,
+    "category": 6,
+    "image": ""
+  },
+  {
+    "question": "Which color is not used to lure Zebra crossing?",
+    "answers": [
+      "Yellow",
+      "black",
+      "white",
+      "none of the above"
+    ],
+    "correctAnswer": 1,
+    "category": 6,
+    "image": ""
+  },
+  {
+    "question": "What does a constant white line drawn in the middle of the road?",
+    "answers": [
+      "the line is not to be crafted",
+      "The line is crushed",
+      "both of the above",
+      "none of the above"
+    ],
+    "correctAnswer": 1,
+    "category": 6,
+    "image": ""
+  },
+  {
+    "question": "How many types of bird lights are in traffic lights?",
+    "answers": [
+      "2 ways",
+      "3 species",
+      "Csight",
+      "5-8-"
+    ],
+    "correctAnswer": 2,
+    "category": 6,
+    "image": ""
+  },
+  {
+    "question": "Who is the gesture for the traffic gesture?",
+    "answers": [
+      "for a driver",
+      "for pedestrian",
+      "for the pedestrian and driver",
+      "none"
+    ],
+    "correctAnswer": 3,
+    "category": 6,
+    "image": ""
+  },
+  {
+    "question": "What is the color color of the traffic?",
+    "answers": [
+      "Yellow",
+      "Night",
+      "green",
+      "Black"
+    ],
+    "correctAnswer": 4,
+    "category": 6,
+    "image": ""
+  },
+  {
+    "question": "What is the Autometric traffic sign?",
+    "answers": [
+      "marked on the side of the road",
+      "The electrical light on the road",
+      "Police",
+      "No"
+    ],
+    "correctAnswer": 2,
+    "category": 6,
+    "image": ""
+  },
+  {
+    "question": "Whose duty is it to complying the traffic sign?",
+    "answers": [
+      "driver driver",
+      "hiding passenger",
+      "of the large ride",
+      "all of the above"
+    ],
+    "correctAnswer": 4,
+    "category": 6,
+    "image": ""
+  },
+  {
+    "question": "What is a traffic signal?",
+    "answers": [
+      "a sign of a vehicle driver",
+      "Police give",
+      "Signalked to complying the road rule",
+      "all of the above"
+    ],
+    "correctAnswer": 3,
+    "category": 6,
+    "image": ""
+  },
+  {
+    "question": "How many types of international traffic sign?",
+    "answers": [
+      "two types of",
+      "three forms",
+      "four forms",
+      "is not sure"
+    ],
+    "correctAnswer": 2,
+    "category": 6,
+    "image": ""
+  },
+  {
+    "question": "Which part of the road is drawn in which part of the road?",
+    "answers": [
+      "on the side of the right",
+      "next to the left",
+      "in the middle of the road",
+      "Even though"
+    ],
+    "correctAnswer": 3,
+    "category": 6,
+    "image": ""
+  },
+  {
+    "question": "What are the color of the Board of Containing direction on the highway?",
+    "answers": [
+      "green",
+      "Red",
+      "red",
+      "Black"
+    ],
+    "correctAnswer": 1,
+    "category": 6,
+    "image": ""
+  },
+  {
+    "question": "What is the laneline and zebra crossings called?",
+    "answers": [
+      "Street Marcing",
+      "Traffic Marcing",
+      "Hotspot",
+      "all of the above"
+    ],
+    "correctAnswer": 1,
+    "category": 6,
+    "image": ""
+  },
+  {
+    "question": "What size is the restricted traffic sign?",
+    "answers": [
+      "circular",
+      "Triguous",
+      "square mains",
+      "Importers"
+    ],
+    "correctAnswer": 1,
+    "category": 6,
+    "image": ""
+  },
+  {
+    "question": "Why are traffic lights kept in the quotten?",
+    "answers": [
+      "the driver to see the way at night",
+      "to control traffic",
+      "to turn the vehicle",
+      "to park a vehicle"
+    ],
+    "correctAnswer": 2,
+    "category": 6,
+    "image": ""
+  },
+  {
+    "question": "What is the traffic control on the road on the road?",
+    "answers": [
+      "Traffic Police",
+      "Department of Transportation",
+      "Streetline",
+      "hints indication"
+    ],
+    "correctAnswer": 2,
+    "category": 6,
+    "image": ""
+  },
+  {
+    "question": "What does such a traffic sign refer to?",
+    "answers": [
+      "square mains",
+      "Introduce",
+      "Parking cost",
+      "Hospital"
+    ],
+    "correctAnswer": 3,
+    "category": 6,
+    "image": "416.png"
+  },
+  {
+    "question": "What does this traffic sign indicate?",
+    "answers": [
+      "one-way way",
+      "two-way road",
+      "East",
+      "Westward"
+    ],
+    "correctAnswer": 1,
+    "category": 6,
+    "image": "417.png"
+  },
+  {
+    "question": "What does this traffic sign indicate?",
+    "answers": [
+      "shop",
+      "Work Exew",
+      "house",
+      "Parking site"
+    ],
+    "correctAnswer": 2,
+    "category": 6,
+    "image": "418.png"
+  },
+  {
+    "question": "What does this traffic sign indicate?",
+    "answers": [
+      "(a) religious sector",
+      "Eastern area",
+      "Hospital",
+      "First aid"
+    ],
+    "correctAnswer": 4,
+    "category": 6,
+    "image": "419.png"
+  },
+  {
+    "question": "What does this traffic sign indicate?",
+    "answers": [
+      "Ukalo road",
+      "a one-sided way",
+      "A place to back",
+      "Right turn"
+    ],
+    "correctAnswer": 3,
+    "category": 6,
+    "image": "420.png"
+  },
+  {
+    "question": "What does this traffic sign indicate?",
+    "answers": [
+      "The telephone",
+      "Internet",
+      "Tull",
+      "Police"
+    ],
+    "correctAnswer": 1,
+    "category": 6,
+    "image": "421.png"
+  },
+  {
+    "question": "What does this traffic sign indicate?",
+    "answers": [
+      "Telephone service",
+      "Truck service",
+      "T-Jackson",
+      "the way to the way"
+    ],
+    "correctAnswer": 4,
+    "category": 6,
+    "image": "422.png"
+  },
+  {
+    "question": "What does this traffic sign indicate?",
+    "answers": [
+      "the path of pedestrians",
+      "School",
+      "Polisal",
+      "Distribution"
+    ],
+    "correctAnswer": 1,
+    "category": 6,
+    "image": "423.png"
+  },
+  {
+    "question": "What does this traffic sign indicate?",
+    "answers": [
+      "a place to be carved",
+      "Hospital",
+      "machine",
+      "Petrol pump"
+    ],
+    "correctAnswer": 4,
+    "category": 6,
+    "image": "424.png"
+  },
+  {
+    "question": "What does this traffic sign indicate?",
+    "answers": [
+      "Sital",
+      "Refresh Center",
+      "A place to stay",
+      "Hospital"
+    ],
+    "correctAnswer": 3,
+    "category": 6,
+    "image": "425.png"
+  },
+  {
+    "question": "What does this traffic sign indicate?",
+    "answers": [
+      "Sital",
+      "Hospital",
+      "accommodation",
+      "place to stay away"
+    ],
+    "correctAnswer": 2,
+    "category": 6,
+    "image": "426.png"
+  },
+  {
+    "question": "What does this traffic sign indicate?",
+    "answers": [
+      "house",
+      "The temple",
+      "Refrozes",
+      "School"
+    ],
+    "correctAnswer": 3,
+    "category": 6,
+    "image": "427.png"
+  },
+  {
+    "question": "What does this traffic sign indicate?",
+    "answers": [
+      "Pedestrian and the way to the Siekal",
+      "School",
+      "Children",
+      "area where a variation"
+    ],
+    "correctAnswer": 1,
+    "category": 6,
+    "image": "428.png"
+  },
+  {
+    "question": "What does this traffic sign indicate?",
+    "answers": [
+      "bicycle maintenance",
+      "Room the Room",
+      "Bicycle prohibition",
+      "Cyclist"
+    ],
+    "correctAnswer": 2,
+    "category": 6,
+    "image": "429.png"
+  },
+  {
+    "question": "What does this traffic sign indicate?",
+    "answers": [
+      "Prohibition parking",
+      "Bus bus",
+      "bus park",
+      "Parking site"
+    ],
+    "correctAnswer": 2,
+    "category": 6,
+    "image": "430.png"
+  },
+  {
+    "question": "What does this traffic sign indicate?",
+    "answers": [
+      "the forest area",
+      "The temple",
+      "Smooth",
+      "School"
+    ],
+    "correctAnswer": 3,
+    "category": 6,
+    "image": "431.png"
+  },
+  {
+    "question": "What does this traffic sign indicate?",
+    "answers": [
+      "Zebra Cross",
+      "Rest",
+      "Parking cost",
+      "School"
+    ],
+    "correctAnswer": 1,
+    "category": 6,
+    "image": "432.png"
+  },
+  {
+    "question": "What does this traffic sign indicate?",
+    "answers": [
+      "slippery space",
+      "A place to back",
+      "To keep it very important.",
+      "One area"
+    ],
+    "correctAnswer": 3,
+    "category": 6,
+    "image": "433.png"
+  },
+  {
+    "question": "What does this traffic sign indicate?",
+    "answers": [
+      "the road side of the road",
+      "Begging road",
+      "road",
+      "Parking"
+    ],
+    "correctAnswer": 1,
+    "category": 6,
+    "image": "434.png"
+  },
+  {
+    "question": "What does this traffic sign indicate?",
+    "answers": [
+      "Black layer road",
+      "A place to back",
+      "Lines between the road",
+      "The place to stop"
+    ],
+    "correctAnswer": 3,
+    "category": 6,
+    "image": "435.png"
+  },
+  {
+    "question": "What does this traffic sign indicate?",
+    "answers": [
+      "Entrance prohibit",
+      "Prohibition parking",
+      "The proction",
+      "forbids to stop"
+    ],
+    "correctAnswer": 4,
+    "category": 6,
+    "image": "436.png"
+  },
+  {
+    "question": "What does this traffic sign indicate?",
+    "answers": [
+      "Entrance prohibit",
+      "Prohibition parking",
+      "Parking cost",
+      "Public prohibition"
+    ],
+    "correctAnswer": 2,
+    "category": 6,
+    "image": "437.png"
+  },
+  {
+    "question": "What does this traffic sign indicate?",
+    "answers": [
+      "Entrance prohibit",
+      "forbidding right turning",
+      "Parking site of number prohibition",
+      "The place to stop"
+    ],
+    "correctAnswer": 1,
+    "category": 6,
+    "image": "438.png"
+  },
+  {
+    "question": "What does this traffic sign indicate?",
+    "answers": [
+      "Prohibition parking",
+      "A place to back",
+      "Parking cost",
+      "forbidding right turning"
+    ],
+    "correctAnswer": 4,
+    "category": 6,
+    "image": "439.png"
+  },
+  {
+    "question": "What does this traffic sign indicate?",
+    "answers": [
+      "Prohibition parking",
+      "Dehibit the oriented",
+      "Parking cost",
+      "right turn"
+    ],
+    "correctAnswer": 2,
+    "category": 6,
+    "image": "440.png"
+  },
+  {
+    "question": "What does this traffic sign indicate?",
+    "answers": [
+      "to change right mode",
+      "Dehibit the oriented",
+      "U-Tree Prohibition",
+      "place to back"
+    ],
+    "correctAnswer": 3,
+    "category": 6,
+    "image": "441.png"
+  },
+  {
+    "question": "What does this traffic sign indicate?",
+    "answers": [
+      "Parking decent",
+      "Maximum speed limit",
+      "Parking cost",
+      "place to go"
+    ],
+    "correctAnswer": 2,
+    "category": 6,
+    "image": "442.png"
+  },
+  {
+    "question": "What does this traffic sign indicate?",
+    "answers": [
+      "Parking",
+      "A place to back",
+      "Ride Wide Litim",
+      "School"
+    ],
+    "correctAnswer": 3,
+    "category": 6,
+    "image": "443.png"
+  },
+  {
+    "question": "What does this traffic sign indicate?",
+    "answers": [
+      "(a) that prohibit",
+      "A place to back",
+      "Onefit",
+      "two-sided way"
+    ],
+    "correctAnswer": 1,
+    "category": 6,
+    "image": "444.png"
+  },
+  {
+    "question": "What does this traffic sign indicate?",
+    "answers": [
+      "forbidden mode",
+      "Pratist",
+      "Ended to the Metric",
+      "to be banned"
+    ],
+    "correctAnswer": 4,
+    "category": 6,
+    "image": "445.png"
+  },
+  {
+    "question": "What does this traffic sign indicate?",
+    "answers": [
+      "Stop",
+      "stop, look and go",
+      "Parking cost",
+      "just go straight directly"
+    ],
+    "correctAnswer": 2,
+    "category": 6,
+    "image": "446.png"
+  },
+  {
+    "question": "What does this traffic sign indicate?",
+    "answers": [
+      "Prohibition parking",
+      "A place to back",
+      "Parking cost",
+      "Ends to speed"
+    ],
+    "correctAnswer": 4,
+    "category": 6,
+    "image": "447.png"
+  },
+  {
+    "question": "What does this traffic sign indicate?",
+    "answers": [
+      "prohibited to go straight",
+      "Just go straight",
+      "place to stop",
+      "Going forward"
+    ],
+    "correctAnswer": 2,
+    "category": 6,
+    "image": "448.png"
+  },
+  {
+    "question": "What does this traffic sign indicate?",
+    "answers": [
+      "just go straight",
+      "Go from one side",
+      "Going forward to left turn",
+      "Ends to speed"
+    ],
+    "correctAnswer": 3,
+    "category": 6,
+    "image": "449.png"
+  },
+  {
+    "question": "What does this traffic sign indicate?",
+    "answers": [
+      "Go to one side",
+      "Go straight to the right",
+      "Left mode",
+      "Right turn"
+    ],
+    "correctAnswer": 1,
+    "category": 6,
+    "image": "450.png"
+  },
+  {
+    "question": "What does this traffic sign indicate?",
+    "answers": [
+      "right mode",
+      "Let the small round go from a murmuring breath",
+      "Go around",
+      "Right torch"
+    ],
+    "correctAnswer": 2,
+    "category": 6,
+    "image": "451.png"
+  },
+  {
+    "question": "What does this traffic sign indicate?",
+    "answers": [
+      "Riding Border",
+      "Xel load limit",
+      "Road length limit",
+      "Wide Wide Border"
+    ],
+    "correctAnswer": 1,
+    "category": 6,
+    "image": "452.png"
+  },
+  {
+    "question": "What does this traffic sign indicate?",
+    "answers": [
+      "right mode",
+      "directly forward",
+      "Left mode",
+      "left turn"
+    ],
+    "correctAnswer": 3,
+    "category": 6,
+    "image": "453.png"
+  },
+  {
+    "question": "What does this traffic sign indicate?",
+    "answers": [
+      "Tartard curirs",
+      "Left cupe",
+      "Left mode",
+      "Right turn"
+    ],
+    "correctAnswer": 2,
+    "category": 6,
+    "image": "454.png"
+  },
+  {
+    "question": "What does this traffic sign indicate?",
+    "answers": [
+      "a) one-sided ride",
+      "two-sides ride",
+      "straight ahead",
+      "to (d) ahead"
+    ],
+    "correctAnswer": 1,
+    "category": 6,
+    "image": "455.png"
+  },
+  {
+    "question": "What does this traffic sign indicate?",
+    "answers": [
+      "stop and let them go",
+      "(B",
+      "Rest and let them go",
+      "(D"
+    ],
+    "correctAnswer": 3,
+    "category": 6,
+    "image": "456.png"
+  },
+  {
+    "question": "What does this traffic sign indicate?",
+    "answers": [
+      "the truck prohibit",
+      "a vehicle forbidden",
+      "No parking",
+      "cutting plank"
+    ],
+    "correctAnswer": 1,
+    "category": 6,
+    "image": "457.png"
+  },
+  {
+    "question": "What does this traffic sign indicate?",
+    "answers": [
+      "riding height limit",
+      "Ride Length Limit",
+      "Ride width limit",
+      "just go to 10 meters before"
+    ],
+    "correctAnswer": 2,
+    "category": 6,
+    "image": "458.png"
+  },
+  {
+    "question": "What does this traffic sign indicate?",
+    "answers": [
+      "a vehicle width limit",
+      "OK to be a riding riding a 4.4 meters",
+      "axle load limit",
+      "riding height limit"
+    ],
+    "correctAnswer": 4,
+    "category": 6,
+    "image": "459.png"
+  },
+  {
+    "question": "What does this traffic sign indicate?",
+    "answers": [
+      "a vehicle width limit",
+      "Xel load limit",
+      "vehicle height limit",
+      "Riding Length Land"
+    ],
+    "correctAnswer": 2,
+    "category": 6,
+    "image": "460.png"
+  },
+  {
+    "question": "What does this traffic sign indicate?",
+    "answers": [
+      "Deprivation of Deprivation",
+      "a vehicle forbidden",
+      "Ride Weight Limit",
+      "entrance only"
+    ],
+    "correctAnswer": 1,
+    "category": 6,
+    "image": "461.png"
+  },
+  {
+    "question": "What does this traffic sign indicate?",
+    "answers": [
+      "The circle",
+      "Go round pestile",
+      "C",
+      "Go (temporary sign"
+    ],
+    "correctAnswer": 4,
+    "category": 6,
+    "image": "462.png"
+  },
+  {
+    "question": "What does this traffic sign indicate?",
+    "answers": [
+      "Y-Juction",
+      "T-Jackson",
+      "Following",
+      "Turn to T"
+    ],
+    "correctAnswer": 2,
+    "category": 6,
+    "image": "463.png"
+  },
+  {
+    "question": "What does this traffic sign indicate?",
+    "answers": [
+      "The stone fall",
+      "Working on the way",
+      "danger",
+      "Safe place"
+    ],
+    "correctAnswer": 3,
+    "category": 6,
+    "image": "464.png"
+  },
+  {
+    "question": "What does this traffic sign indicate?",
+    "answers": [
+      "a front two-way straight way straight",
+      "Dual way",
+      "can come from the front",
+      "one way"
+    ],
+    "correctAnswer": 1,
+    "category": 6,
+    "image": "465.png"
+  },
+  {
+    "question": "What does this traffic sign indicate?",
+    "answers": [
+      "ahead two-way way straight",
+      "a ride from the front",
+      "two-way roads forward",
+      "one way"
+    ],
+    "correctAnswer": 3,
+    "category": 6,
+    "image": "466.png"
+  },
+  {
+    "question": "What does this traffic sign indicate?",
+    "answers": [
+      "Left mode",
+      "right mode",
+      "curi",
+      "round rotate"
+    ],
+    "correctAnswer": 2,
+    "category": 6,
+    "image": "467.png"
+  },
+  {
+    "question": "What does this traffic sign indicate?",
+    "answers": [
+      "right mode",
+      "The right whole mode",
+      "C",
+      "curvi"
+    ],
+    "correctAnswer": 2,
+    "category": 6,
+    "image": "468.png"
+  },
+  {
+    "question": "What does this traffic sign indicate?",
+    "answers": [
+      "Narrow bridge",
+      "Narrow road",
+      "One way",
+      "Two-way road"
+    ],
+    "correctAnswer": 1,
+    "category": 6,
+    "image": "469.png"
+  },
+  {
+    "question": "What does this traffic sign indicate?",
+    "answers": [
+      "Slippery road",
+      "Steep hill",
+      "Steep incline",
+      "Uphill road"
+    ],
+    "correctAnswer": 3,
+    "category": 6,
+    "image": "470.png"
+  },
+  {
+    "question": "What does this traffic sign indicate?",
+    "answers": [
+      "Dangerous dip",
+      "Dangerous rise",
+      "Steep slope",
+      "Go straight ahead"
+    ],
+    "correctAnswer": 1,
+    "category": 6,
+    "image": "471.png"
+  },
+  {
+    "question": "What does this traffic sign indicate?",
+    "answers": [
+      "Narrow bridge",
+      "Narrow two-way road",
+      "Narrow path",
+      "One way"
+    ],
+    "correctAnswer": 2,
+    "category": 6,
+    "image": "472.png"
+  },
+  {
+    "question": "What does this traffic sign indicate?",
+    "answers": [
+      "Landslide area",
+      "Steep slope",
+      "River bank",
+      "Dangerous wall"
+    ],
+    "correctAnswer": 1,
+    "category": 6,
+    "image": "473.png"
+  },
+  {
+    "question": "What does this traffic sign indicate?",
+    "answers": [
+      "Narrow road from the left",
+      "U-turn",
+      "Narrow road from the right",
+      "Go ahead"
+    ],
+    "correctAnswer": 3,
+    "category": 6,
+    "image": "474.png"
+  },
+  {
+    "question": "What does this traffic sign indicate?",
+    "answers": [
+      "Junction",
+      "U-turn",
+      "Curve",
+      "Dual lane, first left"
+    ],
+    "correctAnswer": 4,
+    "category": 6,
+    "image": "475.png"
+  },
+  {
+    "question": "What does this traffic sign indicate?",
+    "answers": [
+      "Y-junction",
+      "T-junction",
+      "Branch road",
+      "Go ahead"
+    ],
+    "correctAnswer": 1,
+    "category": 6,
+    "image": "476.png"
+  },
+  {
+    "question": "What does this traffic sign indicate?",
+    "answers": [
+      "Left turn",
+      "Road from left",
+      "Left lane",
+      "Right lane"
+    ],
+    "correctAnswer": 2,
+    "category": 6,
+    "image": "477.png"
+  },
+  {
+    "question": "What does this traffic sign indicate?",
+    "answers": [
+      "Vehicles may come from the right",
+      "U-turn",
+      "Parking area",
+      "Go ahead"
+    ],
+    "correctAnswer": 1,
+    "category": 6,
+    "image": "478.png"
+  },
+  {
+    "question": "What does this traffic sign indicate?",
+    "answers": [
+      "Rough road",
+      "Police post",
+      "Quotation",
+      "Roundabout"
+    ],
+    "correctAnswer": 4,
+    "category": 6,
+    "image": "479.png"
+  },
+  {
+    "question": "What does this traffic sign indicate?",
+    "answers": [
+      "Vehicle width limit",
+      "Height limit ahead",
+      "Vehicle load limit",
+      "Maximum vehicle length"
+    ],
+    "correctAnswer": 2,
+    "category": 6,
+    "image": "480.png"
+  },
+  {
+    "question": "What does this traffic sign indicate?",
+    "answers": [
+      "Hospital",
+      "Intersection",
+      "Rear branch road",
+      "Main road ahead"
+    ],
+    "correctAnswer": 4,
+    "category": 6,
+    "image": "481.png"
+  },
+  {
+    "question": "What does this traffic sign indicate?",
+    "answers": [
+      "Main road ahead",
+      "Branch road ahead",
+      "Roundabout",
+      "Turn right"
+    ],
+    "correctAnswer": 2,
+    "category": 6,
+    "image": "482.png"
+  },
+  {
+    "question": "What does this traffic sign indicate?",
+    "answers": [
+      "Straight ahead",
+      "Steep slope",
+      "Accident-prone area",
+      "Trucks only"
+    ],
+    "correctAnswer": 1,
+    "category": 6,
+    "image": "483.png"
+  },
+  {
+    "question": "What does this traffic sign indicate?",
+    "answers": [
+      "National park",
+      "Protected area",
+      "Animals crossing",
+      "No animals allowed"
+    ],
+    "correctAnswer": 3,
+    "category": 6,
+    "image": "484.png"
+  },
+  {
+    "question": "What does this traffic sign indicate?",
+    "answers": [
+      "Airport",
+      "Low-flying planes",
+      "Aircraft ahead",
+      "High speed area"
+    ],
+    "correctAnswer": 2,
+    "category": 6,
+    "image": "485.png"
+  },
+  {
+    "question": "What does this traffic sign indicate?",
+    "answers": [
+      "Sharp curve",
+      "Steep slope",
+      "Uphill road",
+      "Pit ahead"
+    ],
+    "correctAnswer": 3,
+    "category": 6,
+    "image": "486.png"
+  },
+  {
+    "question": "What does this traffic sign indicate?",
+    "answers": [
+      "Left branch road",
+      "Turn left",
+      "Right branch road",
+      "Go straight"
+    ],
+    "correctAnswer": 3,
+    "category": 6,
+    "image": "487.png"
+  },
+  {
+    "question": "What does this traffic sign indicate?",
+    "answers": [
+      "Alternate traffic",
+      "Left lane",
+      "Right lane",
+      "Go straight"
+    ],
+    "correctAnswer": 1,
+    "category": 6,
+    "image": "488.png"
+  },
+  {
+    "question": "What does this traffic sign indicate?",
+    "answers": [
+      "Speed ​​limits",
+      "finished double roads",
+      "one way",
+      "two-sided way"
+    ],
+    "correctAnswer": 2,
+    "category": 6,
+    "image": "489.png"
+  },
+  {
+    "question": "What does this traffic sign indicate?",
+    "answers": [
+      "the road pole",
+      "the drovective light",
+      "Last",
+      "Cats i"
+    ],
+    "correctAnswer": 3,
+    "category": 6,
+    "image": "490.png"
+  },
+  {
+    "question": "What does this traffic sign indicate?",
+    "answers": [
+      "wild animal",
+      "The dense forest",
+      "National park",
+      "Tiger"
+    ],
+    "correctAnswer": 1,
+    "category": 6,
+    "image": "491.png"
+  },
+  {
+    "question": "What does this traffic sign indicate?",
+    "answers": [
+      "Children",
+      "pedestrian along the way forward",
+      "Zebra crossing",
+      "School area"
+    ],
+    "correctAnswer": 2,
+    "category": 6,
+    "image": "492.png"
+  },
+  {
+    "question": "What does this traffic sign indicate?",
+    "answers": [
+      "The edge of the river",
+      "More Oralu",
+      "More boiling",
+      "The weight of the vehicle measured"
+    ],
+    "correctAnswer": 1,
+    "category": 6,
+    "image": "493.png"
+  },
+  {
+    "question": "What does this traffic sign indicate?",
+    "answers": [
+      "Raft",
+      "Railroad",
+      "Gate forth",
+      "Dangerous Way"
+    ],
+    "correctAnswer": 3,
+    "category": 6,
+    "image": "494.png"
+  },
+  {
+    "question": "What does this traffic sign indicate?",
+    "answers": [
+      "Being working on the way",
+      "The road sanitation",
+      "Backside road",
+      "Onway"
+    ],
+    "correctAnswer": 1,
+    "category": 6,
+    "image": "495.png"
+  },
+  {
+    "question": "What does this traffic sign indicate?",
+    "answers": [
+      "Entrance prohibit",
+      "The Paters Cutting Place",
+      "Check outpost",
+      "Bridge"
+    ],
+    "correctAnswer": 3,
+    "category": 6,
+    "image": "496.png"
+  },
+  {
+    "question": "What does this traffic sign indicate?",
+    "answers": [
+      "pedestrian along the way forward",
+      "Children",
+      "Zebra crossing",
+      "School area"
+    ],
+    "correctAnswer": 2,
+    "category": 6,
+    "image": "497.png"
+  },
+  {
+    "question": "What does this traffic sign indicate?",
+    "answers": [
+      "sharp mode on the left",
+      "Left mode",
+      "Right mode",
+      "Onway"
+    ],
+    "correctAnswer": 1,
+    "category": 6,
+    "image": "498.png"
+  },
+  {
+    "question": "What does this traffic sign indicate?",
+    "answers": [
+      "right mode",
+      "Left mode",
+      "Sharp mode (temporary way",
+      "Onway"
+    ],
+    "correctAnswer": 3,
+    "category": 6,
+    "image": "499.png"
+  },
+  {
+    "question": "What does this traffic sign indicate?",
+    "answers": [
+      "T-Juckle (right and left mode",
+      "Y-Juction",
+      "Chart mode",
+      "sharp mode toward left"
+    ],
+    "correctAnswer": 1,
+    "category": 6,
+    "image": "500.png"
+  }
+]

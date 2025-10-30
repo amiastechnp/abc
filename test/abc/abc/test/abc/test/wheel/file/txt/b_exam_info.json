@@ -1,0 +1,234 @@
+{
+  "page_title": {
+    "en": "Car / Jeep trial Information",
+    "ne": "कार / जीप ट्रायल जानकारी"
+  },
+  "sections": [
+    {
+      "title": {
+        "en": "Winding '8'",
+        "ne": "घुमाउरो '८'"
+      },
+      "points": {
+        "en": "Weight: 20",
+        "ne": "अंक भार: २०"
+      },
+      "deduction_heading": {
+        "en": "Conditions for point deduction (deducted points) :",
+        "ne": "अंक काटिने अवस्था (काटिने अंक) :"
+      },
+      "deductions": [
+        {
+          "en": "Touching the marked line up to two times (-5,-5)",
+          "ne": "- दुई पटकसम्म अंकित रेखा छोएमा (-५,-५)"
+        }
+      ],
+      "fail_heading": {
+        "en": "Conditions for failure : ",
+        "ne": "फेल हुने अवस्था : "
+      },
+      "failures": [
+        {
+          "en": "Touching the marked line more than two times",
+          "ne": "- दुई पटकभन्दा बढी अंकित रेखा छोएमा"
+        },
+        {
+          "en": "Tire going outside the marked line",
+          "ne": "- टायर अंकित रेखाभन्दा बाहिर गएमा"
+        },
+        {
+          "en": "Not making '8' correctly from the right direction",
+          "ne": "- ठीक दिशाबाट ठीक तरिकाबाट '8' नबनाएमा"
+        },
+        {
+          "en": "Moving the vehicle backward when it should move forward",
+          "ne": "- अगाडि बढ्नुपर्ने बेला सवारी पछाडि सारेमा"
+        }
+      ]
+    },
+    {
+      "title": {
+        "en": "Bumps (Speed Breaker)",
+        "ne": "उबड़-खाबड (स्पिड ब्रेकर)"
+      },
+      "points": {
+        "en": "Weight: 10",
+        "ne": "अंक भार: १०"
+      },
+      "deduction_heading": {
+        "en": "Conditions for point deduction (deducted points)",
+        "ne": "अंक काटिने अवस्था (काटिने अंक)"
+      },
+      "deductions": [
+        {
+          "en": "Vehicle's engine stops once (-5)",
+          "ne": "- एक पटकसम्म सवारीको स्टार्ट बन्द भएमा  (-५)"
+        }
+      ],
+      "fail_heading": {
+        "en": "Conditions for failure : ",
+        "ne": "फेल हुने अवस्था : "
+      },
+      "failures": [
+        {
+          "en": "Engine stops more than once",
+          "ne": "- एकपटक भन्दा बढी स्टार्ट बन्द भएमा"
+        }
+      ]
+    },
+    {
+      "title": {
+        "en": "U-Turn",
+        "ne": "यू-टर्न"
+      },
+      "points": {
+        "en": "Weight: 10",
+        "ne": "अंक भार: १०"
+      },
+      "deduction_heading": {
+        "en": "Conditions for point deduction (deducted points)",
+        "ne": "अंक काटिने अवस्था (काटिने अंक)"
+      },
+      "deductions": [
+        {
+          "en": "Turning indicator light not on (-10)",
+          "ne": "- सवारीमा टर्निङ इन्डिकेटर लाइट नबलेमा  (-१०)"
+        }
+      ],
+      "fail_heading": {
+        "en": "Conditions for failure",
+        "ne": "फेल हुने अवस्था"
+      },
+      "failures": [
+        {
+          "en": "Touching the marked line",
+          "ne": "- अंकित रेखा छोएमा"
+        }
+      ]
+    },
+    {
+      "title": {
+        "en": "Traffic Light",
+        "ne": "ट्राफिक लाइट"
+      },
+      "points": {
+        "en": "Weight: 15",
+        "ne": "अंक भार: १५"
+      },
+      "deduction_heading": {
+        "en": "Conditions for point deduction (deducted points)",
+        "ne": "अंक काटिने अवस्था (काटिनेअंक)"
+      },
+      "deductions": [
+        {
+          "en": "Not following traffic light rules (-15)",
+          "ne": "- ट्राफिक लाइट नियम पालन नगरेमा (-१५)"
+        }
+      ]
+    },
+    {
+      "title": {
+        "en": "Garage Parking",
+        "ne": "ग्यारेज पार्किङ"
+      },
+      "points": {
+        "en": "Weight: 20",
+        "ne": "अंक भार: २०"
+      },
+      "deduction_heading": {
+        "en": "Conditions for point deduction (deducted points)",
+        "ne": "अंक काटिने अवस्था (काटिने अंक)"
+      },
+      "deductions": [
+        {
+          "en": "Moving forward once while reversing the vehicle (-10)",
+          "ne": "- सवारी पछाडि सार्ने क्रममा एक पटकसम्म अघि सरेमा (-१०)"
+        }
+      ],
+      "fail_heading": {
+        "en": "Conditions for failure",
+        "ne": "फेल हुने अवस्था"
+      },
+      "failures": [
+        {
+          "en": "Moving forward more than once",
+          "ne": "- एक पटकभन्दा बढी अघि सरेमा"
+        },
+        {
+          "en": "Touching the marked line",
+          "ne": "- अंकित रेखा छोएमा"
+        }
+      ]
+    },
+    {
+      "title": {
+        "en": "Uphill (Ramp)",
+        "ne": "उकालो (न्याम्प)"
+      },
+      "points": {
+        "en": "Weight: 15",
+        "ne": "अंक भार: १५"
+      },
+      "fail_heading": {
+        "en": "Conditions for failure : ",
+        "ne": "फेल हुने अवस्था : "
+      },
+      "failures": [
+        {
+          "en": "Stopping the vehicle beyond the designated line or not stopping at all",
+          "ne": "- तोकिएको रेखा नाघी सवारी रोकेमा वा नरोकी अघि बढेमा"
+        },
+        {
+          "en": "When moving the vehicle forward from a stopped position, the rear tire moves more than 6 inches backward",
+          "ne": "- रोकिएको अवस्थाबाट सवारी अगाडि बढाउँदा पछाडिको टायर ६ इन्चभन्दा पछाडि सरेमा"
+        },
+        {
+          "en": "When descending, stopping the vehicle beyond the designated line or not stopping at all",
+          "ne": "- ओरालो झर्दा तोकिएको रेखा नाघी सवारी रोकेमा वा नरोकी अघि बढेमा "
+        },
+        {
+          "en": "Vehicle's engine stops more than once",
+          "ne": "- एक पटकभन्दा बढी सवारी स्टार्ट बन्द भएमा"
+        }
+      ]
+    },
+    {
+      "title": {
+        "en": "Behavioral Aspects",
+        "ne": "व्यवहारगत पक्ष"
+      },
+      "points": {
+        "en": "Weight: 10",
+        "ne": "अंक भार: १०"
+      },
+      "deduction_heading": {
+        "en": "Conditions for point deduction (deducted points)",
+        "ne": "अंक काटिने अवस्था (काटिने अंक)"
+      },
+      "deductions": [
+        {
+          "en": "Not performing a general check of the vehicle's mirrors, tires, and brakes before driving (-3)",
+          "ne": "- सवारी चलाउनपर्व सवारीको ऐना, टायर ब्रेकको समान्य परीक्षण नगरेमा (-३)"
+        },
+        {
+          "en": "Driving without wearing a seatbelt (-4)",
+          "ne": "- सिटबेल्ट नलगाई सवारी चलाएमा (-४)"
+        },
+        {
+          "en": "Driving in an uncontrolled manner (-3)",
+          "ne": "- असंयमित तरिकाले सवारी चलाएमा (-३)"
+        }
+      ]
+    }
+  ],
+  "marks": {
+    "total_marks": {
+      "en": "Full Marks: 100",
+      "ne": "पूर्णाङ्क: १००"
+    },
+    "passing_marks": {
+      "en": "Pass: 70",
+      "ne": "उत्तीर्ण: ७०"
+    }
+  }
+}

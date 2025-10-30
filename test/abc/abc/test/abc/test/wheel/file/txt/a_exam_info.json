@@ -1,0 +1,236 @@
+{
+  "page_title": {
+    "en": "Motorcycle/Scooter trial information",
+    "ne": "मोटरसाइकल/स्कुटर ट्रायल जानकारी"
+  },
+  "sections": [
+    {
+      "title": {
+        "en": "Winding '8'",
+        "ne": "घुमाउरो '८'"
+      },
+      "points": {
+        "en": "Weight: 20",
+        "ne": "अंक भार: २०"
+      },
+      "deduction_heading": {
+        "en": "Conditions for point deduction (deducted points):",
+        "ne": "अंक काटिने अवस्था (काटिने अंक) :"
+      },
+      "deductions": [
+        {
+          "en": "Touching the marked line once (-5)",
+          "ne": "- एक पटकसम्म अंकित रेखा छोएमा (-५)"
+        },
+        {
+          "en": "Putting foot on the ground once (-5)",
+          "ne": "- एक पटकसम्म खुट्टाले भुइँमा टेकेमा (-५)"
+        }
+      ],
+      "fail_heading": {
+        "en": "Conditions for failure:",
+        "ne": "फेल हुने अवस्था : "
+      },
+      "failures": [
+        {
+          "en": "Touching the marked line more than once",
+          "ne": "- एकपटक भन्दा बढी अंकित रेखा छोएमा"
+        },
+        {
+          "en": "Vehicle's tire going outside the marked line",
+          "ne": "- सवारीको टायर अंकित रेखाभन्दा बाहिर गएमा"
+        },
+        {
+          "en": "Putting foot on the ground more than once",
+          "ne": "- एकपटकभन्दा बढी भुइँमा खुट्टाले टेकेमा"
+        },
+        {
+          "en": "Vehicle's tire going outside the marked line",
+          "ne": "- सवारीको टायर अंकित रेखाभन्दा बाहिर गएमा"
+        },
+        {
+          "en": "Not making '8' correctly from the right direction and vehicle's engine stops",
+          "ne": "- ठीक दिशाबाट ठीक तरिकाबाट '8' नबनाएमा र सवारीको स्टार्ट बन्द भएमा"
+        }
+      ]
+    },
+    {
+      "title": {
+        "en": "Narrow Plank",
+        "ne": "साँघुरो फलेक"
+      },
+      "points": {
+        "en": "Weight: 10",
+        "ne": "अंक भार: १०"
+      },
+      "fail_heading": {
+        "en": "Conditions for failure",
+        "ne": "फेल हुने अवस्था"
+      },
+      "failures": [
+        {
+          "en": "Putting foot on the ground or exiting before crossing the plank",
+          "ne": "- मुँइमा टेकेमा वा फलेक पार गर्नुअघि नै बाहिर निस्किएमा"
+        }
+      ]
+    },
+    {
+      "title": {
+        "en": "U-Turn",
+        "ne": "यू-टर्न"
+      },
+      "points": {
+        "en": "Weight: 10",
+        "ne": "अंक भार: १०"
+      },
+      "deduction_heading": {
+        "en": "Conditions for point deduction (deducted points)",
+        "ne": "अंक काटिने अवस्था (काटिने अंक)"
+      },
+      "deductions": [
+        {
+          "en": "Turning indicator light not on (-10)",
+          "ne": "- सवारीमा टर्निङ इन्डिकेटर लाइट न, बलेमा  (-१०)"
+        }
+      ],
+      "fail_heading": {
+        "en": "Conditions for failure",
+        "ne": "फेल हुने अवस्था"
+      },
+      "failures": [
+        {
+          "en": "Touching the marked line",
+          "ne": "- अंकित रेखा छोएमा"
+        }
+      ]
+    },
+    {
+      "title": {
+        "en": "Traffic Light",
+        "ne": "ट्राफिक लाइट"
+      },
+      "points": {
+        "en": "Weight: 15",
+        "ne": "अंक भार: १५"
+      },
+      "deduction_heading": {
+        "en": "Conditions for point deduction (deducted points)",
+        "ne": "अंक काटिने अवस्था (काटिने अंक)"
+      },
+      "deductions": [
+        {
+          "en": "Not following traffic light rules (-15)",
+          "ne": "- ट्राफिक लाइट नियम पालन नगरेमा (-१५)"
+        }
+      ]
+    },
+    {
+      "title": {
+        "en": "Bumps",
+        "ne": "उबड़-खाबड (बम्प्स)"
+      },
+      "points": {
+        "en": "Weight: 15",
+        "ne": "अंक भार: १५"
+      },
+      "deduction_heading": {
+        "en": "Conditions for point deduction (deducted points)",
+        "ne": "अंक काटिने अवस्था (काटिने अंक)"
+      },
+      "deductions": [
+        {
+          "en": "Putting foot on the ground once (-5)",
+          "ne": "- एक पटकसम्म खुट्टाले भुइँ टेकेमा (-५)"
+        },
+        {
+          "en": "Vehicle's engine stops once (-5)",
+          "ne": "- एक पटकसम्म सवारीको स्टार्ट बन्द भएमा (-५)"
+        }
+      ],
+      "fail_heading": {
+        "en": "Conditions for failure:",
+        "ne": "फेल हुने अवस्था : "
+      },
+      "failures": [
+        {
+          "en": "Putting foot on the ground more than once",
+          "ne": "- एक पटकभन्दा बढी खुट्टाले भुइँ टेकेमा"
+        },
+        {
+          "en": "Vehicle's engine stops more than once",
+          "ne": "- एक पटकभन्दा बढी सवारीको स्टार्ट बन्द भएमा"
+        }
+      ]
+    },
+    {
+      "title": {
+        "en": "Uphill (Ramp)",
+        "ne": "उकालो (न्याम्प)"
+      },
+      "points": {
+        "en": "Weight: 20",
+        "ne": "अंक भार: २०"
+      },
+      "fail_heading": {
+        "en": "Conditions for failure:",
+        "ne": "फेल हुने अवस्था : "
+      },
+      "failures": [
+        {
+          "en": "Stopping the vehicle beyond the designated line or not stopping at all",
+          "ne": "- तोकिएको रेखा नाघी सवारी रोकेमा वा नरोकी अघि बढेमा"
+        },
+        {
+          "en": "When moving the vehicle forward from a stopped position, the rear tire moves more than 6 inches backward",
+          "ne": "- रोकिएको अवस्थाबाट सवारी अगाडि बढाउँदा पछाडिको टायर ६ इन्चभन्दा पछाडि सरेमा"
+        },
+        {
+          "en": "When descending, stopping the vehicle beyond the designated line or not stopping at all",
+          "ne": "- ओरालो झर्दा तोकिएको रेखा नाघी सवारी रोकेमा वा नरोकी अघि बढेमा "
+        },
+        {
+          "en": "Vehicle's engine stops more than once",
+          "ne": "- एक पटकभन्दा बढी सवारी स्टार्ट बन्द भएमा"
+        }
+      ]
+    },
+    {
+      "title": {
+        "en": "Behavioral Aspects",
+        "ne": "व्यवहारगत पक्ष"
+      },
+      "points": {
+        "en": "Weight: 10",
+        "ne": "अंक भार: १०"
+      },
+      "deduction_heading": {
+        "en": "Conditions for point deduction (deducted points)",
+        "ne": "अंक काटिने अवस्था (काटिने अंक)"
+      },
+      "deductions": [
+        {
+          "en": "Not performing a general check of the vehicle's mirrors, tires, and brakes before driving (-3)",
+          "ne": "- सवारी चलाउनपर्व सवारीको ऐना. टायर ब्रेकको समान्य परीक्षण नगरेमा (-३)"
+        },
+        {
+          "en": "Driving without locking the helmet (-4)",
+          "ne": "- हेल्मेटको लक नलगाई सवारी चलाएमा (-४)"
+        },
+        {
+          "en": "Driving in an uncontrolled manner (-3)",
+          "ne": "- असंयमित तरिकाले सवारी चलाएमा (-३)"
+        }
+      ]
+    }
+  ],
+  "marks": {
+    "total_marks": {
+      "en": "Full Marks: 100",
+      "ne": "पूर्णाङ्क: १००"
+    },
+    "passing_marks": {
+      "en": "Pass: 70",
+      "ne": "उत्तीर्ण: ७०"
+    }
+  }
+}

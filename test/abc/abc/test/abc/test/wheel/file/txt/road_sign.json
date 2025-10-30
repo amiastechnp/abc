@@ -1,0 +1,256 @@
+[{
+    "name": "पार्किङ स्थल",
+    "image": "parking_sthal.png"
+}, {
+    "name": "एकतर्फी बाटो",
+    "image": "ektarfi_bato.png"
+}, {
+    "name": "वर्क सप",
+    "image": "workshop.png"
+}, {
+    "name": "प्राथमिक उपचार",
+    "image": "prathmik_upachar.png"
+}, {
+    "name": " उछिन्ने ठाउँ",
+    "image": "uchinney_thau.png"
+}, {
+    "name": "टेलिफोन",
+    "image": "telephone.png"
+}, {
+    "name": "बाटो समाप्त",
+    "image": "bato_sapmaapt.png"
+}, {
+    "name": "पैदल यात्रीको बाटो",
+    "image": "paidal_yatri_bato.png"
+}, {
+    "name": "पेट्रोल पम्प",
+    "image": "petrol_pump.png"
+}, {
+    "name": "बास बस्ने ठाउँ",
+    "image": "baas_basney_thau.png"
+}, {
+    "name": "अस्पताल",
+    "image": "hospital.png"
+}, {
+    "name": "जलपान",
+    "image": "jalpaan.png"
+}, {
+    "name": "पैदल यात्री र साईकलको बाटो",
+    "image": "paidal_yatri_cycle_bato.png"
+}, {
+    "name": "साइकलको बाटो",
+    "image": "cycleko_bato.png"
+}, {
+    "name": "बस विसौनी",
+    "image": "bus_bisauni.png"
+}, {
+    "name": "वनभोज स्थल",
+    "image": "ban_bhoj.png"
+}, {
+    "name": "जेब्रा क्रस",
+    "image": "zebra_cross.png"
+}, {
+    "name": "अत्यन्त जरुरी भएमात्र राख्ने",
+    "image": "atyanta_jaruru_bhaye_matra.png"
+}, {
+    "name": "सडक छेउका रेखाहरु",
+    "image": "sadak_cheuka_rekhaharu.png"
+}, {
+    "name": "सडकबीचका रेखाहरु",
+    "image": "sadak_bichka_rekha_haru.png"
+}, {
+    "name": "रोक्न निषेध",
+    "image": "rokna_nishedh.png"
+}, {
+    "name": "पार्किङ निषेध",
+    "image": "no_parking.png"
+}, {
+    "name": "प्रवेश निषेध",
+    "image": "prabesh_nishedh.png"
+}, {
+    "name": "दायाँ मोडन निषेध",
+    "image": "daya_modna_nishedh.png"
+}, {
+    "name": "वायाँ मोडन निषेध",
+    "image": "baya_modna_nishedh.png"
+}, {
+    "name": "यू-टर्न निषेध",
+    "image": "u_turn_noshedh.png"
+}, {
+    "name": "अधिकतम गति सिमित",
+    "image": "adhiktam_gati_simit.png"
+}, {
+    "name": "सवारी चौडाई सिमित",
+    "image": "sawari_chaudai_simit.png"
+}, {
+    "name": "उछिन्ने निषेध",
+    "image": "dui_tarfi_bato.png"
+}, {
+    "name": "हर्न निषेध",
+    "image": "horn_nishedh.png"
+}, {
+    "name": "रोक, हेर र जाउँ",
+    "image": "rok_her_ra_jau.png"
+}, {
+    "name": "गति सिमा समाप्त",
+    "image": "gati_sima_samapt.png"
+}, {
+    "name": "सिधा मात्र जाऊ",
+    "image": "sidha_matra_jau.png"
+}, {
+    "name": "अगाडि गएर बाँया मोड",
+    "image": "agadi_gayera_baya_jau.png"
+}, {
+    "name": "कुनैतिरबाट जाऊ",
+    "image": "kunai_tirbata_jau.png"
+}, {
+    "name": "सानो गोल घुम्ती दाईनेबाट आउनेलाइ जान देउ",
+    "image": "sano_gol_ghumti_dainey_bata_auneylai_deu.png"
+}, {
+    "name": "सवारी भार सीमा",
+    "image": "sawari_bhar_sima.png"
+}, {
+    "name": "बाँया मोड",
+    "image": "baya_modd.png"
+}, {
+    "name": "बाँया च्याप",
+    "image": "baya_chyap.png"
+}, {
+    "name": "एकतर्फी सवारी",
+    "image": "ektarfi_sawari.png"
+}, {
+    "name": "रोक र जान देऊ",
+    "image": "rok_ra_jana_deu.png"
+}, {
+    "name": "ट्रक निषेध",
+    "image": "truck_nishedh.png"
+}, {
+    "name": "सवारी लम्बाई सीमा",
+    "image": "sawari_lambai_sima.png"
+}, {
+    "name": "सवारी उचाई सीमा",
+    "image": "sawari_unchai_sima.png"
+}, {
+    "name": "एक्सल भार सीमा",
+    "image": "axel_bhaar_sima.png"
+}, {
+    "name": "वयल गाडा निषेध",
+    "image": "bel_gadi_nishedh.png"
+}, {
+    "name": "जाऊ (अस्थाई चिन्ह)",
+    "image": "jau.png"
+}, {
+    "name": "टि-जक्सन",
+    "image": "t-junction.png"
+}, {
+    "name": "खतरा",
+    "image": "khatra.png"
+}, {
+    "name": "अगाडि दुईर्फी बाटो सिधा",
+    "image": "agadi_dui_tarfi_bato_sidha.png"
+}, {
+    "name": "अगाडि दुईतर्फी बाटो",
+    "image": "agadi_dui_tarfi_bato.png"
+}, {
+    "name": "दायाँ मोड",
+    "image": "daya_modd.png"
+}, {
+    "name": "दायाँ पुरा मोड",
+    "image": "daya_pura_modd.png"
+}, {
+    "name": "साँघुरो बाटो",
+    "image": "sadhuro_bato.png"
+}, {
+    "name": "बढि उकालो",
+    "image": "badi_ukalo.png"
+}, {
+    "name": "खतरनाक दबेको बाटो",
+    "image": "khatarnak_dabeyko_bato.png"
+}, {
+    "name": "दुई तिरबाट साँघुरिएको सडक",
+    "image": "dui_tirbata_sadhuriyeko_sadak.png"
+}, {
+    "name": "पहिरो झर्ने ठाउँ",
+    "image": "pahiro_jharney_thau.png"
+}, {
+    "name": "दाहिने तिरबाट साँघुरिएको सडक",
+    "image": "dainey_tirbata_sadhuriyeko_sadak.png"
+}, {
+    "name": "दोहोरो मोड पहिलो बाँया",
+    "image": "dohoro_modd_pahilo_baya.png"
+}, {
+    "name": "वाई जक्सन",
+    "image": "y-junction.png"
+}, {
+    "name": "बायाँबाट सवारी आउन सक्छ",
+    "image": "baya_bata_sawari_jana_sakcha.png"
+}, {
+    "name": "दायाँबाट सवारी आउन सक्छ",
+    "image": "daya_bata_sawari_auna_sakcha.png"
+}, {
+    "name": "गोल घुम्ती",
+    "image": "gol_ghumti.png"
+}, {
+    "name": "अगाडि उचाई सीमा",
+    "image": "agadi_unchai_sima.png"
+}, {
+    "name": "चौबाटो अगाडि मूल सडक",
+    "image": "chaubato_agadi_mul_sadak.png"
+}, {
+    "name": " चौबाटो अगाडि शाखा सडक",
+    "image": "chaubato_agadi_sakha_sadak.png"
+}, {
+    "name": "बढि ओरालो",
+    "image": "badi_ooralo.png"
+}, {
+    "name": " पाल्तु जनावर",
+    "image": "paaltu_janawar.png"
+}, {
+    "name": "कम उचाईमा विमानहरु",
+    "image": "kam_unchaima_biman_haru.png"
+}, {
+    "name": "उठेको बाटो ",
+    "image": "utheyko_bato.png"
+}, {
+    "name": "दायाँ शाखा सडक",
+    "image": "daya_sakha_sadak.png"
+}, {
+    "name": "एकपछि अर्को दोबाटोहरु ",
+    "image": "ekpachi_arko_do_batoharu.png"
+}, {
+    "name": "दोहोरो सडक समाप्त",
+    "image": "dohoro_sadak_samapt.png"
+}, {
+    "name": "ट्राफिक लाईट",
+    "image": "traffick_light.png"
+}, {
+    "name": "जंगली जनावर",
+    "image": "jungli_janawar.png"
+}, {
+    "name": "अगाडि बाटोमा पैदल यात्री",
+    "image": "agadi_batoma_paidal_yatri.png"
+}, {
+    "name": "नदीको किनारा",
+    "image": "nadiko_kinara.png"
+}, {
+    "name": " रेल अगाडि गेट नभएको ",
+    "image": "rail_agadi_gate_nabhayeko.png"
+}, {
+    "name": "बाटोमा काम हुँदै ",
+    "image": "batoma_kaam_hudai.png"
+}, {
+    "name": "जाँच चौकी",
+    "image": "jaach_chowki.png"
+}, {
+    "name": "बालबालिकाहरु",
+    "image": "baalbalikaharu.png"
+}, {
+    "name": "बाँया तिर तिखो मोड",
+    "image": "baya_tira_tikho_modd.png"
+}, {
+    "name": " तिखो मोड (अस्थाई बाटो)",
+    "image": "tikho_modd_asthai_bato.png"
+}, {
+    "name": "टि. जक्सन (दायाँ र बाँया मोड)",
+    "image": "t_junction.png"
+}]
