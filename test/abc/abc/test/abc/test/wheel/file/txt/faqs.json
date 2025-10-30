@@ -1,0 +1,222 @@
+{
+  "english": [
+    {
+      "question": "What is the minimum age to apply for driving license in Nepal?",
+      "answer": "16 years for two-wheelers (Bike, Scooter, Moped), 18 years for small vehicles (Car, Van, Jeep), and 21 years for other vehicle categories."
+    },
+    {
+      "question": "When is the online form available for license?",
+      "answer": "The online form is available every 16 days from 7 AM, and applicants can apply for up to 7 days until the quota is filled."
+    },
+    {
+      "question": "When can I submit my application form and give biometrics?",
+      "answer": "Biometric verification is held on Sundays, Mondays, Tuesdays, and Wednesdays (except public holidays) at Transport Management Offices for new driving licenses and category additions."
+    },
+    {
+      "question": "Why am I unable to select a desired date in the online driving license form?",
+      "answer": "This can happen if the quota for that specific license category is full or there is a public holiday on the selected date."
+    },
+    {
+      "question": "Why don’t I get OTP from DOTM?",
+      "answer": "Sometimes DOTM delays sending OTP due to server issues, or if there is an error on the mobile number you entered. If everything is correct, try clicking on 'RESEND OTP.'"
+    },
+    {
+      "question": "What happens if I miss my biometrics appointment?",
+      "answer": "If you miss your biometrics appointment, you can resubmit your application after 15 days from the missed appointment date."
+    },
+    {
+      "question": "What happens if I miss my driving test?",
+      "answer": "If you miss the driving test, you can reapply for a retrial after 90 days."
+    },
+    {
+      "question": "What if I failed my Driving Test (Trial)?",
+      "answer": "You can give 2 more driving trials including your first attempt, wait 10 days before re-submitting for a retrial."
+    },
+    {
+      "question": "What is the validity of a driving license in Nepal?",
+      "answer": "A driving license in Nepal is valid for 5 years from the date of its issuance."
+    },
+    {
+      "question": "How can I check my driver’s license written result online?",
+      "answer": "Visit your city’s transport office’s official website, click on the 'Result' tab, select the exam date and category, and look for your name."
+    },
+    {
+      "question": "Can I apply for multiple vehicle categories at once?",
+      "answer": "No, you can only apply for one vehicle category at a time. After passing the trial for one, you can apply for another after a certain period."
+    },
+    {
+      "question": "When will I receive my Smart License Card?",
+      "answer": "It may take over 1 year or more as the Department of Transport Management (DOTM) has not been able to meet the printing demands."
+    },
+    {
+      "question": "How will I know if my smart driving license is ready?",
+      "answer": "You will get an SMS notification from DOTM when your license is printed and ready to collect. Or you can manually check for your license print status online."
+    },
+    {
+      "question": "How to pay the application fee for a License in Nepal?",
+      "answer": "The online payment system is in trial phase and is only available in the Gandaki region. You need to visit your selected transport office to pay for your license fee."
+    },
+    {
+      "question": "Why was the 70 Points Rule introduced in Nepal?",
+      "answer": "Department of Transport Management (DOTM) introduced 70 Points Rule to prevent applicants from failing the practical test due to minor mistakes, such as touching yellow lines or the vehicle stalling during the test."
+    },
+    {
+      "question": "How does the point system work in the practical test?",
+      "answer": "During the test, points are deducted for various mistakes or errors. Applicants must retain 70 or more points to pass the test without getting disqualified."
+    },
+    {
+      "question": "What are common mistakes that deduct points in Driving Practical test?",
+      "answer": "Common mistakes include: Touching yellow lines, stepping on ground, vehicle stalling or turning off, failure to follow traffic signs."
+    },
+    {
+      "question": "What should I do if the DOTM website is down or not loading?",
+      "answer": "If the DOTM website is down, try again after some time or during off-peak hours. You can also visit your nearest Transport Management Office for assistance or updates."
+    },
+    {
+      "question": "What if my online application is stuck in ‘pending’ or ‘under review’?",
+      "answer": "Application status may remain pending due to technical issues or backlog. Visit the transport office with your application details and receipts for clarification."
+    },
+    {
+      "question": "Can I edit my online application after submission?",
+      "answer": "No, you cannot edit the application after final submission. If you made a mistake, you may need to cancel and reapply or visit the transport office for help."
+    },
+    {
+      "question": "What if I entered wrong details in the online form?",
+      "answer": "If you entered incorrect information, contact or visit the transport office as soon as possible to correct the error before proceeding further."
+    },
+    {
+      "question": "Is there a digital/mobile version of the smart license? Is it valid?",
+      "answer": "Nepal does not officially provide a digital or mobile version of the smart driving license. Always carry your physical smart card for verification."
+    },
+    {
+      "question": "Can I use a photo or photocopy of my license for verification?",
+      "answer": "No, only the original physical license is accepted for legal verification. Photocopies or digital images are not valid."
+    },
+    {
+      "question": "What if I lose my payment slip?",
+      "answer": "If you lose your payment slip, visit the transport office with your citizenship and application details. They may be able to retrieve your payment record."
+    },
+    {
+      "question": "What if my citizenship certificate is under process or lost?",
+      "answer": "You must have a valid original citizenship certificate to apply for a driving license. If lost or under process, complete the necessary steps to obtain a duplicate or the final document before applying."
+    },
+    {
+      "question": "Can I transfer my license from one province to another?",
+      "answer": "Yes, you can transfer your license to another province by visiting the new province’s transport office with your original license and required documents."
+    },
+    {
+      "question": "What if my license is damaged but not lost?",
+      "answer": "If your license is damaged, visit the transport office with your damaged card and citizenship to apply for a replacement."
+    }
+  ],
+  "nepali": [
+    {
+      "question": "नेपालमा सवारी चालक अनुमतिपत्रको लागि न्यूनतम उमेर कति हो?",
+      "answer": "दुई पाङ्ग्रे (बाइक, स्कुटर, मोपेड) का लागि १६ वर्ष, साना सवारी (कार, भ्यान, जिप) का लागि १८ वर्ष, अन्य सवारीका लागि २१ वर्ष।"
+    },
+    {
+      "question": "अनलाइन फारम कहिले खुल्छ?",
+      "answer": "अनलाइन फारम प्रत्येक १६ दिनमा बिहान ७ बजे खुल्छ, र ७ दिनसम्म आवेदन दिन सकिन्छ जबसम्म कोटा भरिँदैन।"
+    },
+    {
+      "question": "बायोमेट्रिक्स कहिले बुझाउन सकिन्छ?",
+      "answer": "नयाँ लाइसेन्स र श्रेणी थपको लागि बायोमेट्रिक्स आइतबार, सोमबार, मंगलबार र बुधबार (सार्वजनिक बिदाबाहेक) यातायात कार्यालयमा बुझाउन सकिन्छ।"
+    },
+    {
+      "question": "अनलाइन फारममा चाहेको मिति किन छान्न सकिँदैन?",
+      "answer": "त्यो श्रेणीको कोटा सकिएको वा सो मितिमा सार्वजनिक बिदा परेको हुन सक्छ।"
+    },
+    {
+      "question": "DOTM बाट OTP किन आउँदैन?",
+      "answer": "कहिलेकाहीँ DOTM ले सर्भर समस्या वा मोबाइल नम्बरमा त्रुटि हुँदा OTP ढिला पठाउँछ। सबै कुरा ठीक छ भने 'RESEND OTP' मा क्लिक गर्नुहोस्।"
+    },
+    {
+      "question": "बायोमेट्रिक्सको मिति छुट्यो भने के हुन्छ?",
+      "answer": "बायोमेट्रिक्स छुटेमा १५ दिनपछि पुनः आवेदन दिन सकिन्छ।"
+    },
+    {
+      "question": "ड्राइभिङ टेस्ट छुट्यो भने के हुन्छ?",
+      "answer": "ड्राइभिङ टेस्ट छुटेमा ९० दिनपछि पुनः ट्रायलको लागि आवेदन दिन सकिन्छ।"
+    },
+    {
+      "question": "ड्राइभिङ टेस्ट (ट्रायल) फेल भएमा के हुन्छ?",
+      "answer": "पहिलो प्रयाससहित जम्मा २ पटक ट्रायल दिन पाइन्छ, फेल भएमा १० दिनपछि पुनः ट्रायलका लागि आवेदन दिन सकिन्छ।"
+    },
+    {
+      "question": "नेपालमा सवारी चालक अनुमतिपत्रको मान्यता अवधि कति हो?",
+      "answer": "लाइसेन्स जारी भएको मितिबाट ५ वर्षसम्म मान्य हुन्छ।"
+    },
+    {
+      "question": "लिखित नतिजा अनलाइन कसरी हेर्ने?",
+      "answer": "आफ्नो सहरको यातायात कार्यालयको वेबसाइटमा गएर 'Result' मा क्लिक गर्नुहोस्, परीक्षा मिति र श्रेणी छान्नुहोस्, र आफ्नो नाम खोज्नुहोस्।"
+    },
+    {
+      "question": "के एकै पटक धेरै श्रेणीमा आवेदन दिन सकिन्छ?",
+      "answer": "होइन, एक पटकमा एक श्रेणीका लागि मात्र आवेदन दिन सकिन्छ। पास गरेपछि अर्को श्रेणीमा आवेदन दिन सकिन्छ।"
+    },
+    {
+      "question": "स्मार्ट लाइसेन्स कार्ड कहिले आउँछ?",
+      "answer": "DOTM ले छपाइको माग पूरा गर्न नसकेकाले १ वर्ष वा बढी समय लाग्न सक्छ।"
+    },
+    {
+      "question": "स्मार्ट लाइसेन्स तयार भएको कसरी थाहा पाउने?",
+      "answer": "DOTM बाट SMS आउँछ वा अनलाइन स्टाटस हेर्न सकिन्छ।"
+    },
+    {
+      "question": "लाइसेन्सको शुल्क कसरी तिर्ने?",
+      "answer": "अनलाइन भुक्तानी प्रणाली परीक्षण चरणमा मात्र गण्डकी प्रदेशमा उपलब्ध छ। अन्यत्र कार्यालयमै शुल्क तिर्नुपर्छ।"
+    },
+    {
+      "question": "७० अंकको नियम किन ल्याइएको हो?",
+      "answer": "सानातिना गल्ती (जस्तै पहेंलो लाइन छोइयो, गाडी बन्द भयो) मा फेल नहोस् भनेर DOTM ले ७० अंकको नियम ल्याएको हो।"
+    },
+    {
+      "question": "प्रायोगिक परीक्षामा अंक कसरी कटौती हुन्छ?",
+      "answer": "विभिन्न गल्तीमा अंक कटौती हुन्छ। ७० वा बढी अंक राख्न सके पास, नभए डिसक्वालिफाइ।"
+    },
+    {
+      "question": "प्रायोगिक परीक्षामा कुन गल्तीले अंक कट्छ?",
+      "answer": "गल्तीहरू: पहेंलो लाइन छोइयो, खुट्टा जमिनमा राखियो, गाडी बन्द भयो, ट्राफिक चिन्ह नमानियो आदि।"
+    },
+    {
+      "question": "DOTM को वेबसाइट नचल्दा के गर्ने?",
+      "answer": "DOTM को वेबसाइट नचलेमा केही समयपछि वा अफ-पीक समयमा पुन: प्रयास गर्नुहोस्। आवश्यक परेमा नजिकको यातायात कार्यालयमा गएर जानकारी लिनुहोस्।"
+    },
+    {
+      "question": "अनलाइन आवेदन ‘pending’ वा ‘under review’ मा अड्किएको छ भने के गर्ने?",
+      "answer": "प्राविधिक समस्या वा ब्याकलॉगका कारण आवेदन अड्किन सक्छ। आवेदन विवरण र रसिद लिएर कार्यालयमा सम्पर्क गर्नुहोस्।"
+    },
+    {
+      "question": "आवेदन बुझाएपछि सम्पादन गर्न सकिन्छ?",
+      "answer": "अन्तिम पेश गरेपछि आवेदन सम्पादन गर्न सकिँदैन। गल्ती भएमा आवेदन रद्द गरी पुन: आवेदन दिनुहोस् वा कार्यालयमा सम्पर्क गर्नुहोस्।"
+    },
+    {
+      "question": "अनलाइन फारममा गलत विवरण भरेमा के गर्ने?",
+      "answer": "गलत विवरण भरेमा सक्दो छिटो कार्यालयमा सम्पर्क वा उपस्थित भएर सच्याउनुहोस्।"
+    },
+    {
+      "question": "के स्मार्ट लाइसेन्सको डिजिटल/मोबाइल संस्करण मान्य छ?",
+      "answer": "हाल नेपालमा स्मार्ट लाइसेन्सको आधिकारिक डिजिटल/मोबाइल संस्करण छैन। सधैं भौतिक कार्ड नै बोक्नुहोस्।"
+    },
+    {
+      "question": "लाइसेन्सको फोटो/फोटोकपी देखाएर सवारी चलाउन पाइन्छ?",
+      "answer": "पाइँदैन, कानुनी रूपमा सवारी चलाउन मूल लाइसेन्स अनिवार्य छ। फोटो वा फोटोकपी मान्य हुँदैन।"
+    },
+    {
+      "question": "भुक्तानी रसिद हरायो भने के गर्ने?",
+      "answer": "भुक्तानी रसिद हराएमा नागरिकता र आवेदन विवरण लिएर कार्यालयमा जानुहोस्। कार्यालयले भुक्तानी अभिलेख खोजिदिन सक्छ।"
+    },
+    {
+      "question": "नागरिकता प्रमाणपत्र हरायो वा प्रक्रियामा छ भने के गर्ने?",
+      "answer": "लाइसेन्सका लागि मूल नागरिकता प्रमाणपत्र अनिवार्य छ। हराएमा डुप्लिकेट बनाउने प्रक्रिया पूरा गर्नुहोस् वा नयाँ प्रमाणपत्र लिएर मात्र आवेदन दिनुहोस्।"
+    },
+    {
+      "question": "एक प्रदेशको लाइसेन्स अर्को प्रदेशमा ट्रान्सफर गर्न पाइन्छ?",
+      "answer": "पाइन्छ, मूल लाइसेन्स र आवश्यक कागजात लिएर नयाँ प्रदेशको कार्यालयमा गएर ट्रान्सफर गर्न सकिन्छ।"
+    },
+    {
+      "question": "लाइसेन्स बिग्रिएमा (हराएन तर क्षति भयो) के गर्ने?",
+      "answer": "लाइसेन्स बिग्रिएमा नागरिकता र बिग्रिएको कार्ड लिएर कार्यालयमा गई नयाँ कार्डको लागि आवेदन दिनुहोस्।"
+    }
+  ]
+}

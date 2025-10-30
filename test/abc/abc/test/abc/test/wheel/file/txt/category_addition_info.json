@@ -1,0 +1,62 @@
+{
+  "english": {
+    "license_steps": [
+      "Pass a medical checkup (mandatory for all categories)",
+      "Book and attend the driving trial exam (no written test required)",
+      "If failed, retake the trial after 10 days"
+    ],
+    "registration_process": {
+      "online": [
+        "Login to the DOTM portal: https://applydlnew.dotm.gov.np/login",
+        "Select 'Add Category'",
+        "Choose health checkup location (Transport Office recommended)",
+        "Select the category to add and the issuing office",
+        "Choose your test date and submit the application",
+        "Download and print the application form"
+      ],
+      "in_person": [
+        "Visit the nearest DOTM office",
+        "Submit the category upgrade application form",
+        "Undergo health checkup and receive a slip",
+        "Pay the application fee and receive a receipt",
+        "Book your license trial date"
+      ]
+    },
+    "required_documents": [
+      "Printed application form (from online or filled at office)",
+      "Existing driving license",
+      "Medical clearance slip (from health checkup at DOTM)",
+      "Payment receipts (application and medical fee)"
+    ]
+  },
+  "nepali": {
+    "license_steps": [
+      "स्वास्थ्य परीक्षण पास गर्नुहोस् (सबै श्रेणीका लागि अनिवार्य)",
+      "ट्रायल परीक्षा बुक र उपस्थित हुनुहोस् (लिखित परीक्षा आवश्यक छैन)",
+      "असफल भएमा १० दिनपछि पुनः ट्रायल दिन सकिन्छ"
+    ],
+    "registration_process": {
+      "online": [
+        "DOTM पोर्टलमा लगइन गर्नुहोस्: https://applydlnew.dotm.gov.np/login",
+        "'Add Category' विकल्प छान्नुहोस्",
+        "स्वास्थ्य परीक्षण स्थान छान्नुहोस् (यातायात कार्यालय सिफारिस)",
+        "थप्न चाहेको श्रेणी र लाइसेन्स जारी गर्ने कार्यालय छान्नुहोस्",
+        "परीक्षण मिति छान्नुहोस् र आवेदन पेश गर्नुहोस्",
+        "आवेदन फारम डाउनलोड गरी प्रिन्ट गर्नुहोस्"
+      ],
+      "in_person": [
+        "नजिकको DOTM कार्यालयमा जानुहोस्",
+        "श्रेणी थप आवेदन फारम बुझाउनुहोस्",
+        "स्वास्थ्य परीक्षण गराउनुहोस् र स्लिप प्राप्त गर्नुहोस्",
+        "आवेदन शुल्क तिर्नुहोस् र रसिद लिनुहोस्",
+        "लाइसेन्स ट्रायल मिति बुक गर्नुहोस्"
+      ]
+    },
+    "required_documents": [
+      "आवेदन फारम (अनलाइनबाट प्रिन्ट वा कार्यालयमा भरेको)",
+      "विद्यमान सवारी चालक अनुमतिपत्र",
+      "स्वास्थ्य परीक्षणको स्लिप (DOTM मा गरिने)",
+      "शुल्क तिरेको रसिद (आवेदन र स्वास्थ्य परीक्षण)"
+    ]
+  }
+}

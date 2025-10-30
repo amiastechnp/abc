@@ -1,0 +1,544 @@
+{
+  "english": [
+    {"category": "Before You Ride: Essentials", "content": [
+      {
+        "do": "Always wear a certified helmet, carry your driving license, vehicle registration, and insurance documents before riding.",
+        "do_not": "Do not ride without a helmet or valid documents; this can lead to fines, injury, or legal trouble.",
+        "special_cases": "If your helmet is damaged or expired, replace it immediately. For pillion riders, ensure they also wear a helmet."
+      },
+      {
+        "do": "Check brakes, lights, horn, tire pressure, and mirrors before every ride.",
+        "do_not": "Never ignore warning lights or unusual noises from your bike.",
+        "special_cases": "If you notice any mechanical issue during your ride, stop at a safe place and inspect or seek professional help."
+      },
+      {
+        "do": "Follow all traffic rules and speed limits, especially in school zones and residential areas.",
+        "do_not": "Do not exceed speed limits or run red lights, even if the road is empty.",
+        "special_cases": "During festivals or special events, temporary speed limits or diversions may apply; always follow police instructions."
+      }
+    ]},
+    {"category": "Common Causes of Accidents", "content": [
+      {
+        "do": "Stay alert for sudden obstacles, potholes, and unpredictable traffic behavior.",
+        "do_not": "Do not ride when fatigued, distracted, or under the influence of alcohol or drugs.",
+        "special_cases": "If you feel drowsy or unwell while riding, stop at a safe location and rest before continuing."
+      },
+      {
+        "do": "Maintain a safe following distance from vehicles ahead to allow ample reaction time.",
+        "do_not": "Do not tailgate or weave between vehicles at high speed.",
+        "special_cases": "In wet or slippery conditions, increase your following distance and reduce speed to avoid skidding."
+      },
+      {
+        "do": "Use indicators and hand signals to communicate your intentions to other road users.",
+        "do_not": "Do not make sudden lane changes or turns without signaling.",
+        "special_cases": "If your indicator lights malfunction, use clear hand signals until repairs are made."
+      }
+    ]},
+    {"category": "Tyre Pressure Tips", "content": [
+      {
+        "do": "Check tire pressure regularly, especially before long rides. Maintain pressure as recommended in your vehicle manual.",
+        "do_not": "Do not ride with under-inflated or over-inflated tires; this increases the risk of accidents and tire wear.",
+        "special_cases": "If you experience a sudden flat or blowout, hold the handlebars firmly, avoid sharp braking, and gradually steer to a safe stop. Carry a portable air pump or puncture kit for emergencies."
+      },
+      {
+        "do": "Inspect tire tread and sidewalls for cuts, cracks, or excessive wear.",
+        "do_not": "Do not ignore worn or damaged tires; replace them promptly.",
+        "special_cases": "If you are unsure about tire safety, consult a mechanic or tire specialist before your next ride."
+      }
+    ]},
+    {"category": "How to Overtake Safely", "content": [
+      {
+        "do": "Overtake only from the right side and after ensuring the road ahead is clear.",
+        "do_not": "Do not overtake at junctions, bends, pedestrian crossings, or when visibility is limited.",
+        "special_cases": "Use your horn or indicators to signal overtaking intentions. If another vehicle is overtaking you, do not increase your speed—allow them to pass safely."
+      },
+      {
+        "do": "Check mirrors and blind spots before overtaking.",
+        "do_not": "Never weave between vehicles or overtake in heavy traffic.",
+        "special_cases": "In rainy or foggy conditions, avoid overtaking unless absolutely necessary and visibility is good."
+      }
+    ]},
+    {"category": "Traffic Signals & Lights", "content": [
+      {
+        "do": "Obey all traffic signals, signs, and road markings. Stop at red lights and only proceed when the signal turns green.",
+        "do_not": "Do not try to jump signals or speed up to beat a yellow light.",
+        "special_cases": "If a traffic signal is not working, follow the instructions of traffic police or proceed with extra caution, yielding to vehicles on the main road."
+      },
+      {
+        "do": "Watch for pedestrian crossings and always yield to pedestrians at zebra crossings.",
+        "do_not": "Do not block pedestrian crossings or stop on crosswalks at signals.",
+        "special_cases": "In case of temporary signals (e.g., during road work), follow the directions given by authorized personnel."
+      }
+    ]},
+    {"category": "Vehicle Maintenance & Safety", "content": [
+      {
+        "do": "Regularly service your two-wheeler and ensure all safety features like lights, horn, and brakes are working.",
+        "do_not": "Do not ignore scheduled maintenance or warning signs from your vehicle.",
+        "special_cases": "If you notice electrical issues (e.g., flickering lights), avoid riding at night until repaired. Always use genuine spare parts for replacements."
+      },
+      {
+        "do": "Keep emergency contact numbers and a basic tool kit with you while riding.",
+        "do_not": "Do not attempt complex repairs on the roadside if you lack the skills or tools.",
+        "special_cases": "If your vehicle breaks down in a dangerous spot, move it to a safe area and use hazard signals or reflective triangles if available."
+      }
+    ]},
+    {"category": "Engine & Fuel Care", "content": [
+      {
+        "do": "Check engine oil and fuel level before starting your journey. Top up if necessary.",
+        "do_not": "Do not let the fuel tank run dry or ignore oil change schedules.",
+        "special_cases": "If you notice oil leaks or a drop in engine performance, get your vehicle checked by a mechanic immediately. Use only recommended fuel and oil grades."
+      },
+      {
+        "do": "Turn off the engine while refueling and avoid using mobile phones at fuel stations.",
+        "do_not": "Do not smoke or use open flames near the fuel tank.",
+        "special_cases": "In case of a fuel spill, inform the station staff and do not start the engine until the area is cleaned."
+      }
+    ]},
+    {"category": "Lane Use & Road Rules", "content": [
+      {
+        "do": "Always ride within your designated lane and follow lane markings.",
+        "do_not": "Do not switch lanes abruptly or ride on the wrong side of the road.",
+        "special_cases": "If you must change lanes, signal in advance and check for vehicles in your blind spot. In case of road construction or diversions, follow temporary lane instructions."
+      },
+      {
+        "do": "Keep to the left side of the road unless overtaking.",
+        "do_not": "Do not ride on the shoulder or use bicycle lanes unless specifically allowed.",
+        "special_cases": "In heavy traffic, avoid squeezing between lanes or overtaking from the left."
+      }
+    ]},
+    {"category": "Safe Riding Practices", "content": [
+      {
+        "do": "Wear visible clothing and reflective gear, especially at night or in poor weather.",
+        "do_not": "Do not ride with headphones or while using a mobile phone.",
+        "special_cases": "If you must use your phone for navigation, mount it securely and set directions before starting. Take breaks if you feel tired or drowsy."
+      },
+      {
+        "do": "Keep both hands on the handlebars and both feet on the footrests while riding.",
+        "do_not": "Do not carry oversized loads or more passengers than allowed.",
+        "special_cases": "If you must transport goods, use proper carriers and secure them tightly."
+      }
+    ]},
+    {"category": "Helmet & Safety Gear", "content": [
+      {
+        "do": "Always wear a certified helmet that fits snugly and is properly fastened before starting your ride.",
+        "do_not": "Do not use damaged, loose, or expired helmets.",
+        "special_cases": "If your helmet falls or is involved in an accident, replace it even if there is no visible damage. Pillion riders must also wear helmets at all times."
+      },
+      {
+        "do": "Clean your helmet visor regularly for clear visibility.",
+        "do_not": "Do not modify your helmet or remove safety padding.",
+        "special_cases": "If riding in rain or fog, use anti-fog visors or wipe the visor frequently for clear vision."
+      }
+    ]},
+    {"category": "Speed Limits & Safe Speed", "content": [
+      {
+        "do": "Always adhere to posted speed limits and adjust your speed according to road, weather, and traffic conditions.",
+        "do_not": "Do not exceed speed limits, especially in school zones, residential areas, or near intersections.",
+        "special_cases": "During rain, fog, or heavy traffic, ride slower than the posted limit for extra safety. Speeding fines and penalties are stricter for repeat offenses."
+      },
+      {
+        "do": "Reduce speed when approaching sharp turns, curves, or unfamiliar roads.",
+        "do_not": "Do not accelerate suddenly or race with other vehicles on public roads.",
+        "special_cases": "If you are being tailgated, maintain a steady speed and allow the vehicle behind to pass safely when possible."
+      }
+    ]},
+    {"category": "Road Etiquette & Safety", "content": [
+      {
+        "do": "Be courteous to other road users and practice defensive riding at all times.",
+        "do_not": "Do not engage in aggressive behavior, road rage, or retaliate against other drivers.",
+        "special_cases": "If you encounter an aggressive driver, avoid eye contact and do not respond; focus on your own safety and report dangerous behavior if needed."
+      },
+      {
+        "do": "Use your horn sparingly to alert others of your presence, not to express frustration.",
+        "do_not": "Do not use abusive language or gestures on the road.",
+        "special_cases": "If involved in a minor accident, remain calm, move to a safe location, and exchange information politely."
+      }
+    ]},
+    {"category": "Legal & Safe Vehicle Mods", "content": [
+      {
+        "do": "Ensure your two-wheeler is regularly inspected and meets all legal fitness requirements.",
+        "do_not": "Do not ride a vehicle with expired fitness certificates or overdue emissions tests.",
+        "special_cases": "If you modify your vehicle (e.g., exhaust, lights), ensure modifications are legal and do not compromise safety. Inform authorities if major modifications are made."
+      },
+      {
+        "do": "Use only manufacturer-approved parts and accessories.",
+        "do_not": "Do not install unauthorized performance-enhancing parts or tamper with the odometer.",
+        "special_cases": "If you are unsure about the legality of a modification, consult the Department of Transport or a certified mechanic."
+      }
+    ]},
+    {"category": "Emergency Procedures", "content": [
+      {
+        "do": "Familiarize yourself with emergency contacts, nearest hospitals, and basic first aid for road accidents.",
+        "do_not": "Do not leave the scene of an accident without assisting or informing authorities.",
+        "special_cases": "If you witness or are involved in an accident, move to safety, call emergency services, and provide first aid if trained. Use hazard lights or reflective triangles to warn approaching traffic."
+      },
+      {
+        "do": "Carry a basic first aid kit and emergency tools on long journeys.",
+        "do_not": "Do not ignore injuries, even if they seem minor; seek medical attention as needed.",
+        "special_cases": "If your vehicle breaks down in a remote area, stay with your vehicle and signal for help using your phone or visible markers."
+      }
+    ]},
+    {"category": "Environmental Awareness", "content": [
+      {
+        "do": "Reduce engine idling, maintain your vehicle, and use eco-friendly riding habits to minimize pollution.",
+        "do_not": "Do not dispose of waste, oil, or vehicle parts on the road or in natural areas.",
+        "special_cases": "If you notice oil or fuel leaks, repair them promptly to prevent environmental harm. Participate in emission checks and comply with green standards."
+      },
+      {
+        "do": "Encourage carpooling or use public transport when possible to reduce road congestion and emissions.",
+        "do_not": "Do not unnecessarily rev your engine or create excessive noise pollution.",
+        "special_cases": "Support or join local clean-up and awareness campaigns for safer, cleaner roads."
+      }
+    ]},
+    {"category": "Passenger & Cargo Safety", "content": [
+      {
+        "do": "Carry only the allowed number of passengers (usually one pillion) and ensure they are seated properly.",
+        "do_not": "Do not overload your two-wheeler with passengers or cargo.",
+        "special_cases": "If carrying children, ensure they can reach the footrests and are holding on securely. Use proper carriers for cargo and secure all items tightly."
+      },
+      {
+        "do": "Distribute cargo weight evenly and keep it low to maintain balance.",
+        "do_not": "Do not carry loose or protruding items that could interfere with riding or endanger others.",
+        "special_cases": "If carrying hazardous materials (e.g., fuel, chemicals), follow all safety and legal requirements."
+      }
+    ]},
+    {"category": "Parking Safety", "content": [
+      {
+        "do": "Park only in designated areas and lock your vehicle before leaving.",
+        "do_not": "Do not park in front of gates, on sidewalks, or in no-parking zones.",
+        "special_cases": "If parking in an unfamiliar area, choose well-lit spots and avoid leaving valuables on your vehicle. Use additional locks for extra security if possible."
+      },
+      {
+        "do": "Ensure your two-wheeler is stable and the stand is fully engaged before leaving.",
+        "do_not": "Do not park on slopes or soft ground where your vehicle may tip over.",
+        "special_cases": "If your vehicle is towed or clamped, follow the local procedure to retrieve it and avoid confrontation with authorities."
+      }
+    ]},
+    {"category": "Night & Bad Weather Riding", "content": [
+      {
+        "do": "Use headlights and taillights at night or during poor visibility conditions. Wear reflective clothing for extra safety.",
+        "do_not": "Do not ride with faulty lights or in heavy fog/rain if avoidable.",
+        "special_cases": "If caught in sudden bad weather, reduce speed, increase following distance, and find shelter if conditions become dangerous."
+      },
+      {
+        "do": "Clean your lights and visor before riding at night or in rain.",
+        "do_not": "Do not use high beam in fog or when approaching other vehicles.",
+        "special_cases": "If visibility drops below safe limits, stop at a safe location and wait for conditions to improve."
+      }
+    ]},
+    {"category": "Number Plate Rules", "content": [
+      {
+        "do": "Ensure your vehicle displays a valid, clearly visible number plate as per legal requirements.",
+        "do_not": "Do not use fake, altered, or obscured number plates.",
+        "special_cases": "If your number plate is damaged or lost, replace it immediately through the proper legal process. Temporary plates must be used only as permitted."
+      },
+      {
+        "do": "Clean your number plate regularly to keep it legible.",
+        "do_not": "Do not cover your number plate with stickers or decorative items.",
+        "special_cases": "If you move to a new province or change ownership, update the number plate registration as required by law."
+      }
+    ]},
+    {"category": "First Aid for Road Accidents", "content": [
+      {
+        "do": "Carry a basic first aid kit and know how to use it for common road injuries.",
+        "do_not": "Do not attempt advanced medical procedures if untrained.",
+        "special_cases": "If someone is unconscious or bleeding heavily, call emergency services immediately and provide basic care until help arrives."
+      },
+      {
+        "do": "Clean minor wounds with clean water and cover with sterile bandages.",
+        "do_not": "Do not ignore head injuries or severe pain after a fall, even if you feel fine initially.",
+        "special_cases": "If you suspect a spinal injury, do not move the injured person unless absolutely necessary for safety."
+      }
+    ]},
+    {"category": "Fines & What Happens If You Break Rules", "content": [
+      {
+        "do": "Familiarize yourself with common traffic fines and legal consequences for violations.",
+        "do_not": "Do not attempt to bribe officers or evade fines through illegal means.",
+        "special_cases": "If you receive a fine, pay it promptly through the official process. Repeat offenses may result in higher penalties, license suspension, or vehicle impoundment."
+      },
+      {
+        "do": "Keep all receipts and documentation when paying fines.",
+        "do_not": "Do not ignore court summons or legal notices related to traffic violations.",
+        "special_cases": "If you believe a fine is unjust, follow the legal appeals process rather than arguing on the spot."
+      }
+    ]},
+    {"category": "Spare Parts: What & Why", "content": [
+      {
+        "do": "Familiarize yourself with essential spare parts (spark plug, fuse, bulbs, chain, etc.) and their basic functions.",
+        "do_not": "Do not use incompatible or substandard spare parts for repairs or replacements.",
+        "special_cases": "Carry a few basic spares and tools on long journeys. Learn how to perform simple replacements (e.g., bulbs, fuses) safely."
+      },
+      {
+        "do": "Replace worn-out parts promptly to avoid breakdowns and accidents.",
+        "do_not": "Do not ignore warning signs like unusual noises, vibrations, or leaks.",
+        "special_cases": "Consult your vehicle manual or a certified mechanic for correct part specifications and maintenance intervals."
+      }
+    ]}
+  ],
+  "nepali": [
+    {"category": "सवारी चलाउनुअघि ध्यान दिनुपर्ने कुरा", "content": [
+      {
+        "do": "सधैं ट्राफिक नियमको पालना गर्नुहोस् र सवारी चलाउनुअघि आफ्नो सवारीको अवस्था जाँच गर्नुहोस्।",
+        "do_not": "सवारी चलाउँदा मोबाइल फोन प्रयोग नगर्नुहोस् वा ध्यान अन्यत्र नदिनुहोस्।",
+        "special_cases": "यदि तपाईं थकित, बिरामी वा मादक पदार्थ सेवन गरेको अवस्थामा हुनुहुन्छ भने सवारी नगर्नुहोस्।"
+      },
+      {
+        "do": "सवारी चलाउँदा सधैं दायाँ-बायाँ हेरेर मात्र अघि बढ्नुहोस्।",
+        "do_not": "सडकमा अनावश्यक हर्न नगर्नुहोस् वा अरूलाई डराउने गरी सवारी नगर्नुहोस्।",
+        "special_cases": "ट्राफिक प्रहरी वा संकेतको निर्देशन अवश्य पालना गर्नुहोस्।"
+      }
+    ]},
+    {"category": "दुर्घटना हुने सामान्य कारणहरू", "content": [
+      {
+        "do": "सवारी चलाउँदा सधैं गति नियन्त्रणमा राख्नुहोस् र सडकको अवस्था अनुसार सवारी गर्नुहोस्।",
+        "do_not": "मादक पदार्थ सेवन गरेर वा निद्रा लाग्दो अवस्थामा सवारी नगर्नुहोस्।",
+        "special_cases": "अचानक ब्रेक लगाउनुपर्ने अवस्थाबाट बच्न सधैं दूरी कायम राख्नुहोस्।"
+      },
+      {
+        "do": "सडकमा पैदल यात्री, बालबालिका, र जनावरप्रति सतर्क रहनुहोस्।",
+        "do_not": "ओभरटेक गर्दा लापरवाही नगर्नुहोस् वा संकेत नदिई सवारी नछोड्नुहोस्।",
+        "special_cases": "खराब मौसम वा रातको समयमा विशेष ध्यान दिनुहोस्, दुर्घटनाको सम्भावना बढी हुन्छ।"
+      }
+    ]},
+    {"category": "टायरको हावा कसरि जाँच गर्ने र मिलाउने", "content": [
+      {
+        "do": "नियमित रूपमा टायरको हावा जाँच गर्नुहोस् र सिफारिस गरिएको दबाबमा राख्नुहोस्।",
+        "do_not": "अत्यधिक कम वा बढी हावामा सवारी नगर्नुहोस्।",
+        "special_cases": "लामो यात्रा वा भारी बोझ हुँदा टायरको दबाब थप ध्यानपूर्वक जाँच गर्नुहोस्।"
+      },
+      {
+        "do": "टायरमा चिरा, प्वाल वा अत्यधिक घिसिएको छ कि छैन जाँच्नुहोस्।",
+        "do_not": "चर्किएको वा घिसिएको टायरमा सवारी नगर्नुहोस्।",
+        "special_cases": "खराब मौसममा टायरको अवस्था अझै ध्यानपूर्वक जाँच गर्नुहोस्।"
+      }
+    ]},
+    {"category": "सुरक्षित ओभरटेक गर्ने तरिका", "content": [
+      {
+        "do": "ओभरटेक गर्नु अघि साइड संकेत दिनुहोस् र अगाडि सडक खाली छ कि छैन हेर्नुहोस्।",
+        "do_not": "अन्धा मोड, पुल, वा क्रसिंगमा ओभरटेक नगर्नुहोस्।",
+        "special_cases": "ओभरटेक गर्दा सधैं बायाँबाट मात्र गर्नुहोस् र आवश्यक दूरी कायम राख्नुहोस्।"
+      },
+      {
+        "do": "ओभरटेक गर्दा अन्य सवारी वा पैदल यात्रीलाई नजिक नजानुहोस्।",
+        "do_not": "ओभरटेक गर्दा अत्यधिक गति प्रयोग नगर्नुहोस्।",
+        "special_cases": "यदि अगाडि सवारीले संकेत दिएको छैन भने धैर्य गर्नुहोस्, जबसम्म सुरक्षित नहुन्छ ओभरटेक नगर्नुहोस्।"
+      }
+    ]},
+    {"category": "ट्राफिक बत्ती र संकेत बुझ्ने", "content": [
+      {
+        "do": "ट्राफिक बत्ती र संकेतहरूको पालना गर्नुहोस् र राति वा खराब मौसममा अझै बढी सतर्क रहनुहोस्।",
+        "do_not": "रातो बत्तीमा सवारी नगर्नुहोस् वा संकेतको अवज्ञा नगर्नुहोस्।",
+        "special_cases": "यदि बत्ती बिग्रिएको छ भने ट्राफिक प्रहरीको निर्देशन पालना गर्नुहोस्।"
+      },
+      {
+        "do": "सडकमा जेब्रा क्रसिंग वा पैदल यात्री संकेत देख्दा सवारी रोक्नुहोस्।",
+        "do_not": "सडकमा संकेत वा लेन मार्किंग नदेखेर लापरवाही नगर्नुहोस्।",
+        "special_cases": "सडकमा अस्थायी संकेत वा निर्माण कार्य देख्दा गति घटाउनुहोस् र सतर्क रहनुहोस्।"
+      }
+    ]},
+    {"category": "सवारीको राम्रो मर्मत र सुरक्षा", "content": [
+      {
+        "do": "सवारीका सबै प्राविधिक उपकरण (ब्रेक, लाइट, हर्न, साइड मिरर) नियमित रूपमा जाँच गर्नुहोस्।",
+        "do_not": "खराब उपकरणको प्रयोग नगर्नुहोस् वा मर्मत नगरी सवारी नगर्नुहोस्।",
+        "special_cases": "सवारीमा कुनै समस्या देखिएमा तुरुन्तै मर्मत गराउनुहोस् र आपतकालीन उपकरण सधैं साथमा राख्नुहोस्।"
+      },
+      {
+        "do": "सवारीका सबै सुरक्षा उपकरण (हेल्मेट, ग्लोभ्स, ज्याकेट) प्रयोग गर्नुहोस्।",
+        "do_not": "सुरक्षा उपकरण बिना लामो यात्रा नगर्नुहोस्।",
+        "special_cases": "नयाँ उपकरण जडान गर्दा प्राविधिक सल्लाह लिनुहोस्।"
+      }
+    ]},
+    {"category": "इन्जिन र इन्धनको हेरचाह", "content": [
+      {
+        "do": "इन्जिनको तेल, कूलेंट र इन्धनको मात्रा नियमित रूपमा जाँच गर्नुहोस्।",
+        "do_not": "इन्धन सकिन लागेको अवस्थामा लामो यात्रा नगर्नुहोस्।",
+        "special_cases": "इन्धन चुहावट वा इन्जिनमा अस्वाभाविक आवाज आए तुरुन्तै मर्मत गराउनुहोस्।"
+      },
+      {
+        "do": "इन्धन ट्याङ्की सधैं बन्द गर्नुहोस् र सवारी रोक्दा चाबी निकाल्नुहोस्।",
+        "do_not": "खुला इन्धन ट्याङ्की वा इन्धन चुहावटको अवस्थामा सवारी नगर्नुहोस्।",
+        "special_cases": "सवारी लामो समय नचलाउँदा इन्धन ट्याङ्की खाली वा आधा राख्नुहोस्।"
+      }
+    ]},
+    {"category": "लेन र सडक अनुशासन मिलाउने तरिका", "content": [
+      {
+        "do": "सधैं आफ्नो लेनमा चल्नुहोस् र लेन परिवर्तन गर्दा साइड संकेत दिनुहोस्।",
+        "do_not": "लेन अनुशासन नमान्दा दुर्घटना हुन सक्छ, जथाभावी लेन परिवर्तन नगर्नुहोस्।",
+        "special_cases": "ट्राफिक जाम वा निर्माण कार्य हुँदा ट्राफिक प्रहरीको निर्देशन पालना गर्नुहोस्।"
+      },
+      {
+        "do": "लेन मार्किंग र सडकका संकेतहरूलाई ध्यानपूर्वक पालना गर्नुहोस्।",
+        "do_not": "सडक खाली छ भनेर लेन अनुशासन तोड्नु हुँदैन।",
+        "special_cases": "राति वा खराब मौसममा लेन अनुशासनमा अझै बढी ध्यान दिनुहोस्।"
+      }
+    ]},
+    {"category": "सुरक्षित सवारी गर्ने उपायहरू", "content": [
+      {
+        "do": "सवारी गर्दा सधैं दुबै हात र खुट्टा प्रयोग गर्नुहोस् र सन्तुलन कायम राख्नुहोस्।",
+        "do_not": "एक हातमा मोबाइल वा अन्य वस्तु समातेर सवारी नगर्नुहोस्।",
+        "special_cases": "थकाइ वा निद्रा लागेको अवस्थामा सवारी नगर्नुहोस्।"
+      },
+      {
+        "do": "सवारी गर्दा वरिपरिका सवारी र पैदल यात्रीलाई ध्यान दिनुहोस्।",
+        "do_not": "सडकमा खेलकुद, रमाइलो वा लापरवाही नगर्नुहोस्।",
+        "special_cases": "बालबालिका वा वृद्ध यात्रु भएमा विशेष सतर्कता अपनाउनुहोस्।"
+      }
+    ]},
+    {"category": "हेल्मेट र सुरक्षा उपकरणको प्रयोग", "content": [
+      {
+        "do": "सवारी गर्दा सधैं प्रमाणित हेल्मेट लगाउनुहोस् र राम्रोसँग बाँध्नुहोस्।",
+        "do_not": "हेल्मेट बिना वा खुला हेल्मेट लगाएर सवारी नगर्नुहोस्।",
+        "special_cases": "पछाडि बस्ने यात्रुका लागि पनि हेल्मेट अनिवार्य गर्नुहोस्।"
+      },
+      {
+        "do": "हेल्मेटको स्ट्र्याप र कुशनिंग नियमित रूपमा जाँच गर्नुहोस्।",
+        "do_not": "चर्किएको वा म्याद सकिएको हेल्मेट प्रयोग नगर्नुहोस्।",
+        "special_cases": "दुर्घटना भएमा हेल्मेट तुरुन्तै परिवर्तन गर्नुहोस्।"
+      }
+    ]},
+    {"category": "गति सीमा पालना गर्ने तरिका", "content": [
+      {
+        "do": "सधैं तोकिएको गति सीमा भित्र सवारी चलाउनुहोस्।",
+        "do_not": "अत्यधिक गति वा अनावश्यक रेस नगर्नुहोस्।",
+        "special_cases": "विद्यालय, अस्पताल, भीडभाड क्षेत्र वा खराब मौसममा गति अझै घटाउनुहोस्।"
+      },
+      {
+        "do": "गति सीमाको संकेत बोर्डहरू ध्यानपूर्वक पढ्नुहोस्।",
+        "do_not": "गति सीमाको उल्लंघन गर्दा जरिवाना वा दुर्घटना हुन सक्छ।",
+        "special_cases": "सडकमा जनावर, बालबालिका, वा निर्माण कार्य देख्दा गति घटाउनुहोस्।"
+      }
+    ]},
+    {"category": "सडकमा राम्रो व्यवहार गर्ने तरिका", "content": [
+      {
+        "do": "सवारी गर्दा धैर्य, अनुशासन र इमानदारी अपनाउनुहोस्।",
+        "do_not": "क्रोध, हतार वा प्रतिस्पर्धाको भावना लिएर सवारी नगर्नुहोस्।",
+        "special_cases": "सडकमा विवाद वा झगडा भएमा ट्राफिक प्रहरीलाई खबर गर्नुहोस्।"
+      },
+      {
+        "do": "सडकमा अरू सवारी र पैदल यात्रुलाई सम्मान गर्नुहोस्।",
+        "do_not": "सडकमा अनावश्यक हर्न बजाएर वा लाज नमान्ने व्यवहार नगर्नुहोस्।",
+        "special_cases": "सडकमा सामाजिक उत्तरदायित्वको भावना राख्नुहोस्।"
+      }
+    ]},
+    {"category": "सवारी कानुनी र सुरक्षित बनाउन ध्यान दिने कुरा", "content": [
+      {
+        "do": "सवारी साधनको नियमित फिटनेस परीक्षण गराउनुहोस् र सबै कागजात अद्यावधिक राख्नुहोस्।",
+        "do_not": "अनधिकृत रूपमा सवारीमा परिवर्तन नगर्नुहोस्।",
+        "special_cases": "फिटनेस पास नभएको सवारी चलाउँदा कानुनी कारबाही हुन सक्छ।"
+      },
+      {
+        "do": "इन्जिन, ब्रेक, लाइट, टायर जस्ता भागहरूको मर्मत समयमै गराउनुहोस्।",
+        "do_not": "जथाभावी पार्ट्स वा एक्सेसरी जडान नगर्नुहोस्।",
+        "special_cases": "सवारीमा कुनै परिवर्तन गर्दा ट्राफिक कार्यालयबाट स्वीकृति लिनुहोस्।"
+      }
+    ]},
+    {"category": "आपतकालीन अवस्थामा के गर्ने", "content": [
+      {
+        "do": "दुर्घटना वा आपतकालीन अवस्थामा सुरक्षित स्थानमा सवारी रोक्नुहोस् र ट्राफिक प्रहरी वा एम्बुलेन्सलाई खबर गर्नुहोस्।",
+        "do_not": "घाइतेलाई अनावश्यक रूपमा चलाउन वा सवारी गर्न नदिनुहोस्।",
+        "special_cases": "सवारीमा प्राथमिक उपचार किट सधैं साथमा राख्नुहोस् र प्रयोग गर्न जान्नुहोस्।"
+      },
+      {
+        "do": "सडकमा आपतकालीन संकेत (hazard light, reflector) प्रयोग गर्नुहोस्।",
+        "do_not": "आपतकालीन अवस्थामा घबराएर निर्णय नगर्नुहोस्।",
+        "special_cases": "सवारी बिग्रिएमा सडकको छेउमा सुरक्षित रूपमा राख्नुहोस् र सहायता माग्नुहोस्।"
+      }
+    ]},
+    {"category": "सवारी गर्दा वातावरण जोगाउने उपायहरू", "content": [
+      {
+        "do": "सवारी गर्दा धुवाँ, धुलो र ध्वनि प्रदूषण कम गर्ने उपाय अपनाउनुहोस्।",
+        "do_not": "अनावश्यक रूपमा सवारी नचलाउनुहोस् वा इन्धनको अपव्यय नगर्नुहोस्।",
+        "special_cases": "इन्धन चुहावट वा इन्जिनबाट अत्यधिक धुवाँ निस्केमा तुरुन्तै मर्मत गराउनुहोस्।"
+      },
+      {
+        "do": "सवारीको नियमित मर्मत गरी वातावरणमैत्री बनाउनुहोस्।",
+        "do_not": "सार्वजनिक स्थल वा हरियाली क्षेत्रमा सवारी पार्क नगर्नुहोस्।",
+        "special_cases": "इलेक्ट्रिक सवारी उपलब्ध भएमा प्राथमिकता दिनुहोस्।"
+      }
+    ]},
+    {"category": "यात्रु र सामान सुरक्षित राख्ने तरिका", "content": [
+      {
+        "do": "सवारीमा अधिकतम दुई जना मात्र बस्नुहोस् र यात्रुलाई राम्रोसँग समात्न भन्नुहोस्।",
+        "do_not": "तीन जना वा बढी यात्रु राखेर सवारी नगर्नुहोस्।",
+        "special_cases": "बालबालिका वा वृद्ध यात्रु भएमा विशेष सतर्कता अपनाउनुहोस्।"
+      },
+      {
+        "do": "सवारीमा सामान राख्दा सन्तुलन मिलाएर राख्नुहोस् र आवश्यक परे डोरी वा झोला प्रयोग गर्नुहोस्।",
+        "do_not": "अत्यधिक वा भारी सामान राखेर सवारी नगर्नुहोस्।",
+        "special_cases": "सामान खस्ने वा झर्ने सम्भावना भएमा सवारी नगर्नुहोस्।"
+      }
+    ]},
+    {"category": "सवारी कहाँ र कसरी पार्क गर्ने", "content": [
+      {
+        "do": "सवारी निर्दिष्ट पार्किङ स्थलमा मात्र पार्क गर्नुहोस् र पार्क गर्दा सवारी लक गर्नुहोस्।",
+        "do_not": "सार्वजनिक स्थल, फुटपाथ वा आपतकालीन मार्गमा सवारी पार्क नगर्नुहोस्।",
+        "special_cases": "राति वा सुनसान स्थानमा सवारी पार्क गर्दा थप सतर्कता अपनाउनुहोस्।"
+      },
+      {
+        "do": "पार्किङ गर्दा अन्य सवारीलाई अवरोध नहोस् भन्ने सुनिश्चित गर्नुहोस्।",
+        "do_not": "अन्य सवारी वा पैदल यात्रीको बाटो छेक्ने गरी पार्क नगर्नुहोस्।",
+        "special_cases": "लामो समय पार्क गर्दा सवारीको कागजात र महत्वपूर्ण सामान निकाल्नुहोस्।"
+      }
+    ]},
+    {"category": "राति र खराब मौसममा सवारी चलाउने सुझावहरू", "content": [
+      {
+        "do": "राति वा खराब मौसममा सवारी गर्दा हेडलाइट, टेललाइट र संकेतहरू अनिवार्य रूपमा प्रयोग गर्नुहोस्।",
+        "do_not": "धेरै तिव्र गतिमा वा कम देखिने अवस्थामा सवारी नगर्नुहोस्।",
+        "special_cases": "धुंध, वर्षा वा हिउँ पर्दा गति घटाउनुहोस् र आवश्यक परे सवारी रोक्नुहोस्।"
+      },
+      {
+        "do": "राति सवारी गर्दा चम्किलो वा प्रतिविम्बित कपडा लगाउनुहोस्।",
+        "do_not": "राति वा खराब मौसममा मोबाइल वा अन्य ध्यान भंग गर्ने उपकरण प्रयोग नगर्नुहोस्।",
+        "special_cases": "राति लामो यात्रा गर्दा बीचमा विश्राम लिनुहोस्।"
+      }
+    ]},
+    {"category": "नम्बर प्लेटको नियमहरू", "content": [
+      {
+        "do": "सवारीको नम्बर प्लेट सधैं स्पष्ट, सफा र कानुनी मापदण्ड अनुसार राख्नुहोस्।",
+        "do_not": "नम्बर प्लेट लुकाउने, झुन्ड्याउने वा परिवर्तन गर्ने काम नगर्नुहोस्।",
+        "special_cases": "नम्बर प्लेट हराएमा तुरुन्तै ट्राफिक कार्यालयमा जानकारी दिनुहोस्।"
+      },
+      {
+        "do": "नम्बर प्लेटमा कुनै किसिमको सजावट, स्टिकर वा रंग नगर्नुहोस्।",
+        "do_not": "नक्कली नम्बर प्लेट प्रयोग नगर्नुहोस्।",
+        "special_cases": "नम्बर प्लेटमा समस्या आएमा ट्राफिक नियम अनुसार नयाँ बनाउनुहोस्।"
+      }
+    ]},
+    {"category": "सडक दुर्घटनामा प्राथमिक उपचार", "content": [
+      {
+        "do": "सवारीमा प्राथमिक उपचार किट सधैं साथमा राख्नुहोस्।",
+        "do_not": "घाइतेलाई उपचार नगरी छोड्नुहोस्।",
+        "special_cases": "गम्भीर चोटपटक भएमा तुरुन्तै अस्पताल वा एम्बुलेन्समा सम्पर्क गर्नुहोस्।"
+      },
+      {
+        "do": "सडकमा दुर्घटना देख्दा सकेसम्म प्राथमिक उपचार दिनुहोस्।",
+        "do_not": "अनुभव नभएको औषधि वा उपकरण प्रयोग नगर्नुहोस्।",
+        "special_cases": "प्राथमिक उपचार सम्बन्धी तालिम लिनुहोस्।"
+      }
+    ]},
+    {"category": "नियम उल्लंघन गर्दा जरिवाना र सजाय", "content": [
+      {
+        "do": "सवारी नियमको पालना गर्नुहोस् र जरिवाना वा कारबाहीबाट जोगिनुहोस्।",
+        "do_not": "ट्राफिक नियम उल्लंघन गर्दा जरिवाना तिर्नबाट बच्न प्रयास नगर्नुहोस्।",
+        "special_cases": "जरिवाना तिर्नु परेमा सरकारी रसिद लिनुहोस् र अनधिकृत व्यक्तिलाई पैसा नदिनुहोस्।"
+      },
+      {
+        "do": "सवारी कागजात सधैं साथमा राख्नुहोस्।",
+        "do_not": "कागजात बिना सवारी चलाउँदा थप कारबाही हुन सक्छ।",
+        "special_cases": "दोस्रोपटक नियम उल्लंघन गर्दा गम्भीर कारबाही हुन सक्छ।"
+      }
+    ]},
+    {"category": "स्पेयर पार्ट्स र तिनीहरूको प्रयोग", "content": [
+      {
+        "do": "सवारीका सबै स्पेयर पार्ट्स (टायर, बल्ब, फ्युज, चाबी आदि) को अवस्था नियमित रूपमा जाँच गर्नुहोस्।",
+        "do_not": "खराब वा म्याद सकिएका पार्ट्स प्रयोग नगर्नुहोस्।",
+        "special_cases": "लामो यात्रा अघि आवश्यक स्पेयर पार्ट्स साथमा राख्नुहोस्।"
+      },
+      {
+        "do": "स्पेयर पार्ट्सको प्रयोग र मर्मत सम्बन्धी जानकारी राख्नुहोस्।",
+        "do_not": "अनधिकृत वा नक्कली पार्ट्स जडान नगर्नुहोस्।",
+        "special_cases": "नयाँ पार्ट्स जडान गर्दा प्राविधिक सल्लाह लिनुहोस्।"
+      }
+    ]}
+  ]
+}

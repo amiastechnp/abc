@@ -1,0 +1,82 @@
+{
+  "english": {
+    "license_steps": [
+      "Fill out the online application form",
+      "Visit the transport office with your documents and pay the application fee",
+      "Submit biometrics and take examination date",
+      "Give written exam (Likhit)",
+      "Take your trial exam (Practical Driving Test)",
+      "Once your license is printed and ready, pay the fee and collect it"
+    ],
+    "registration_process": {
+      "online": [
+        "Login to the DOTM portal: https://applydlnew.dotm.gov.np/login",
+        "Sign in using your mobile number, verify profile, address, and identity",
+        "Click on 'Apply for New Driving License'",
+        "Agree to the Terms and Conditions",
+        "Select the Category (Choose your Vehicle)",
+        "Select the Province and nearest Transport Office",
+        "Select the desired appointment date",
+        "Confirm your details and complete the payment",
+        "Download and print the payment voucher and application form"
+      ],
+      "in_person": [
+        "Visit the selected transport office on your appointment date",
+        "Stick a Rs 10 stamp/ticket, attach a passport-size photo, and sign the form",
+        "Submit your documents and biometrics",
+        "Pay the application and medical fees at the office",
+        "Take the written exam",
+        "Take the trial exam",
+        "Collect your license after it is printed"
+      ]
+    },
+    "required_documents": [
+      "Printed and signed application form",
+      "Passport-size photo",
+      "Citizenship (original and copy)",
+      "Blood group card (can be taken inside office)",
+      "Stamp Ticket (worth Rs. 10)",
+      "Payment receipts (written fee Rs. 500, medical fee Rs. 95)"
+    ]
+  },
+  "nepali": {
+    "license_steps": [
+      "अनलाइन आवेदन फारम भर्नुहोस्",
+      "आवश्यक कागजात लिएर यातायात कार्यालयमा जानुहोस् र आवेदन शुल्क तिर्नुहोस्",
+      "बायोमेट्रिक्स बुझाउनुहोस् र परीक्षा मिति लिनुहोस्",
+      "लिखित परीक्षा (लिखित) दिनुहोस्",
+      "ट्रायल परीक्षा (व्यावहारिक सवारी परीक्षा) दिनुहोस्",
+      "लाइसेन्स छापिएपछि शुल्क तिरेर संकलन गर्नुहोस्"
+    ],
+    "registration_process": {
+      "online": [
+        "DOTM पोर्टलमा लगइन गर्नुहोस्: https://applydlnew.dotm.gov.np/login",
+        "मोबाइल नम्बर प्रयोग गरी लगइन गर्नुहोस्, प्रोफाइल, ठेगाना र परिचय प्रमाणित गर्नुहोस्",
+        "'Apply for New Driving License' मा क्लिक गर्नुहोस्",
+        "Terms and Conditions स्वीकार गर्नुहोस्",
+        "श्रेणी (सवारी साधन) छान्नुहोस्",
+        "प्रदेश र नजिकको यातायात कार्यालय छान्नुहोस्",
+        "अपोइन्टमेन्ट मिति छान्नुहोस्",
+        "विवरण पुष्टि गरी भुक्तानी प्रक्रिया पूरा गर्नुहोस्",
+        "भुक्तानी भौचर र आवेदन फारम डाउनलोड तथा प्रिन्ट गर्नुहोस्"
+      ],
+      "in_person": [
+        "अपोइन्टमेन्ट मितिमा छानिएको यातायात कार्यालयमा जानुहोस्",
+        "रु. १० को टिकट टाँस्नुहोस्, पासपोर्ट साइज फोटो टाँस्नुहोस्, फारममा हस्ताक्षर गर्नुहोस्",
+        "कागजात र बायोमेट्रिक्स बुझाउनुहोस्",
+        "कार्यालयमा आवेदन र स्वास्थ्य परीक्षण शुल्क तिर्नुहोस्",
+        "लिखित परीक्षा दिनुहोस्",
+        "ट्रायल परीक्षा दिनुहोस्",
+        "लाइसेन्स छापिएपछि संकलन गर्नुहोस्"
+      ]
+    },
+    "required_documents": [
+      "प्रिन्ट गरिएको र हस्ताक्षर गरिएको आवेदन फारम",
+      "पासपोर्ट साइज फोटो",
+      "नागरिकता (मूल र प्रतिलिपि)",
+      "रक्त समूह कार्ड (कार्यालयमै लिन सकिन्छ)",
+      "रु. १० को टिकट",
+      "भुक्तानी रसिद (लिखित शुल्क रु. ५००, स्वास्थ्य परीक्षण शुल्क रु. ९५)"
+    ]
+  }
+}

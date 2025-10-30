@@ -1,0 +1,206 @@
+{
+  "english": [
+    {
+      "question": "What documents should I always keep in my vehicle?",
+      "answer": "You should always keep your driving license, vehicle registration, insurance certificate, pollution certificate, and tax payment receipt in your vehicle."
+    },
+    {
+      "question": "What should I do if my vehicle is towed or impounded?",
+      "answer": "Visit the nearest traffic police office with your documents. Pay any fines if required and follow the instructions to retrieve your vehicle."
+    },
+    {
+      "question": "How do I report a lost or stolen license or registration?",
+      "answer": "File a police report at your local station and notify the Department of Transport Management. Apply for a duplicate license or registration as instructed."
+    },
+    {
+      "question": "What is the process for transferring vehicle ownership?",
+      "answer": "Both buyer and seller must visit the Transport Management Office with necessary documents (IDs, original registration, tax receipts, etc.) and submit a transfer application."
+    },
+    {
+      "question": "How can I check my vehicle’s tax payment status?",
+      "answer": "You can check your vehicle’s tax status at the Transport Management Office or via their official online services if available."
+    },
+    {
+      "question": "What should I do after a minor road accident?",
+      "answer": "Move your vehicle to a safe place if possible, exchange information with the other party, take photographs, and report to the nearest traffic police if necessary."
+    },
+    {
+      "question": "Is it mandatory to wear a seatbelt in the back seat?",
+      "answer": "Yes, all passengers including those in the back seat must wear seatbelts as per traffic regulations."
+    },
+    {
+      "question": "Can I drive another person’s vehicle with my license?",
+      "answer": "Yes, as long as the vehicle is registered, insured, and you have the appropriate license category. Always carry your license and the vehicle’s documents."
+    },
+    {
+      "question": "What should I do if I receive a traffic fine?",
+      "answer": "Pay the fine at the designated bank or office, keep the receipt, and resolve any outstanding issues before driving again."
+    },
+    {
+      "question": "What are the basic insurance requirements for vehicles in Nepal?",
+      "answer": "At minimum, third-party insurance is mandatory for all vehicles. Comprehensive insurance is optional but recommended."
+    },
+    {
+      "question": "How can I check if my vehicle is blacklisted or has any legal issues?",
+      "answer": "Visit the Transport Management Office or check their online portal for any notices or blacklisting information related to your vehicle."
+    },
+    {
+      "question": "What should I do if I am involved in a road accident abroad?",
+      "answer": "Ensure safety first, call local emergency services, exchange information with other parties, document the scene, and contact your insurance provider and embassy if needed."
+    },
+    {
+      "question": "What are the general requirements for renting a car in another country?",
+      "answer": "You generally need a valid driving license, a credit card, and sometimes an International Driving Permit (IDP). Age restrictions and insurance requirements may apply."
+    },
+    {
+      "question": "What is an International Driving Permit (IDP) and when do I need it?",
+      "answer": "An IDP translates your home license into multiple languages and is required in many countries for tourists to legally drive. Always check the destination’s requirements before traveling."
+    },
+    {
+      "question": "How do I file an insurance claim after an accident?",
+      "answer": "Contact your insurance provider as soon as possible, provide all required documents (accident report, photos, police report), and follow their claim process."
+    },
+    {
+      "question": "What should I check before driving a rental vehicle?",
+      "answer": "Inspect the vehicle for damage, check fluid levels, tire pressure, lights, and ensure you understand the controls and local traffic rules."
+    },
+    {
+      "question": "What are the most common traffic violations worldwide?",
+      "answer": "Speeding, running red lights, drunk driving, distracted driving (mobile use), and not wearing seatbelts are among the most common violations."
+    },
+    {
+      "question": "What are the basic rules for child safety in vehicles?",
+      "answer": "Children should be secured in appropriate car seats or booster seats according to their age and size, and never left unattended in a vehicle."
+    },
+    {
+      "question": "How do I handle a vehicle breakdown on the highway?",
+      "answer": "Move to a safe location, turn on hazard lights, use warning triangles, stay away from traffic, and call for roadside assistance."
+    },
+    {
+      "question": "What is the importance of vehicle recalls and how do I check for them?",
+      "answer": "Vehicle recalls address safety or performance defects. Check your manufacturer’s website or local transport authority for recall notices using your vehicle’s VIN."
+    },
+    {
+      "question": "What should I do if stopped by police in a foreign country?",
+      "answer": "Remain calm, provide requested documents, follow instructions, and contact your embassy if you feel your rights are being violated."
+    },
+    {
+      "question": "What are the general environmental responsibilities of drivers worldwide?",
+      "answer": "Maintain your vehicle, avoid unnecessary idling, dispose of waste properly, and follow local emission and pollution rules."
+    },
+    {
+      "question": "How can I reduce fuel consumption and drive efficiently?",
+      "answer": "Drive smoothly, maintain steady speeds, keep tires properly inflated, reduce excess weight, and service your vehicle regularly."
+    },
+    {
+      "question": "What documents are usually required at international borders when driving?",
+      "answer": "You may need your driving license, passport, vehicle registration, insurance (including international or green card), and sometimes an IDP."
+    },
+    {
+      "question": "What should I know about toll roads and electronic toll systems?",
+      "answer": "Research toll payment methods in advance (cash, card, electronic tags), keep receipts, and follow local signage and speed limits at toll plazas."
+    }
+  ],
+  "nepali": [
+    {
+      "question": "सधैं सवारीमा कुन-कुन कागजात राख्नुपर्छ?",
+      "answer": "सधैं सवारी चालक अनुमतिपत्र, सवारी दर्ता, बीमा प्रमाणपत्र, प्रदूषण प्रमाणपत्र र कर तिरेको रसिद सँगै राख्नुपर्छ।"
+    },
+    {
+      "question": "सवारी तानेर लगियो वा जफत गरियो भने के गर्ने?",
+      "answer": "नजिकको ट्राफिक प्रहरी कार्यालयमा जानुहोस्, आवश्यक कागजात देखाउनुहोस्, जरिवाना तिर्नु परे तिर्नुहोस् र सवारी फिर्ता लिन प्रक्रिया पूरा गर्नुहोस्।"
+    },
+    {
+      "question": "अनुमतिपत्र वा दर्ता हरायो वा चोरी भयो भने के गर्ने?",
+      "answer": "नजिकको प्रहरी चौकीमा उजुरी दिनुहोस् र यातायात कार्यालयमा जानकारी गराउनुहोस्। नयाँ वा डुप्लिकेट अनुमतिपत्र/दर्ताका लागि निवेदन दिनुहोस्।"
+    },
+    {
+      "question": "सवारी स्वामित्व परिवर्तन प्रक्रिया के हो?",
+      "answer": "किन्ने र बेच्ने दुबैजना यातायात कार्यालयमा आवश्यक कागजात (पहिचान पत्र, दर्ता, कर रसिद आदि) लिएर जानुहोस् र स्वामित्व परिवर्तनको लागि निवेदन दिनुहोस्।"
+    },
+    {
+      "question": "सवारी कर तिरेको छ/छैन कसरी थाहा पाउने?",
+      "answer": "यातायात कार्यालयमा वा अनलाइन सेवा भएमा त्यहाँबाट सवारी करको स्थिति जाँच गर्न सकिन्छ।"
+    },
+    {
+      "question": "सानो सडक दुर्घटना भएमा के गर्ने?",
+      "answer": "सवारीलाई सुरक्षित स्थानमा सार्नुहोस्, अर्को पक्षसँग जानकारी साटासाट गर्नुहोस्, फोटो खिच्नुहोस् र आवश्यक परे नजिकको ट्राफिक प्रहरीलाई जानकारी दिनुहोस्।"
+    },
+    {
+      "question": "पछाडि सिटमा पनि सिटबेल्ट अनिवार्य हो?",
+      "answer": "हो, पछाडि सिटमा बसेका यात्रु समेत सबैले सिटबेल्ट लगाउन अनिवार्य छ।"
+    },
+    {
+      "question": "अरूको सवारी चलाउन पाइन्छ?",
+      "answer": "सवारी दर्ता, बीमा भएको र तपाईँसँग सोही वर्गको अनुमतिपत्र भएमा चलाउन पाइन्छ। सधैं अनुमतिपत्र र सवारीका कागजात साथमा राख्नुहोस्।"
+    },
+    {
+      "question": "ट्राफिक जरिवाना तिर्नु परे के गर्ने?",
+      "answer": "निर्धारित बैंक वा कार्यालयमा जरिवाना तिर्नुहोस्, रसिद सुरक्षित राख्नुहोस्, बाँकी समस्या भए समाधान गरेर मात्र सवारी चलाउनुहोस्।"
+    },
+    {
+      "question": "नेपालमा सवारीका लागि न्यूनतम बीमा के अनिवार्य छ?",
+      "answer": "कम्तीमा तेस्रो पक्ष बीमा अनिवार्य छ। अन्य बीमा (कम्प्रिहेन्सिभ) वैकल्पिक भए पनि सिफारिस गरिन्छ।"
+    },
+    {
+      "question": "मेरो सवारी ब्ल्याकलिस्टमा छ/छैन कसरी थाहा पाउने?",
+      "answer": "यातायात कार्यालयमा वा अनलाइन पोर्टलमा गएर आफ्नो सवारीको स्थिति वा सूचना जाँच गर्न सकिन्छ।"
+    },
+    {
+      "question": "विदेशमा सडक दुर्घटनामा परे के गर्ने?",
+      "answer": "पहिले आफ्नो सुरक्षा सुनिश्चित गर्नुहोस्, स्थानीय आपतकालीन सेवामा सम्पर्क गर्नुहोस्, अन्य पक्षसँग जानकारी साट्नुहोस्, दृश्यको फोटो खिच्नुहोस्, बीमा कम्पनी र आवश्यक परे दूतावासलाई जानकारी दिनुहोस्।"
+    },
+    {
+      "question": "अरू देशमा सवारी भाडामा लिनका लागि के आवश्यक पर्छ?",
+      "answer": "वैध चालक अनुमतिपत्र, क्रेडिट कार्ड र कहिलेकाहीँ अन्तर्राष्ट्रिय चालक अनुमतिपत्र (IDP) आवश्यक पर्छ। उमेर सीमा र बीमा अनिवार्य हुन सक्छ।"
+    },
+    {
+      "question": "अन्तर्राष्ट्रिय चालक अनुमतिपत्र (IDP) के हो र कहिले चाहिन्छ?",
+      "answer": "IDP ले तपाईंको अनुमतिपत्रलाई विभिन्न भाषामा अनुवाद गर्छ र धेरै देशमा पर्यटकका लागि अनिवार्य हुन्छ। यात्रा अघि गन्तव्य देशको नियम जाँच गर्नुहोस्।"
+    },
+    {
+      "question": "दुर्घटनापछि बीमा दाबी कसरी गर्ने?",
+      "answer": "बीमा कम्पनीलाई सकेसम्म चाँडो सम्पर्क गर्नुहोस्, आवश्यक कागजात (दुर्घटना विवरण, फोटो, प्रहरी रिपोर्ट) पेश गर्नुहोस् र प्रक्रिया पूरा गर्नुहोस्।"
+    },
+    {
+      "question": "भाडामा लिएको सवारी चलाउनुअघि के-के जाँच गर्ने?",
+      "answer": "सवारीमा क्षति छ/छैन जाँच गर्नुहोस्, फोहोर, तेल, टायर, बत्ती, नियन्त्रण प्रणाली बुझ्नुहोस् र स्थानीय ट्राफिक नियम थाहा पाउनुहोस्।"
+    },
+    {
+      "question": "विश्वभरि सबैभन्दा बढी हुने ट्राफिक नियम उल्लंघन के-के हुन्?",
+      "answer": "तीव्र गति, रातो बत्तीमा जानु, मादक पदार्थ सेवन गरी सवारी चलाउनु, मोबाइल चलाउँदै सवारी चलाउनु, सिटबेल्ट नलगाउनु आदि।"
+    },
+    {
+      "question": "बालबालिकाको सुरक्षाका लागि के-के ध्यान दिनुपर्छ?",
+      "answer": "बालबालिकालाई उमेर र तौल अनुसारको सिटमा राख्नुहोस्, कहिल्यै सवारीमा एक्लै नछोड्नुहोस्।"
+    },
+    {
+      "question": "हाइवेमा सवारी बिग्रिएमा के गर्ने?",
+      "answer": "सवारीलाई सुरक्षित स्थानमा सार्नुहोस्, हाजार्ड बत्ती बाल्नुहोस्, चेतावनी त्रिकोण राख्नुहोस्, ट्राफिकबाट टाढा बस्नुहोस् र सहायता माग्नुहोस्।"
+    },
+    {
+      "question": "सवारी रिकोल (recall) के हो र कसरी जाँच गर्ने?",
+      "answer": "सवारीमा सुरक्षा वा प्राविधिक समस्या देखिएमा निर्माता वा यातायात कार्यालयको वेबसाइटमा गएर सवारीको VIN नम्बरबाट जानकारी लिनुहोस्।"
+    },
+    {
+      "question": "विदेशमा प्रहरीले रोकेमा के गर्ने?",
+      "answer": "शान्त रहनुहोस्, मागिएको कागजात देखाउनुहोस्, निर्देशन पालना गर्नुहोस्, अधिकार उल्लंघन भयो जस्तो लागे दूतावासमा सम्पर्क गर्नुहोस्।"
+    },
+    {
+      "question": "विश्वभरि चालकका वातावरणीय जिम्मेवारी के-के हुन्?",
+      "answer": "सवारी मर्मत गर्नुहोस्, अनावश्यक इन्जिन स्टार्ट नगर्नुहोस्, फोहोर उचित स्थानमा फाल्नुहोस्, प्रदूषण र उत्सर्जन नियम पालना गर्नुहोस्।"
+    },
+    {
+      "question": "इन्धन बचत र कुशल सवारीका लागि के गर्ने?",
+      "answer": "मधुरो र स्थिर गति अपनाउनुहोस्, टायरको हावा मिलाउनुहोस्, अनावश्यक सामान नबोक्नुहोस्, सवारी नियमित मर्मत गर्नुहोस्।"
+    },
+    {
+      "question": "अन्तर्राष्ट्रिय बोर्डरमा सवारी चलाउँदा कुन कागजात चाहिन्छ?",
+      "answer": "चालक अनुमतिपत्र, राहदानी, सवारी दर्ता, बीमा (अन्तर्राष्ट्रिय वा ग्रीन कार्ड) र कहिलेकाहीँ IDP आवश्यक पर्छ।"
+    },
+    {
+      "question": "टोल सडक र इलेक्ट्रोनिक टोल प्रणाली के हो?",
+      "answer": "टोल तिर्ने तरिका (नगद, कार्ड, इ-ट्याग) पहिल्यै बुझ्नुहोस्, रसिद राख्नुहोस्, टोल क्षेत्रमा साइनबोर्ड र गति सीमा पालना गर्नुहोस्।"
+    }
+  ]
+}
